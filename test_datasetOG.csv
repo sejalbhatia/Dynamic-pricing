@@ -1,0 +1,2279 @@
+id,name,cost_price,selling_price,variant,stock,manufacture_date,expiry_date,best_before_months,expiry_in_months
+0,Shampoo,179,189, 340 ml,230,11-10-2020,12-10-2021,9,3
+1,Body_Wash,200,360, 800 ml,491,12-10-2020,13-10-2022,24,9
+2,Oil,167,180, 1 L,783,13-10-2020,14-10-2021,9,2
+3,Besan,19,64, 500 g,793,14-10-2020,15-10-2021,6,1
+4,Colgate,75,99, 10 g,817,15-10-2020,16-10-2022,24,3
+5,Ghee,51,55, 100 ml Carton,859,16-10-2020,17-05-2021,6,2
+6,Salt,9,21, 1 kg,703,17-10-2020,18-05-2021,6,3
+7,Shampoo,500,799, 1 L,645,18-10-2020,19-10-2022,24,9
+8, Maggi,133,144, 12x70 g,984,19-10-2020,20-10-2021,9,4
+9,Atta,20,57, 1 kg,990,20-10-2020,21-05-2021,6,3
+10,Almonds,100,149, 100 g,375,21-10-2020,22-10-2021,10,4
+11,Shave Lotion,242,269, 100 ml,716,22-10-2020,23-10-2022,24,3
+12,Soyabean Oil Pouch,175,200, 1 L,576,23-10-2020,24-05-2021,6,1
+13,Toast,36,40, 273 g,840,24-10-2020,25-01-2021,2,1
+14, Ghadi Detergent Bar,15,40, 5x160 g,146,25-10-2020,26-10-2021,9,6
+15, NIVEA Men Sensitive After Shave Lotion,224,249, 100 ml,228,26-10-2020,27-10-2022,24,13
+16, DETTOL Original Liquid Hand Wash Refill Pouch,103,109, 0.75 L,237,27-10-2020,28-10-2021,12,3
+17, Vim Dishwash Bar,15,40, 3x200 g,982,28-10-2020,29-10-2022,24,2
+18,Tea Powder,50,96,126, 250 g Box,29-10-2020,30-04-2021,5,3
+19, DOVE Daily Shine Conditioner,161,190, 180 ml,595,30-10-2020,31-10-2022,15,5
+20, Kaju Cashews,90,149, 80 g,718,31-10-2020,01-03-2021,3,1
+21, Ghadi Detergent Powder 3 kg,151,168, 3 kg,102,01-11-2020,02-11-2022,24,14
+22, Rin Detergent Bar,44,64, 4x250 g,159,02-11-2020,03-11-2021,10,2
+23, Ariel Matic Top Load Detergent Powder 2 kg,300,449, 2 kg,681,03-11-2020,04-11-2022,24,16
+24, Fortune Kachi Ghani Mustard Oil Pouch,180,220, 1 L,652,04-11-2020,05-11-2021,6,3
+25, Almonds,337,599, 500 g,238,05-11-2020,06-04-2021,3,3
+26, Surf excel Easy Wash Detergent Powder 1.5 kg,157,177, 1.5 kg,576,06-11-2020,07-11-2022,24,14
+27, SUNSILK Hairfall Solution Shampoo,204,215, 340 ml,652,07-11-2020,08-11-2022,15,11
+28,Butter,190,235, 500 g,940,08-11-2020,09-04-2021,3,1
+29,Cookies with Crunchy Coconut,16,35, 75 g,603,09-11-2020,10-11-2021,7,6
+30,Californian Almonds,100,145, 100 g,637,10-11-2020,11-11-2021,9,2
+31, Glow & Lovely Advanced Multi Vitamin,159,213, 110 g,368,11-11-2020,12-11-2021,12,10
+32,Face Wash,55,65, 50 g,490,12-11-2020,13-11-2021,9,6
+33, Fortune Sunlite Refined Sunflower Oil Pouch,205,210, 1 L,925,13-11-2020,14-05-2021,3,1
+34, Toor Dal ,133,195, 1 kg,271,14-11-2020,15-11-2021,9,2
+35, DOVE Daily Shine Shampoo,464,580, 650 ml,389,15-11-2020,16-11-2022,24,17
+36, Fortune Rice Bran Oil Pouch,184,215, 1 L,906,16-11-2020,17-11-2021,12,6
+37, Uttam Sugar Sulphurfree Sugar,44,60, 1 kg Pouch,808,17-11-2020,18-11-2021,9,7
+38, Sunfeast Yippee Magic Masala Instant Noodles Vegetarian,74,93, 560 g,478,18-11-2020,19-11-2021,6,1
+39, Protinex Original,891,990, 750 g,692,19-11-2020,20-11-2021,12,8
+40, PARLE Premium Elaichi Rusk,36,45, 273 g,800,20-11-2020,21-11-2021,6,1
+41, OREO Choco Creme Biscuits,10,25, 46.3 g,118,21-11-2020,22-11-2021,9,2
+42, CONTINENTAL Xtra Instant Coffee,90,115, 50 g,607,22-11-2020,23-11-2021,9,5
+43, Glow & Lovely Advanced Multi Vitamin,160,213, 110 g,594,23-11-2020,24-11-2022,15,10
+44, Amul Pasteurised Salted Butter,18,48, 100 g,650,24-11-2020,25-05-2021,3,3
+45, Sunfeast Mom's Magic Cashew & Almonds Biscuits,81,105, 600 g,446,25-11-2020,26-11-2021,6,1
+46, Tata Q Spicy Vegetable Biryani 330 g,49,99, 330 g,378,26-11-2020,27-11-2021,10,4
+47, GILLETTE Fusion Cartridge,1827,2150, 10 Units,240,27-11-2020,28-11-2021,12,10
+48, PARLE G Gold Biscuits,88,125, 1 kg,847,28-11-2020,29-11-2021,6,3
+49, Fortune Xpert Pro Sugar Conscious Blended Oil Can,816,825, 5 L,907,29-11-2020,30-11-2021,3,1
+50, Kapiva Organic Sulphur Free Jaggery Powder Powder Jaggery,45,85, 500 g,711,30-11-2020,01-12-2021,2,2
+51, Lactogrow Nestle Nutritious Milk Drink,324,360, 400 g,1000,01-12-2020,02-12-2021,2,2
+52, Tata Agni Tea Pouch,245,300, 1 kg Pouch,346,02-12-2020,03-12-2021,9,5
+53, Real Masala Pomegranate,72,120, 1 L,977,03-12-2020,04-12-2021,5,2
+54, Cadbury Bournvita Inner Strength,381,410, 1 kg,899,04-12-2020,05-12-2021,9,4
+55, DOVE Oxygen Moisture Shampoo,275,290, 340 ml,374,05-12-2020,06-12-2022,24,10
+56, Harpic Power Plus Original Liquid Toilet Cleaner,200,258, 3x0.5 L,757,06-12-2020,07-12-2022,18,10
+57, KOHINOOR Royale Authentic Biryani Basmati Rice (Long Grain),115,189, 1 kg,579,07-12-2020,08-12-2021,9,2
+58, KOHINOOR Charminar Rice (Long Grain),299,549, 5 kg,411,08-12-2020,09-12-2021,9,3
+59, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,315,399, 1 kg,102,09-12-2020,10-12-2021,9,4
+60, Tide Plus Extra Power Jasmine and Rose Detergent Powder 4 kg,423,465, 4 kg,230,10-12-2020,11-12-2021,12,2
+61, Nutraj Gold Walnut Kernels (Akhrot Giri) Walnuts,301,435, 250 g,978,11-12-2020,12-12-2021,5,1
+62, EXO Touch & Shine Round Dishwash Bar,120,138, 2x0.7 kg,261,12-12-2020,13-12-2021,12,10
+63, MORTEIN Smart Mosquito Vaporiser Refill,134,149, 45 ml,328,13-12-2020,14-02-2021,2,2
+64, Gowardhan Classic Block Paneer,78,85, 200 g,571,14-12-2020,15-02-2021,2,1
+65, Tata Lite Iodized Salt,35,40, 1 kg,338,15-12-2020,16-12-2021,6,3
+66, PARLE G Original Gluco Biscuits,10,25, 110 g,235,16-12-2020,17-12-2021,6,3
+67, Hit Spray Flying Insect Killer Lime Fragrance 700ml,312,340, 700 ml,480,17-12-2020,18-12-2021,8,4
+68, BRITANNIA 50-50 Maska Chaska,10,30, 120 g,872,18-12-2020,19-12-2021,3,2
+69, INDIA GATE Sweet Indulgence Rice (Broken Grain),25,51, 1 kg,111,19-12-2020,20-12-2021,6,4
+70, Desi Choice Toor Dal (Split),126,150, 1 kg,976,20-12-2020,21-12-2021,6,5
+71, NIVEA Men Sensitive After Shave Lotion,224,249, 100 ml,408,21-12-2020,22-12-2022,18,11
+72, Flipkart Supermart Select Sooji/Rava,42,75, 1 kg,426,22-12-2020,23-12-2021,6,2
+73, BRITANNIA NutriChoice Digestive High Fibre Biscuits,143,169, 5x0.2 kg,547,23-12-2020,24-12-2021,3,2
+74, Shree Akshara Premium  Sona Masoori Rice (Steam),544,550, 10 kg,528,24-12-2020,25-12-2021,6,4
+75, Organic Tattva Sona Masoori Rice (Parboiled),467,550, 5 kg,231,25-12-2020,26-12-2021,6,5
+76, PATANJALI Cow's Ghee 1 L Box,500,565, 1 L Box,284,26-12-2020,27-12-2021,10,6
+77, Sreebhog Dalia Broken Wheat,21,35, 500 g,498,27-12-2020,28-12-2021,8,8
+78, BRITANNIA Marie Gold Biscuits,102,120, 5x200 g,149,28-12-2020,29-05-2021,3,1
+79, Pediasure Vanilla Delight Health Drink,914,975, 750 g,715,29-12-2020,30-12-2021,9,3
+80, Flipkart Supermart Home Essentials Disinfectant Original Liquid Toilet Cleaner,80,160, 1 L,554,30-12-2020,31-12-2021,12,1
+81, MTR Vermicelli 850 g,68,80, 850 g,645,31-12-2020,01-01-2022,10,2
+82, Nutraj Raisins (Kishmish) Raisins,174,299, 500 g,522,01-01-2021,02-01-2022,6,1
+83, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168, 1 L,112,02-01-2021,03-01-2022,12,2
+84, Sunfeast Dark Fantasy Choco Fills,93,120, 300 g,661,03-01-2021,04-01-2022,6,3
+85, Mr. White Detergent Powder 5 kg,364,450, 5 kg,297,04-01-2021,05-01-2024,18,4
+86, Red Label Natural Care Cardamom,300,390, Tulsi Tea Pouch,552,05-01-2021,06-01-2022,12,10
+87, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,917,06-01-2021,07-01-2022,8,8
+88, Vim Dish Cleaning Gel,22,45, 0.25 L,532,07-01-2021,08-01-2022,12,1
+89, MASTER COOK  - 700 ml Polypropylene Grocery Container,44,63, Blue,262,08-01-2021,09-01-2022,12,5
+90, Kellogg's Chocos,100,125, 250 g Pouch,991,09-01-2021,10-01-2022,6,4
+91, Glow & Lovely Natural Glow,100,138, 50 g,826,10-01-2021,11-01-2023,24,6
+92, Dukes Eclairs Chocolate Candy,72,160, 2x200 g,323,11-01-2021,12-01-2022,6,6
+93, Dalda Kachi Ghani Mustard Oil Plastic Bottle,184,250, 1 L,260,12-01-2021,13-01-2022,8,2
+94, Dukes Digestive,125,250, 10x100 g,554,13-01-2021,14-01-2022,6,4
+95, NIVEA Men Sensitive After Shave Lotion,224,249, 100 ml,207,14-01-2021,15-01-2023,18,3
+96, Fortune Soya Chunks,47,50, 200 g,115,15-01-2021,16-01-2022,6,4
+97, PARLE Aloo Bhujia,109,200, 750 g,826,16-01-2021,17-01-2022,8,8
+98, Saffola Classic Masala Oats,161,195, 500 g Pouch,238,17-01-2021,18-01-2022,8,4
+99, Hit Spray Crawling Insect Killer 700ml,312,340, 700 ml,327,18-01-2021,19-01-2022,12,6
+100, Malkist Cheese Crackers Family Pack,50,100, 2x138 g,351,19-01-2021,20-01-2022,10,4
+101, Tide Naturals Lemon and Chandan Detergent Powder 800 g,30,60, 800 g,194,20-01-2021,21-01-2023,24,2
+102, BRITANNIA Nice Time Coconut Biscuits,22,25, 150 g,136,21-01-2021,22-01-2022,6,1
+103, DOVE Intense Repair Shampoo,500,799, 1 L,314,22-01-2021,23-01-2023,18,10
+104, Sunfeast Bounce Tangy Orange Cream Biscuit,10,25, 80 g,874,23-01-2021,24-01-2022,3,3
+105, Ariel Complete Detergent Powder 4 kg,580,1160, 4 kg,964,24-01-2021,25-01-2023,18,12
+106, OREO Original Chocolatey Sandwich Biscuits,94,135, 500 g,301,25-01-2021,26-01-2022,6,4
+107, Glow & Lovely Advanced Multi Vitamin,190,213, 110 g,304,26-01-2021,27-01-2022,12,12
+108, safe harvest Red Chilli Long,60,120, 200 g,732,27-01-2021,28-01-2022,10,10
+109, DHAMPURE Sulphurless Sugar,261,315, 5 kg Pouch,414,28-01-2021,29-01-2022,10,4
+110, Kellogg's Original Corn Flakes,250,310, 875 g Pouch,828,29-01-2021,30-01-2022,9,8
+111, Ariel Matic Front Load Detergent Powder 4 kg,1092,1150, 4 kg,131,30-01-2021,31-01-2023,24,16
+112, Amul Pure Ghee 1 L Tetrapack,300,485, 1 L Tetrapack,434,31-01-2021,01-02-2022,6,3
+113, MOTHER'S RECIPE Rozaana Ginger Garlic Paste,109,219, 700 g,810,01-02-2021,02-02-2022,6,2
+114, Desi Choice Rajma Chithra (Whole),119,150, 1 kg,490,02-02-2021,03-02-2022,6,4
+115, GILLETTE Fusion Cartridge,1827,2150, 10 Units,112,03-02-2021,04-02-2022,12,7
+116, Gemini Refined Soyabean Oil Pouch,168,170, 1 L,208,04-02-2021,05-02-2022,9,7
+117, Real Masala Guava,63,105, 1 L,464,05-02-2021,06-02-2023,18,1
+118, Harpic 500 ml Lemon Bathroom Cleaner & 500 ml Power Plus Regular Liquid Toilet Cleaner,165,184, 2x0.5 L,608,06-02-2021,07-02-2023,18,2
+119, DOVE Daily Shine Shampoo,464,580, 650 ml,613,07-02-2021,08-02-2022,12,2
+120, Sooji/Bombay Rava,22,40, 500 g,873,08-02-2021,09-02-2022,9,5
+121, Cadbury Chocobakes Chocolate Cake,55,60, 126 g,790,09-02-2021,10-02-2022,9,4
+122, Maggi Pazzta Cheese Macaroni Pasta,10,28, 70 g,894,10-02-2021,11-02-2022,9,5
+123, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168, 1 L,396,11-02-2021,12-02-2022,12,2
+124, AADITYA 501 Turmeric Powder,85,150, 500 g,390,12-02-2021,13-02-2022,9,6
+125, Flipkart Supermart Select Refined Wheat Flour (Maida),23,40, 500 g,296,13-02-2021,14-02-2022,12,5
+126, DETTOL Disinfectant Lime Fresh Antiseptic Liquid,173,193, 500 ml,614,14-02-2021,15-02-2023,18,4
+127, GILLETTE Fusion Cartridge,1827,2150, 10 Units,199,15-02-2021,16-02-2023,18,5
+128, Ching's Secret Veg Hakka Noodles Vegetarian,27,30, 150 g,457,16-02-2021,17-02-2022,9,7
+129, Desi Choice Green Moong Dal (Split),126,200, 1 kg,332,17-02-2021,18-02-2022,9,6
+130, Knorr Sweet Corn Veg Cup-a-Soup,10,25, 10 g,320,18-02-2021,19-02-2022,6,4
+131, DOVE Intense Repair Conditioner,161,190, 175 ml,366,19-02-2021,20-02-2022,12,2
+132, Cadbury Bournvita Pro Health Vitamins,300,310, 750 g,514,20-02-2021,21-02-2022,9,1
+133, Sreebhog Phool Makhana,115,150, 100 g,533,21-02-2021,22-02-2022,6,3
+134, Parachute Pure Coconut Hair Oil,120,128, 300 ml,413,22-02-2021,23-02-2022,12,5
+135, Yardley London Gold Deodorant Spray  -  For Men,159,199, 150 ml,942,23-02-2021,24-02-2023,18,5
+136, Apis Royal Zahidi Premium Dates,207,230, 500 g,197,24-02-2021,25-02-2022,8,5
+137, Quaker Oats with Flavour Mix,39,49, 200 g Pouch,848,25-02-2021,26-02-2022,9,7
+138, INDIA GATE Regular Choice Basmati Rice,315,400, 5 kg,284,26-02-2021,27-02-2022,12,5
+139, SUNSILK Hairfall Solution Shampoo,204,215, 340 ml,411,27-02-2021,28-02-2023,18,6
+140, Kwality Crunchy Muesli Fruit N Nut,280,560, 1 kg Plastic Bottle,154,28-02-2021,01-03-2022,9,4
+141, Kissan Mixed Fruit Jam 200 g,30,68, 200 g,245,01-03-2021,02-03-2022,8,1
+142, Maggi Nutri-licious Atta Masala Instant Noodles Vegetarian,35,86, 290 g,803,02-03-2021,03-03-2022,8,3
+143, Glow & Lovely Advanced Multivitamin Face Cream,50,106, 50 g,678,03-03-2021,04-03-2022,12,5
+144, Boost Health,250,322,351, 750 g,04-03-2021,05-03-2022,9,6
+145, PARLE Monaco Salted Biscuits,10,25, 66.7 g,946,05-03-2021,06-03-2022,6,5
+146, Maaza Mango,60,70, 1.2 L,571,06-03-2021,07-03-2022,3,2
+147, Clinic Plus Strong & Thick Health Shampoo,179,189, 340 ml,525,07-03-2021,08-03-2022,12,5
+148, BRITANNIA Fruity Fun Cake,27,30, 120 g,975,08-03-2021,09-03-2022,3,2
+149, UNIBIC Choco Ripple Cookies,20,40, 100 g,824,09-03-2021,10-03-2022,3,2
+150, Fortune Besan,59,60, 500 g,470,10-03-2021,11-03-2022,9,2
+151, Protinex Tasty Chocolate Flavour,498,560, 400 g,946,11-03-2021,12-03-2022,8,6
+152, Harpic Bathroom Cleaner Liquid Lemon,75,95, 500 ml,350,12-03-2021,13-03-2022,9,5
+153, Odonil Multi Fragrance Blocks,133,147, 3x50 g,986,13-03-2021,14-03-2022,12,4
+154, Saffola Tasty Pro Fitness Conscious Blended Oil Pouch,180,193, 1 L,767,14-03-2021,15-03-2022,12,5
+155, Glow & Lovely Natural Glow,100,138, 50 g,438,15-03-2021,16-03-2022,6,3
+156, UNIBIC Fruit & Nut Cookies,22,25, 75 g,330,16-03-2021,17-03-2022,9,6
+157, Kwality Corn Flakes,29,50, 100 g Box,490,17-03-2021,18-03-2022,6,4
+158, Priyagold Italiano Cookies with Smoothness of Butter,20,35, 75 g,205,18-03-2021,19-03-2022,6,2
+159, Flipkart Supermart Detergent Powder 4 kg,288,352, 4 kg,686,19-03-2021,20-03-2023,18,1
+160, Tata Gold Care Tea Box,112,140, 250 g Box,997,20-03-2021,21-03-2022,9,3
+161, Minute Maid Pulpy Orange,25,35, 400 ml,989,21-03-2021,22-03-2022,6,5
+162, Tropicana Mixed Fruit Delight,82,110, 1 L,692,22-03-2021,23-03-2022,6,5
+163, Pediasure Vanilla Delight Health Drink,914,975, 750 g,500,23-03-2021,24-03-2022,6,5
+164, Flipkart Supermart Select Indian Raisins,52,80, 100 g,349,24-03-2021,25-03-2022,9,7
+165, Cadbury Dairy Milk Chocolate Bars,75,100, 130 g,280,25-03-2021,26-03-2022,8,5
+166, winkies Cafe Select,30,60, 120 g,998,26-03-2021,27-03-2022,6,6
+167, DOVE Intense Repair Shampoo,500,799, 1 L,382,27-03-2021,28-03-2022,12,4
+168, PEPSODENT Cavity Protection Toothpaste,115,128, 2x150 g,534,28-03-2021,29-03-2022,12,1
+169, Organic Tattva Powder Powder Jaggery,59,80, 500 g,260,29-03-2021,30-03-2022,9,3
+170, Desi Choice Roasted Chana,70,85, 500 g,937,30-03-2021,31-03-2022,8,5
+171, GILLETTE Fusion Cartridge,1827,2150, 10 Units,106,31-03-2021,01-04-2023,18,6
+172, Surf excel Matic Top Load Liquid Detergent,340,380, 2 L,695,01-04-2021,02-04-2023,18,5
+173, Daawat Rozana Super Basmati Rice (Medium Grain),309,390, 5 kg,467,02-04-2021,03-04-2022,9,3
+174, STAYFREE Secure Cottony XL Wings Sanitary Pad,209,220, 40 Units,200,03-04-2021,04-04-2022,24,5
+175, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,828,04-04-2021,05-04-2022,9,4
+176, Priyagold Italiano Cookies with Crunchy Chocochips,20,35, 75 g,648,05-04-2021,06-04-2022,6,5
+177, ACT II Party Pack Butter Delite Popcorn,108,120, 2x120 g,304,06-04-2021,07-04-2022,24,2
+178, Flipkart Supermart Select Fenugreek (Methi),34,47, 200 g,585,07-04-2021,08-04-2022,6,6
+179, DOVE Deeply Nourishing Body Wash,300,360, 800 ml,438,08-04-2021,09-04-2022,6,5
+180, Sugarlite 50% Less Calories Sugar,49,99, 500 g Pouch,302,09-04-2021,10-04-2022,24,4
+181, AASHIRVAAD Instant Mix - Gulab Jamun 500 g,110,220, 500 g,715,10-04-2021,11-04-2022,9,5
+182, AASHIRVAAD Atta with Multigrains,551,570, 10 kg,239,11-04-2021,12-04-2022,6,1
+183, Glow & Lovely Natural Glow,90,138, 50 g,481,12-04-2021,13-04-2022,10,6
+184, DETTOL Disinfectant Menthol Cool Antiseptic Liquid,176,196, 500 ml,285,13-04-2021,14-04-2022,24,4
+185, AASHIRVAAD Chilli,50,85,129,190,14-04-2021,15-04-2022,6,2
+186, BRITANNIA Treat Creme Roll Vanilla Croissants,12,15, 45 g,790,15-04-2021,16-04-2022,2,1
+187, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,300,399, 1 kg,990,16-04-2021,17-04-2022,9,3
+188, Cadbury Bournvita Inner Strength Formula,200,209, 500 g,267,17-04-2021,18-04-2022,24,5
+189, CINTHOL Lime Soap,229,270, 9x100 g,981,18-04-2021,19-04-2022,12,5
+190, Sunfeast Yumfills Cake,92,140, 253 g,211,19-04-2021,20-04-2022,24,5
+191, Hit Spray Flying Insect Killer 700ml,306,340, 700 ml,607,20-04-2021,21-04-2022,5,5
+192, zoff Clove,20,35, 25 g,149,21-04-2021,22-04-2022,15,5
+193, Tide Plus Extra Power Lemon and Mint,423,465, 4 kg,243,22-04-2021,23-04-2022,3,1
+194, Dukes Bourbon,50,90, 3x150 g,118,23-04-2021,24-04-2022,24,4
+195, Yardley London Gold Deodorant Spray  -  For Men,159,199, 150 ml,708,24-04-2021,25-04-2022,10,1
+196, Kwality Breakfast Cereals Combo,48,60, 120 g Pouch,262,25-04-2021,26-04-2022,24,3
+197, KOHINOOR Hyderabadi Biryani Masala,16,20, 15 g,283,26-04-2021,27-04-2022,6,5
+198, Tata Premium Anokha Swad Tea Pouch,408,470, 1 kg Pouch,609,27-04-2021,28-04-2022,3,1
+199, CINTHOL Original Soap,378,420, 12x100 g,638,28-04-2021,29-04-2022,24,5
+200, COMFORT After Wash Morning Fresh Fabric Conditioner,199,220, 860 ml,368,29-04-2021,30-04-2022,15,3
+201, sprite PET Bottle,80,90, 2 L, PET Bottle,30-04-2021,01-05-2022,3,2
+202, Regency Dried Cranberries,118,220, 200 g,864,01-05-2021,02-05-2022,7,3
+203, DOVE Daily Shine Conditioner,161,190, 180 ml,773,02-05-2021,03-05-2022,9,4
+204, PARLE Krack Jack Sweet & Salty Crackers,54,60, 400 g,180,03-05-2021,04-05-2022,12,6
+205, zoff Black Pepper,88,100, 100 g,792,04-05-2021,05-05-2022,9,4
+206, LIFEBUOY Total 10 Hand Wash Refill Hand Wash Pouch,100,199, 1.5 L,556,05-05-2021,06-05-2022,3,2
+207, SUNSILK Stunning Black Shine,400,469, 1 L,454,06-05-2021,07-05-2022,9,1
+208, Tide Detergent Bar Soap,75,100,170,170,07-05-2021,08-05-2022,24,10
+209, Surf excel Matic Front Load Liquid Detergent,370,415, 2 L,357,08-05-2021,09-05-2022,12,3
+210, Shree Akshara Premium Sona Masoori Rice (Raw),590,730, 10 kg,122,09-05-2021,10-05-2022,9,5
+211, SUNSILK Lusciously Thick & Long Shampoo,360,480, 650 ml,794,10-05-2021,11-05-2022,6,4
+212, EMAMI Healthy & Tasty Kachchi Ghani Mustard Oil Plastic Bottle,183,215, 1 L,945,11-05-2021,12-05-2022,12,12
+213, santoor Sandal & Turmeric Soap,246,300, 8x125 g,878,12-05-2021,13-05-2022,6,1
+214, Kellogg's Choco Moon and Stars,380,640, 1.2 kg Pouch,602,13-05-2021,14-05-2022,9,4
+215, DOVE Intense Repair Shampoo,500,799, 1 L,821,14-05-2021,15-05-2022,9,8
+216, Flipkart Supermart Select Phool Makhana,153,168, 100 g,462,15-05-2021,16-05-2022,15,10
+217, Regency Apricots,122,195, 200 g,401,16-05-2021,17-05-2022,3,3
+218, BRITANNIA Good Day Cashew Cookies,172,230, 10x100 g,673,17-05-2021,18-05-2022,6,2
+219, Nyle Refreshing Facial Sheet Mask,96,125, 25 ml,328,18-05-2021,19-05-2022,10,4
+220, Maggi Hot & Sweet Tomato Chilli Sauce Sauce,148,165, 1 kg Glass Bottle,217,19-05-2021,20-05-2022,12,7
+221, Rin Lemon and Rose Detergent Powder 4 kg,297,338, 4 kg,896,20-05-2021,21-05-2022,6,6
+222, Molsi's Broken 4 Pieces Cashews,367,425, 500 g,300,21-05-2021,22-05-2022,3,1
+223, CINTHOL Lime Soap,229,270, 9x100 g,485,22-05-2021,23-05-2022,2,2
+224, Real Fruit Juice - Apple,92,105, 1 L,669,23-05-2021,24-05-2022,2,2
+225, Flipkart Supermart Home Essentials Disinfectant Surface Cleaner Lemon,165,330, 2 L,204,24-05-2021,25-05-2022,9,5
+226, Kamasutra Spark Power series Body Spray  -  For Men & Women,105,210, 135 ml,891,25-05-2021,26-05-2022,5,4
+227, Lipton Honey,450,517,575, 100 Bags Box,26-05-2021,27-05-2022,9,5
+228, Flipkart Supermart Select Rice Flour,26,40, 500 g,152,27-05-2021,28-05-2022,24,2
+229, Lay's India's Magic Masala Chips,80,85, 190 g,313,28-05-2021,29-05-2022,18,6
+230, Farmley Popular California Almonds,667,1250, 1 kg,317,29-05-2021,30-05-2022,9,5
+231, Flipkart Supermart Front Load Matic Detergent Powder 2 kg,299,499, 2 kg,289,30-05-2021,31-05-2022,9,4
+232, Horlicks Women's Plus Calseal Formula - Caramel Flavour,275,299, 400 g,453,31-05-2021,01-06-2022,9,5
+233, B Natural Orange - Juice,71,110, 1 L,441,01-06-2021,02-06-2022,12,7
+234, PATANJALI Whole Wheat Atta,250,340, 10 kg,962,02-06-2021,03-06-2022,5,1
+235, BRITANNIA Processed cheese Slices,147,155, 200 g,577,03-06-2021,04-06-2022,12,4
+236, Saffola Veggie Twist Masala Oats,161,195, 500 g Pouch,982,04-06-2021,05-06-2022,2,2
+237, Pepsi Plastic Bottle,63,75, 1.5 L, Plastic Bottle,05-06-2021,06-06-2022,2,1
+238, DETTOL Disinfectant Lime Fresh Antiseptic Liquid,312,347, 1 L,103,06-06-2021,07-06-2022,6,3
+239, DOVE Hair Fall Rescue Shampoo,242,255, 340 ml,487,07-06-2021,08-06-2022,6,5
+240, SUNSILK Stunning Black Shine,400,469, 1 L,431,08-06-2021,09-06-2022,8,5
+241, colin Glass Cleaner,139,159, 1 L,254,09-06-2021,10-06-2022,3,2
+242, LIZOL Disinfectant Surface Cleaner Citrus,50,93, 500 ml,645,10-06-2021,11-06-2022,6,3
+243, Glow & Lovely Natural Glow,100,138, 50 g,870,11-06-2021,12-06-2022,6,5
+244, Parachute Advansed Gold Coconut  Hair Oil,182,215, 400 ml,356,12-06-2021,13-06-2022,18,6
+245, Saffola 100% Pure Honey,313,430, 1 kg,548,13-06-2021,14-06-2022,6,4
+246, Flipkart Supermart Select Cardamom (Elaichi Green),191,300, 50 g,856,14-06-2021,15-06-2022,3,1
+247, Glow & Lovely Advanced Multivitamin Face Cream,90,106, 50 g,482,15-06-2021,16-06-2022,6,3
+248, Glow & Lovely Advanced Multi Vitamin,150,213, 110 g,644,16-06-2021,17-06-2022,6,5
+249, Flipkart Supermart Home Essentials Jasmine,40,80, 100 Units,621,17-06-2021,18-06-2022,10,6
+250, Taj Mahal Tea Box,100,150, 250 g Box,978,18-06-2021,19-06-2022,8,5
+251, Lactogrow Nestle Nutritious Milk Drink,324,360, 400 g,580,19-06-2021,20-06-2022,3,3
+252, MOTHER DAIRY Pure Healthy Cow Ghee 1 L Pouch,529,550, 1 L Pouch,443,20-06-2021,21-06-2022,9,4
+253, Flipkart Supermart Select Red Masoor Dal (Whole),116,150, 1 kg,207,21-06-2021,22-06-2022,12,8
+254, UNITY Biryani Basmati Rice (Long Grain),109,170, 1 kg,482,22-06-2021,23-06-2022,10,4
+255, DOVE Intense Repair Shampoo,500,799, 1 L,427,23-06-2021,24-06-2022,6,6
+256, Desi Choice Chakki Atta,141,180, 5 kg,404,24-06-2021,25-06-2022,12,4
+257, Desi Choice Raw Peanut (Whole),84,100, 500 g,729,25-06-2021,26-06-2022,6,2
+258, Tide Plus Jasmine and Rose Detergent Powder 1 kg,68,100, 1 kg,150,26-06-2021,27-06-2022,18,1
+259, CINTHOL Original Soap,378,420, 12x100 g,595,27-06-2021,28-06-2022,12,10
+260, Tulsi Dry Figs,367,440, 300 g,397,28-06-2021,29-06-2022,8,3
+261, BRITANNIA Good Day Chocochip Biscuits,90,120, 4x100 g,433,29-06-2021,30-06-2022,12,12
+262, PARLE BakeSmith The English Marie,30,60, 250 g,979,30-06-2021,01-07-2022,12,4
+263, Yardley London Gentleman Classic Body Spray  -  For Men,500,799, 150 ml,277,01-07-2021,02-07-2022,6,4
+264, tetley Lemon,20,35,132,165,02-07-2021,03-07-2022,24,10
+265, Ching's Secret Chilli Vinegar,300,360, 170 ml,270,03-07-2021,04-07-2022,6,4
+266, VEEBA Truly Tomato Ketchup,90,138, 900 g Pouch,331,04-07-2021,05-07-2022,8,8
+267, Boost Health,300,399,351, 750 g,05-07-2021,06-07-2022,6,2
+268, Flipkart Supermart Select Red Masoor Dal (Split),200,209, 1 kg,789,06-07-2021,07-07-2022,18,3
+269, Hajmola Imli,20,35, 120 pieces,588,07-07-2021,08-07-2022,6,2
+270, Desi Choice Masoor Dal (Whole),50,90, 1 kg,609,08-07-2021,09-07-2022,8,4
+271, Hit Spray Crawling Insect Killer 700ml,100,199, 700 ml,984,09-07-2021,10-07-2022,8,7
+272, Desi Choice Peas (Whole),400,469, 1 kg,501,10-07-2021,11-07-2022,12,7
+273, PARLE Hide & Seek Chocolate Chip Cookies,500,799, 33 g,413,11-07-2021,12-07-2022,10,1
+274, COMPLAN Royale Chocolate,250,340, 750 g,444,12-07-2021,13-07-2022,24,2
+275, SUNSILK Lusciously Thick & Long Shampoo,400,469, 650 ml,314,13-07-2021,14-07-2022,6,2
+276, Milkfood Rich Desi Ghee 500 ml Carton,50,93, 500 ml Carton,737,14-07-2021,15-07-2022,18,5
+277, Priyagold Butter Delite Namkeen Biscuits,100,138, 400 g,703,15-07-2021,16-07-2022,3,2
+278, KALEVA Moong Dal,90,106, 2x120 g,911,16-07-2021,17-07-2022,18,5
+279, NIVEA Fresh Active Deodorant Roll-on  -  For Men,150,213, 50 ml,469,17-07-2021,18-07-2022,6,2
+280, MASTER COOK  - 500 ml Polypropylene Fridge Container,100,150, Pack of 2, Blue,18-07-2021,19-07-2022,12,6
+281, HIMALAYA Complete Care Toothpaste,500,799, 150 g,773,19-07-2021,20-07-2022,10,5
+282, Margo Neem Soap,68,100, 4x75 g,478,20-07-2021,21-07-2022,10,4
+283, Glow & Lovely Natural Glow,30,60, 50 g,787,21-07-2021,22-07-2022,9,5
+284, DETTOL Cool Germ Protection Bathing Soap,500,799, 4x75 g,568,22-07-2021,23-07-2022,24,7
+285, Bambino Pep Elbow Macaroni Pasta,20,35, 450 g,948,23-07-2021,24-07-2022,6,6
+286, Nestle Everyday Shahi Ghee 1 L Tetrapack,300,360, 1 L Tetrapack,459,24-07-2021,25-07-2022,6,4
+287, Glow & Lovely Advanced Multivitamin Face Cream,90,138, 50 g,275,25-07-2021,26-07-2022,6,2
+288, Tamil Ponni Boiled Rice (Boiled),300,399, 5 kg,170,26-07-2021,27-07-2022,12,1
+289, Savlon Herbal Sensitive Handwash Hand Wash Pouch,200,209, 750 ml,704,27-07-2021,28-07-2022,9,3
+290, Flipkart Supermart Select Medium Poha,20,35, 1 kg,781,28-07-2021,29-07-2022,18,5
+291, DOVE Daily Shine Shampoo,50,90, 340 ml,431,29-07-2021,30-07-2022,18,5
+292, Colgate Zigzag Medium Toothbrush,100,199, Pack of 6,439,30-07-2021,31-07-2022,12,5
+293, Cadbury Perk Home Treats Chocolate Bars,400,469, 173.7 g,897,31-07-2021,01-08-2022,9,7
+294, Everyuth Naturals Moisturising Fruit Face Wash,500,799, 100 g,806,01-08-2021,02-08-2022,9,5
+295, SUNSILK Lusciously Thick & Long Shampoo,250,340, 650 ml,975,02-08-2021,03-08-2022,9,6
+296, KURKURE Puffcorn Yummy Cheese,400,469, 55 g,107,03-08-2021,04-08-2022,12,4
+297, Happilo 100% Natural California Almonds,50,93, 500 g,890,04-08-2021,05-08-2022,9,1
+298, MiRiNDA Plastic Bottle,100,138, 1.5 L, Plastic Bottle,05-08-2021,06-08-2022,12,3
+299, MORTEIN Smart Mosquito Vaporiser Refill,90,106, 45 ml,433,06-08-2021,07-08-2022,18,5
+300, NUTRELA Soya Chunks,150,213, 200 g,803,07-08-2021,08-08-2022,18,6
+301, Kwality Choco Flakes,100,150, 1 kg Pouch,703,08-08-2021,09-08-2022,9,5
+302, Kiwi Mr. Muscle Dranex Powder Drain Opener,500,799, 50 g,243,09-08-2021,10-08-2022,9,3
+303, GILLETTE Venus Hair Removal Razor for Women,68,100, 1 Units ,732,10-08-2021,11-08-2022,6,4
+304, Hit Spray Crawling Insect Killer 700ml,30,60, 700 ml,804,11-08-2021,12-08-2022,12,8
+305, MTR Badam Drink Mix,215,250, 500 g,273,12-08-2021,13-08-2022,9,4
+306, Catch Garam Masala,68,78, 100 g,406,13-08-2021,14-08-2022,6,6
+307, DOVE Intense Repair Shampoo,30,60, 1 L,406,14-08-2021,15-08-2022,12,4
+308, LIZOL Disinfectant Floor Cleaner Refill Pack Floral,500,799, 1800 ml,306,15-08-2021,16-08-2022,18,2
+309, Paper boat Slurpy Mango Juicer Drink,20,35, 1 L,975,16-08-2021,17-08-2022,8,1
+310, Everyuth Naturals Tulsi Turmeric Face Wash,300,360, 150 g,905,17-08-2021,18-08-2022,9,9
+311, Lactogrow Nestle Nutritious Milk Drink,90,138, 400 g,436,18-08-2021,19-08-2022,12,3
+312, ORION Choco Pie Chocolate Coated Soft Biscuit,300,399, 336 g,139,19-08-2021,20-08-2022,18,12
+313, BRITANNIA Processed cheese Slices,200,209, 200 g,301,20-08-2021,21-08-2022,9,4
+314, Flipkart Supermart Select Californian Almonds,20,35, 100 g,754,21-08-2021,22-08-2022,8,6
+315, Boost Health,50,90,351, 750 g,22-08-2021,23-08-2022,8,7
+316, KOHINOOR Charminar Brown Rice,100,199, 1 kg,937,23-08-2021,24-08-2022,12,4
+317, Hit Spray Flying Insect Killer 700ml,400,469, 700 ml,798,24-08-2021,25-08-2022,9,8
+318, Good Knight Power Active Plus Liquid Mosquito Vaporiser Refill,500,799, 6x45 ml,417,25-08-2021,26-08-2022,6,6
+319, DOVE Deeply Nourishing Body Wash,250,340, 800 ml,310,26-08-2021,27-08-2022,3,3
+320, MAKINO Cheese Nachos,400,469, 3x60 g,146,27-08-2021,28-08-2022,12,2
+321, Thums Up PET Bottle,50,93, 750 ml, PET Bottle,28-08-2021,29-08-2022,3,2
+322, Too Yumm! Rings Tomato Twist Chips,100,138, 75 g,725,29-08-2021,30-08-2022,3,3
+323, DOVE Intense Repair Shampoo,90,106, 1 L,492,30-08-2021,31-08-2022,9,7
+324, Fortune Hamesha Basmati Rice (Broken Grain,150,213,425, 5 kg,31-08-2021,01-09-2022,8,1
+325, UNIBIC Cashew Cookies,100,150, 75 g,388,01-09-2021,02-09-2022,9,2
+326, WeiKFiELD Vanilla Flavour Custard Powder,500,799, 100 g,138,02-09-2021,03-09-2022,12,2
+327, Glow & Lovely Advanced Multivitamin Face Cream,68,100, 50 g,932,03-09-2021,04-09-2022,12,5
+328, INDIA GATE Mini Mogra Basmati Rice (Broken Grain),30,60, 10 kg,287,04-09-2021,05-09-2022,6,4
+329, EVEREST Tikhalal Chilli Powder,30,60, 500 g,128,05-09-2021,06-09-2022,9,5
+330, Karachi Bakery Pista Soan Papdi Mithai Box,500,799, 200 g,298,06-09-2021,07-09-2022,6,2
+331, HEAD & SHOULDERS Smooth & Silky Shampoo,20,35, 1 L,543,07-09-2021,08-09-2022,6,6
+332, Fortune Soya Chunks,300,360, 1 kg,835,08-09-2021,09-09-2022,18,5
+333, Heritage Super Dubar Basmati Rice (Medium Grain),90,138, 5 kg,949,09-09-2021,10-09-2022,9,4
+334, Kellogg's Chocos Combo Pack,300,399, 156 g,718,10-09-2021,11-09-2022,6,5
+335, MORTEIN Smart Mosquito Vaporiser Refill,200,209, 45 ml,456,11-09-2021,12-09-2022,6,2
+336, PATANJALI Gonyle Gomutra and herbs,20,35, 1 L,411,12-09-2021,13-09-2022,6,6
+337, zoff Dry Mango Powder (Aamchur),50,90, 50 g,170,13-09-2021,14-09-2022,9,4
+338, Real Fruit Juice Mixed,100,199, 1 L,393,14-09-2021,15-09-2022,8,2
+339, Glow & Lovely Advanced Multi Vitamin,400,469, 110 g,297,15-09-2021,16-09-2022,6,1
+340, Tata Sampann Yellow Moong Dal (Split),500,799, 1 kg,380,16-09-2021,17-09-2022,12,3
+341, Tata Sampann Garam Masala,250,340, 100 g,780,17-09-2021,18-09-2022,12,5
+342, DiSano Pastalicious Pasta,400,469, 500 g,896,18-09-2021,19-09-2022,9,5
+343, SUNSILK Stunning Black Shine,50,93, 1 L,296,19-09-2021,20-09-2022,8,5
+344, Navratna Cool Ayurvedic Hair Oil,100,138, 600 ml,828,20-09-2021,21-09-2022,18,7
+345, Flipkart Supermart Select Chiroti Rawa,90,106, 1 kg,291,21-09-2021,22-09-2022,18,5
+346, GAINDA White Phenyl Plain,150,213, 1 L,551,22-09-2021,23-09-2022,9,6
+347, Organic Tattva Sona Masoori Rice (Parboiled),100,150, 5 kg,231,23-09-2021,24-09-2022,24,4
+348, Whisper Ultra Clean XL Plus Wings Sanitary Pad,500,799, 50 Units,709,24-09-2021,25-09-2022,9,1
+349, Safewash Gentle Wash Liquid Detergent,68,100, 1 kg,162,25-09-2021,26-09-2022,6,3
+350, Good Day Pista Badam Cookies,30,60, 200 g,582,26-09-2021,27-09-2022,24,5
+351, Ariel Complete Detergent Powder 4 kg,580,1160, 4 kg,513,27-09-2021,28-09-2022,6,6
+352, yoga bar Nuts and Seeds,20,40, 38 g Pouch,506,28-09-2021,29-09-2022,6,5
+353, MTR Ready Mix Rava Idli 1 kg,172,215, 1 kg,405,29-09-2021,30-09-2022,24,3
+354, Cadbury Oreo Dipped,81,135, 250 g,564,30-09-2021,01-10-2022,9,4
+355, DOVE Daily Shine Conditioner,161,190, 180 ml,275,01-10-2021,02-10-2022,6,2
+356, PARLE Monaco Classic Cheeslings,30,60, 150 g,369,02-10-2021,03-10-2022,10,4
+357, Flipkart Supermart Disinfectant Surface Cleaner Floral,500,799, 975 ml,566,03-10-2021,04-10-2022,24,6
+358, LUX Fresh Splash Soap,20,35, 3x150 g,434,04-10-2021,05-10-2022,6,4
+359, Maxkleen Disinfectant Floor Cleaner Citrus,300,360, 975 ml,597,05-10-2021,06-10-2022,2,2
+360, Ariel Matic Front Load Detergent Powder 4 kg,90,138, 4 kg,227,06-10-2021,07-10-2022,9,1
+361, Pears Pure & Gentle Bathing Bar,300,399, 3x125 g,901,07-10-2021,08-10-2022,24,10
+362, Lay's Hot n Sweet Chilli Chips,200,209, 52 g,638,08-10-2021,09-10-2022,12,3
+363, Glow & Lovely Advanced Multi Vitamin,20,35, 110 g,869,09-10-2021,10-10-2022,24,12
+364, TANG Lemon Instant Drink Mix,50,90, 500 g,440,10-10-2021,11-10-2022,5,4
+365, Dukes Waffy Kulfi Flavoured Wafer Rolls,100,199, 250 g,293,11-10-2021,12-10-2022,15,12
+366, Urad Dal (Whole),400,469, 1 kg,465,12-10-2021,13-10-2022,3,2
+367, DOVE Hair Fall Rescue Shampoo,500,799, 340 ml,829,13-10-2021,14-10-2022,24,4
+368, Cadbury Bournville Cranberry Dark Chocolate Bars,250,340, 80 g,381,14-10-2021,15-10-2022,10,8
+369, Flipkart Supermart Select Pumpkin Seeds Assorted Nuts,400,469, 100 g,819,15-10-2021,16-10-2022,24,16
+370, Hajmola Regular,50,93, 120 pieces,474,16-10-2021,17-10-2022,6,3
+371, Hit Spray Crawling Insect Killer 700ml,100,138, 700 ml,606,17-10-2021,18-10-2022,3,2
+372, Ariel Top Load Matic Detergent Powder 4 kg,90,106, 4 kg,826,18-10-2021,19-10-2022,24,4
+373, Horlicks Women's Plus Calseal Formula - Chocolate Flavour,150,213, 400 g,481,19-10-2021,20-10-2022,15,7
+374, Colgate Visible White Toothpaste,100,150, 2x100 g,670,20-10-2021,21-10-2022,3,2
+375, Clinic Plus Strong & Thick Health Shampoo,500,799, 340 ml,474,21-10-2021,22-10-2022,7,1
+376, Surf excel Matic Front Load Detergent Powder 2 kg,68,100, 2 kg,959,22-10-2021,23-10-2022,9,2
+377, Organic Tattva Wheat Maida,30,60, 500 g,132,23-10-2021,24-10-2022,12,2
+378, Urad Dal (Split),30,60, 2 kg,133,24-10-2021,25-10-2022,9,5
+379, Yardley London Gold Deodorant Spray  -  For Men,500,799, 150 ml,128,25-10-2021,26-10-2022,3,4
+380, Sona Masoori Rice (Raw),20,35, 5 kg,461,26-10-2021,27-10-2022,9,5
+381, Fortune Rozana Basmati Rice (Medium Grain),90,138, 5 kg,345,27-10-2021,28-10-2022,24,2
+382, Cadbury Bournvita 5 Star Magic,200,209, 500 g,622,28-10-2021,29-10-2022,12,6
+383, CINTHOL Original Soap,400,469, 12x100 g,587,29-10-2021,30-10-2022,9,5
+384, nutella Ferrero 350 g,150,213, 350 g,363,30-10-2021,31-10-2022,6,4
+385, Kwality Choco Flakes,500,799, 75 g Box,587,31-10-2021,01-11-2022,12,5
+386, MTR Instant Dosa Mix 500 g,30,60, 500 g,371,01-11-2021,02-11-2022,6,6
+387, MORTEIN Smart Mosquito Vaporiser Refill,250,340, 45 ml,464,02-11-2021,03-11-2022,9,6
+388, Flipkart Supermart Select Coriander (Dhania Seeds),90,106, 200 g,989,03-11-2021,04-11-2022,9,4
+389, Sleepy Owl Original Cold Brew Packs (Set of 3) Roast & Ground Coffee,68,100, 3x50 g,139,04-11-2021,05-11-2022,15,2
+390, Sleepy Owl Hot Brew Latte Bags (Set of 10) Instant Coffee,30,60, 10x12.5 g,505,05-11-2021,06-11-2022,3,1
+391, Godrej Protekt Germ Protection Dish Cleaning Gel,500,799, 0.75 L,505,06-11-2021,07-11-2022,6,3
+392, Sleepy Owl Assorted Hot Brew Bags (Set of 10) Roast & Ground Coffee,300,360, 10x12.5 g,317,07-11-2021,08-11-2022,10,5
+393, EVEREST Sabji Masala,300,399, 100 g,917,08-11-2021,09-11-2022,12,5
+394, Dabur Meswak Complete Oral Care Toothpaste,20,35, 2x200 g,761,09-11-2021,10-11-2022,6,5
+395, DOVE Oxygen Moisture Shampoo,400,469, 340 ml,661,10-11-2021,11-11-2022,3,3
+396, Hajmola Anardana,36,40, 120 pieces,299,11-11-2021,12-11-2022,2,1
+397, Kwality Chat Masala,45,60, 100 g,613,12-11-2021,13-11-2022,2,1
+398, Tata Sampann Kitchen King Masala,56,75, 100 g,296,13-11-2021,14-11-2022,9,4
+399, DOVE Dryness Care Shampoo,242,255, 340 ml,462,14-11-2021,15-11-2022,5,1
+400, Saffola Active Pro Weight Watchers Blended Oil Can,979,1020, 5 L,899,15-11-2021,16-11-2022,9,3
+401, EVEREST Coriander Powder,30,60, 500 g,121,16-11-2021,17-11-2022,24,5
+402, BAJAJ Cool Almond Drops Hair Oil,500,799, 190 ml,726,17-11-2021,18-11-2022,18,6
+403, Glow & Lovely Advanced Multivitamin Face Cream,20,35, 50 g,700,18-11-2021,19-11-2022,9,5
+404, zoff Haldamrit Immunity Booster Premix,300,360, 2.5 g,504,19-11-2021,20-11-2022,9,3
+405, Oral-B Pro Health Anti Plaque Medium Toothbrush,90,138, Pack of 4,718,20-11-2021,21-11-2022,9,4
+406, Cadbury 5 Star Home Treats Bars,300,399, 200 g,435,21-11-2021,22-11-2022,12,8
+407, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,200,209, 1 kg,226,22-11-2021,23-11-2022,5,4
+408, safe harvest Tamarind Seedless,20,35, 500 g,399,23-11-2021,24-11-2022,12,6
+409, Kalbavi Broken (4 Pieces) Cashews,50,90, 500 g,796,24-11-2021,25-11-2022,2,1
+410, Real Fruit Juice - Mango,100,199, 1 L,547,25-11-2021,26-11-2022,2,2
+411, Hit Spray Flying Insect Killer Lime Fragrance 700ml,400,469, 700 ml,783,26-11-2021,27-11-2022,6,1
+412, Saffola Soya Chunks,500,799, 200 g,356,27-11-2021,28-11-2022,6,2
+413, PARLE Milano Mixed Berries Cookies,250,340, 75 g,915,28-11-2021,29-11-2022,8,3
+414, Priyagold Fresh Gold Mix Fruit,400,469, 1 L,519,29-11-2021,30-11-2022,3,3
+415, CINTHOL Original Soap,50,93, 12x100 g,982,30-11-2021,01-12-2022,6,4
+416, Flipkart Supermart Select Ajwain Whole,100,138, 100 g,542,01-12-2021,02-12-2022,6,1
+417, Flipkart Supermart Select Red Rajma,90,106, 1 kg,273,02-12-2021,03-12-2022,18,10
+418, Desi Choice Lobia (Whole),150,213, 1 kg,221,03-12-2021,04-12-2022,6,4
+419, SUNSILK Hairfall Solution Shampoo,100,150, 340 ml,996,04-12-2021,05-12-2022,3,4
+420, Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot Toothpaste,500,799, 4x150 g,867,05-12-2021,06-12-2022,6,5
+421, Rajdhani Mix Dal (Whole),68,100, 1 kg,745,06-12-2021,07-12-2022,6,3
+422, TOP RAMEN Curry Instant Noodles Vegetarian,30,60, 280 g,535,07-12-2021,08-12-2022,10,2
+423, GILLETTE Fusion Cartridge,30,60, 10 Units,815,08-12-2021,09-12-2022,8,4
+424, Cadbury Dairy Milk Silk Oreo Chocolate Bars,500,799, 60 g,389,09-12-2021,10-12-2022,3,2
+425, Catch Sprinklers Chat Masala,20,35, 100 g,467,10-12-2021,11-12-2022,9,7
+426, Apis Himalaya Honey,90,138, 1 kg,354,11-12-2021,12-12-2022,12,1
+427, Yardley London Gold Deodorant Spray  -  For Men,200,209, 150 ml,408,12-12-2021,13-12-2022,10,2
+428, Nescafe Classic Instant Coffee,400,469, 100 g,755,13-12-2021,14-12-2022,6,2
+429, CONTINENTAL Malgudi 60 Degree Fresh Filter Coffee,150,213, 200 g,193,14-12-2021,15-12-2022,12,5
+430, Eastern Sambar Powder,500,799, 100 g,177,15-12-2021,16-12-2022,6,4
+431, Yardley London Gentleman Classic Body Spray  -  For Men,30,60, 150 ml,895,16-12-2021,17-12-2022,18,5
+432, Molsi's Royal Crunch Cashews,250,340, 200 g,995,17-12-2021,18-12-2022,12,2
+433, EVEREST Garam Masala,90,106, 100 g,229,18-12-2021,19-12-2022,8,6
+434, Surf excel Matic Top Load Detergent Powder 2 kg,68,100, 2 kg,593,19-12-2021,20-12-2022,12,5
+435, Ariel Matic Top Load Detergent Powder 2 kg,30,60, 2 kg,438,20-12-2021,21-12-2022,12,4
+436, Flipkart Supermart Home Essentials Agarbatti Sandal,500,799, 100 Units,367,21-12-2021,22-12-2022,6,5
+437, Organic Tattva Whole Wheat Flour (Chakki Atta),300,360, 5 kg,248,22-12-2021,23-12-2022,24,7
+438, Ching's Secret Green Chilli Sauce,300,399, 680 g Plastic Bottle,525,23-12-2021,24-12-2022,6,6
+439, vanish Oxy Action Stain Remover,20,35, 800 ml,423,24-12-2021,25-12-2022,8,4
+440, Maggi Pazzta Cheesy Tomato Twist Pasta,400,469, 64 g,545,25-12-2021,26-12-2022,6,2
+441, Natureland Organics Himalayan Pink Salt,30,60, 500 g,543,26-12-2021,27-12-2022,18,1
+442, Pediasure Premium Chocolate Health Drink,500,799, 400 g,637,27-12-2021,28-12-2022,6,3
+443, Glow & Lovely Natural Glow,20,35, 50 g,317,28-12-2021,29-12-2022,8,5
+444, GLUCON-D Instant Energy Drink,300,360, 450 g,483,29-12-2021,30-12-2022,8,5
+445, TRESemme Keratin Smooth Shampoo,90,138, 1 L,449,30-12-2021,31-12-2022,12,5
+446, All Out Ultra Mosquito Vaporiser Refill,300,399, 2x45 ml,428,31-12-2021,01-01-2023,10,7
+447, GILLETTE Venus Hair Removal Razor for Women,200,209, 1 Units ,258,01-01-2022,02-01-2023,24,5
+448, zoff Bay Leaves,20,35, 50 g,648,02-01-2022,03-01-2023,6,6
+449, Regency Anjeer Figs,50,90, 200 g,422,03-01-2022,04-01-2023,18,4
+450, Happilo 100% Natural Premium Whole Cashews,100,199, 2x200 g,477,04-01-2022,05-01-2023,3,1
+451, NIVEA Men Sensitive After Shave Lotion,400,469, 100 ml,723,05-01-2022,06-01-2023,18,3
+452, Flipkart Supermart Select Sunflower Seeds,500,799, 100 g,152,06-01-2022,07-01-2023,6,5
+453, Eastern Chicken Masala,250,340, 100 g,428,07-01-2022,08-01-2023,12,6
+454, Dukes Waffy Vanilla Wafers,400,469, 2x75 g,370,08-01-2022,09-01-2023,10,5
+455, Yardley London Elegance Deodorant Spray  -  For Men,50,93, 150 ml,911,09-01-2022,10-01-2023,10,3
+456, Haldiram's Navrattan,100,138, 400 g,135,10-01-2022,11-01-2023,9,4
+457, Bingo Mad Angles - Masala Chips,90,106, 72.5 g,209,11-01-2022,12-01-2023,24,8
+458, EVEREST Hing Powder,150,213, 50 g,476,12-01-2022,13-01-2023,6,4
+459, Godrej Proclean Disinfectant Liquid Toilet Cleaner,100,150, 1 L,146,13-01-2022,14-01-2023,6,6
+460, PARLE Wafers - Tangy Tomato,500,799, 70 g,600,14-01-2022,15-01-2023,6,4
+461, Rooh Afza Sharbat Rose,68,100, 750 ml, Pack of 1,15-01-2022,16-01-2023,12,2
+462, ACT II Bakes - Cheese & Herbs Chips,30,60, 55 g,733,16-01-2022,17-01-2023,9,1
+463, Hit Spray Flying Insect Killer Lime Fragrance 700ml,30,60, 700 ml,160,17-01-2022,18-01-2023,18,10
+464, KOPIKO Cappuccino Toffee,500,799, 161 g,484,18-01-2022,19-01-2023,18,3
+465, Brown & Polson Vanilla Custard Powder,20,35, 100 g,246,19-01-2022,20-01-2023,12,12
+466, Haryana King Mini Mongra Basmati Rice (Broken Grain),90,138, 10 kg,159,20-01-2022,21-01-2023,9,4
+467, CINTHOL Original Soap,200,209, 12x100 g,410,21-01-2022,22-01-2023,9,6
+468, MACARIZE Happy Bird Fruit Fork Set Plastic Fruit Fork,400,469, Pack of 1,918,22-01-2022,23-01-2023,9,8
+469, COMFORT After Wash Lily Fresh Fabric Conditioner,150,213, 860 ml,480,23-01-2022,24-01-2023,12,4
+470, Haldiram's Dry Fruit Besan Ladoo Carton,500,799, 400 g,442,24-01-2022,25-01-2023,9,8
+471, HEAD & SHOULDERS Smooth & Silky Shampoo,30,60, 1 L,338,25-01-2022,26-01-2023,12,7
+472, colin Glass & Multisurface Cleaner Sparking Shine Boosters,250,340, 1500 ml,526,26-01-2022,27-01-2023,18,3
+473, Pringles Sour Cream & Onion Flavour Chips,90,106, 107 g,468,27-01-2022,28-01-2023,18,2
+474, Closeup Ever Fresh Toothpaste,68,100, 150 g,846,28-01-2022,29-01-2023,9,4
+475, santoor Pureglo almond oil and glycerine bathing bar,30,60, 6x125 g,944,29-01-2022,30-01-2023,9,7
+476, FUN FOODS Mayonnaise Veg 500 g,500,799, 500 g,721,30-01-2022,31-01-2023,6,6
+477, Alpenliebe Strawberry Jelly Candy,300,360, 166.5 g,174,31-01-2022,01-02-2023,12,1
+478, B Natural Litchi,300,399, 1 L,384,01-02-2022,02-02-2023,9,2
+479, Lactogrow Nestle Nutritious Milk Drink,20,35, 400 g,689,02-02-2022,03-02-2023,6,2
+480, Bambino Vermicelli 425 g,400,469, 425 g,227,03-02-2022,04-02-2023,12,5
+481, MOTHER'S RECIPE Sabudana Papad 70 g,30,60, 70 g,171,04-02-2022,05-02-2023,18,4
+482, Fair & Handsome Fair and Handsome Fairness Cream(60G) with Face Wash Instant Fairness(100G),500,799, 2 Items in the set,790,05-02-2022,06-02-2023,8,5
+483, DOVE Daily Shine Shampoo,20,35, 340 ml,769,06-02-2022,07-02-2023,9,2
+484, zoff Garam Masala,300,360, 50 g,280,07-02-2022,08-02-2023,12,6
+485, Mountain Dew Plastic Bottle,90,138, 750 ml, Plastic Bottle,08-02-2022,09-02-2023,18,5
+486, Flipkart Supermart Select Cassia Bark (Taj),300,399, 100 g,135,09-02-2022,10-02-2023,9,4
+487, Pediasure Vanilla Delight Health Drink,200,209, 750 g,256,10-02-2022,11-02-2023,8,5
+488, Tata Sampann Brown Chana (Whole),20,35, 500 g,424,11-02-2022,12-02-2023,8,7
+489, Ananda Rich Paneer Paneer,50,90, 200 g,429,12-02-2022,13-02-2023,12,6
+490, Flipkart Supermart Select Sona Masoori Rice (Steam),100,199, 5 kg,172,13-02-2022,14-02-2023,9,4
+491, DOVE Daily Shine Conditioner,400,469, 180 ml,382,14-02-2022,15-02-2023,6,2
+492, Tulsi Abjosh Lazeez Raisins,500,799, 250 g,463,15-02-2022,16-02-2023,3,1
+493, Colgate Sensitive Ultra Soft Toothbrush,250,340, Pack of 4,372,16-02-2022,17-02-2023,12,3
+494, 24 Mantra Organic Powder Jaggery,400,469, 450 g,406,17-02-2022,18-02-2023,3,1
+495, Yardley London Gold Deodorant Spray  -  For Men,50,93, 150 ml,491,18-02-2022,19-02-2023,3,3
+496, PARLE Krackjack,100,138, 16x50 g,490,19-02-2022,20-02-2023,9,5
+497, Cadbury Dairy Milk Silk Mousse Bars,90,106, 116 g,125,20-02-2022,21-02-2023,8,7
+498, Tata Sampann White Urad Dal (Split),150,213, 1 kg,170,21-02-2022,22-02-2023,9,5
+499, MORTEIN Smart Mosquito Vaporiser Refill,100,150, 45 ml,516,22-02-2022,23-02-2023,12,6
+500, Tata Sampann Coriander Powder,500,799, 100 g,363,23-02-2022,24-02-2023,12,4
+501, Pansari Refined Soyabean Oil Pouch,68,100, 1 L,674,24-02-2022,25-02-2023,6,1
+502, YIPPEE Mood Masala Instant Noodles Vegetarian,30,60, 260 g,192,25-02-2022,26-02-2023,9,3
+503, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,30,60, 1 kg,308,26-02-2022,27-02-2023,6,5
+504, Bingo Salt Sprinkled Potato Chips,500,799, 100 g,453,27-02-2022,28-02-2023,6,6
+505, CINTHOL Original Soap,20,35, 12x100 g,832,28-02-2022,01-03-2023,18,5
+506, Dukes Waffy Strawberry Wafer Rolls,90,138, 300 g,507,01-03-2022,02-03-2023,9,3
+507, Clinic Plus Strong & Thick Health Shampoo,200,209, 340 ml,873,02-03-2022,03-03-2023,6,4
+508, Dabur Red Gel Toothpaste,400,469, 2x150 g,580,03-03-2022,04-03-2023,6,4
+509, Bingo Salted Potato Chips,150,213, 52 g,998,04-03-2022,05-03-2023,6,4
+510, Waghbakri Premium Leaf Tea Pouch,500,799, 500 g Pouch,211,05-03-2022,06-03-2023,9,6
+511, DOVE Deeply Nourishing Body Wash,30,60, 800 ml,224,06-03-2022,07-03-2023,8,4
+512, Cadbury Dairy Milk Silk Roast Almond Bars,250,340, 143 g,985,07-03-2022,08-03-2023,6,2
+513, Apis Fruit Blast 700 g,90,106, 700 g,646,08-03-2022,09-03-2023,12,1
+514, DETTOL Skincare Hand Wash Refill Pouch,68,100, 1.5 L,497,09-03-2022,10-03-2023,12,10
+515, Yardley London Elegance Deodorant Spray  -  For Men,30,60, 150 ml,379,10-03-2022,11-03-2023,9,3
+516, BRU Instant Coffee,500,799, 100 g,185,11-03-2022,12-03-2023,8,4
+517, Haldiram's Classic Dryfruit Patisa Box,300,360, 400 g,552,12-03-2022,13-03-2023,18,4
+518, Regency Cinnamon,300,399, 50 g,772,13-03-2022,14-03-2023,18,12
+519, Enchanteur Charming Body Mist  -  For Women,20,35, 150 ml,908,14-03-2022,15-03-2023,9,9
+520, Flipkart Supermart Select Kolam Rice (Raw),400,469, 10 kg,288,15-03-2022,16-03-2023,24,4
+521, LIFEBUOY Total 10,193,210, 7x125 g,329,16-03-2022,17-03-2023,9,8
+522, Priyagold Fresh Gold Litchi,64,110, 1 L,205,17-03-2022,18-03-2023,6,3
+523, Glow & Lovely Natural Glow,30,60, 50 g,893,18-03-2022,19-03-2023,24,3
+524, Sreebhog Maida,500,799, 500 g,498,19-03-2022,20-03-2023,6,2
+525, Tata Q Hot and Spicy Schezwan Noodles with Veggies 290 g,20,35, 290 g,572,20-03-2022,21-03-2023,6,4
+526, HERSHEY'S Genuine Chocolate Chocolate,300,360, 623 g,603,21-03-2022,22-03-2023,24,7
+527, Glow & Lovely Advanced Multi Vitamin,90,138, 110 g,744,22-03-2022,23-03-2023,9,7
+528, Ziofit Indian Long Raisins,300,399, 200 g,930,23-03-2022,24-03-2023,6,1
+529, CHUKDE Black Salt,200,209, 200 g,635,24-03-2022,25-03-2023,10,2
+530, Cadbury Dairy Milk Silk Fruit and Nut Chocolate Bars,20,35, 55 g,981,25-03-2022,26-03-2023,24,2
+531, Lactogrow Nestle Nutritious Milk Drink,50,90, 400 g,450,26-03-2022,27-03-2023,6,5
+532, Chana Dal (Split),100,199, 1 kg,518,27-03-2022,28-03-2023,2,2
+533, HIMALAYA Gentle Baby Shampoo,400,469, 200 ml,634,28-03-2022,29-03-2023,9,5
+534, Oleev Imported Pomace Olive Oil Plastic Bottle,500,799, 1 L,471,29-03-2022,30-03-2023,24,2
+535, DOVE Deeply Nourishing Body Wash,250,340, 800 ml,678,30-03-2022,31-03-2023,12,6
+536, Tide Plus Extra Power Lemon & Mint Detergent Powder 500 g,400,469, 500 g,226,31-03-2022,01-04-2023,24,5
+537, MACARIZE 2 in 1 JAPAN design Kitchen Steel All-Purpose Scissor,50,93, Black, Pack of 1,01-04-2022,02-04-2023,5,4
+538, Manna Badam Mix,100,138, 400 g,255,02-04-2022,03-04-2023,15,5
+539, Glow & Lovely Advanced Multivitamin Face Cream,90,106, 50 g,345,03-04-2022,04-04-2023,3,3
+540, Apis Arabian Pearls Premium Fard Dates,150,213, 250 g,228,04-04-2022,05-04-2023,24,6
+541, Coca-Cola PET Bottle,100,150, 2 L, PET Bottle,05-04-2022,06-04-2023,10,4
+542, SNICKERS Bars,500,799, 168 g,489,06-04-2022,07-04-2023,24,2
+543, Clinic Plus Strong & Thick Health Shampoo,68,100, 340 ml,580,07-04-2022,08-04-2023,6,1
+544, Amul Fresh Pure Cream,30,60, 1 L,960,08-04-2022,09-04-2023,3,3
+545, Dabur Hommade Tomato Puree,30,60, 200 g,265,09-04-2022,10-04-2023,24,5
+546, TANG Orange Instant Drink Mix,500,799, 500 g,867,10-04-2022,11-04-2023,15,5
+547, Ariel Matic Top Load Detergent Powder 2 kg,20,35, 2 kg,988,11-04-2022,12-04-2023,3,3
+548, Flipkart Supermart Select Saunf Small,90,138, 100 g,207,12-04-2022,13-04-2023,7,7
+549, Maggi Fusian Hong Kong Spicy Garlic Instant Noodles Vegetarian,200,209, 73 g,866,13-04-2022,14-04-2023,9,5
+550, Chocoliebe Eclairs Plus Choco Caramel Candy,400,469, 156.4 g,248,14-04-2022,15-04-2023,12,6
+551, DETTOL Original,150,213, Resealable Lock-lid,116,15-04-2022,16-04-2023,9,4
+552, Savlon Handwash Moisture Shield Hand Wash Pouch,500,799, 1.5 L,672,16-04-2022,17-04-2023,3,1
+553, Dukes Nice,30,60, 3x150 g,333,17-04-2022,18-04-2023,9,3
+554, MTR Puliogare Powder,250,340, 200 g,881,18-04-2022,19-04-2023,24,5
+555, Protinex Tasty Chocolate Flavour,90,106, 400 g,276,19-04-2022,20-04-2023,12,6
+556, Happilo Premium Seedless Green Raisins,68,100, 500 g,316,20-04-2022,21-04-2023,9,5
+557, CRAX Fritts Chips,30,60, 3x41 g,731,21-04-2022,22-04-2023,6,3
+558, Regency Dried Blueberry,500,799, 75 g,219,22-04-2022,23-04-2023,12,4
+559, Godrej Protekt Health Bathing Soap | Citrus Fragrance | Anti-bacterial with 99.9% Germ Protection,300,360, 8x100 g,382,23-04-2022,24-04-2023,6,5
+560, Farmley Roasted & Flavored Makhana - Mint 180g Pack for 2 (90g Each) Fox Nut,300,399, 2x90 g,489,24-04-2022,25-04-2023,9,4
+561, Farmley Roasted & Flavored Makhana - Peri Peri 180g Pack for 2 (90g Each) Fox Nut,20,35, 2x90 g,248,25-04-2022,26-04-2023,9,6
+562, Farmley Roasted & Flavored Makhana - Cream N Onion 180g Pack for 2 (90g Each) Fox Nut,400,469, 2x90 g,361,26-04-2022,27-04-2023,15,4
+563, DOVE Dryness Care Shampoo,242,255, 340 ml,394,27-04-2022,28-04-2023,3,2
+564, Farmley Roasted & Flavored Makhana - Tangy Tomato 180g Pack for 2 (90g Each) Fox Nut,227,358, 2x90 g,451,28-04-2022,29-04-2023,6,1
+565, Farmley Roasted & Salted Makhana 180g Pack for 2 (90g Each) Fox Nut,244,358, 2x90 g,124,29-04-2022,30-04-2023,10,10
+566, HERSHEY'S Chocolate Flavor Syrup Chocolate,81,90, 200 g,190,30-04-2022,01-05-2023,12,3
+567, GILLETTE Fusion Cartridge,1827,2150, 10 Units,111,01-05-2022,02-05-2023,6,4
+568, Amulya Dairy Whitener Milk Powder,30,60, 1 kg,292,02-05-2022,03-05-2023,3,3
+569, Rajdhani Moong Dal (Split),500,799, 500 g,991,03-05-2022,04-05-2023,2,2
+570, Gits Gulab Jamun Dessert Mix 200 g,20,35, 200 g,911,04-05-2022,05-05-2023,2,2
+571, DOVE Intense Repair Shampoo,300,360, 1 L,949,05-05-2022,06-05-2023,9,4
+572, Pediasure Vanilla Delight Health Drink,90,138, 1 kg,140,06-05-2022,07-05-2023,5,4
+573, Ashok Ani Seed Saunf Mahin,300,399, 100 g,798,07-05-2022,08-05-2023,9,3
+574, Harpic Power Plus Rose Liquid Toilet Cleaner,200,209, 500 ml,271,08-05-2022,09-05-2023,24,3
+575, DOVE Deeply Nourishing Body Wash,20,35, 800 ml,842,09-05-2022,10-05-2023,18,2
+576, Pears Soft and Fresh Bathing Bar,50,90, 3x125 g,894,10-05-2022,11-05-2023,9,4
+577, Everyday Rice Basmati Rice,100,199, 5 kg,275,11-05-2022,12-05-2023,9,7
+578, EVEREST Sambhar Masala,400,469, 50 g,415,12-05-2022,13-05-2023,9,7
+579, Lactogrow Nestle Nutritious Milk Drink,500,799, 400 g,296,13-05-2022,14-05-2023,12,1
+580, Paper boat Juice - Orange,250,340, 1 L,449,14-05-2022,15-05-2023,5,2
+581, Farmley Selecta Green Long Raisins,400,469, 500 g,789,15-05-2022,16-05-2023,12,2
+582, MAKINO Chips,50,93, 3x100 g,597,16-05-2022,17-05-2023,2,2
+583, DOVE Intense Repair Conditioner,100,138, 175 ml,773,17-05-2022,18-05-2023,2,5
+584, OM bhakti Pancha Deepa Oil,90,106, 500 ml,558,18-05-2022,19-05-2023,6,5
+585, Rajdhani Dalia Broken Wheat,150,213, 500 g,770,19-05-2022,20-05-2023,6,2
+586, PATANJALI Dant Kanti Medicated Oral Gel Toothpaste,100,150, 100 g,269,20-05-2022,21-05-2023,8,6
+587, DOVE Hair Fall Rescue Shampoo,500,799, 340 ml,131,21-05-2022,22-05-2023,3,2
+588, DETTOL Instant ,68,100,25, 0.05 L,22-05-2022,23-05-2023,6,4
+589, Pringles Original Potato Chips,30,60, 107 g,741,23-05-2022,24-05-2023,6,5
+590, NIHAR Naturals Shanti Amla Badam  Hair Oil,30,60, 500 ml,139,24-05-2022,25-05-2023,18,7
+591, NIVEA Sensitive Cooling After Shave Lotion,500,799, 100 ml,629,25-05-2022,26-05-2023,6,6
+592, ENSURE Vanilla Flavour,20,35, 400 g,456,26-05-2022,27-05-2023,3,1
+593, Sunfeast Treat Cheese Pasta,90,138, 65 g,948,27-05-2022,28-05-2023,6,2
+594, Colgate ZigZag Charcoal Medium Bristle Toothbrush Medium Toothbrush,200,209, Pack of 4,812,28-05-2022,29-05-2023,6,1
+595, Hit Spray Flying Insect Killer 700ml,400,469, 700 ml,801,29-05-2022,30-05-2023,10,3
+596, LuvIt Crazysmackers Assorted Lollipop,150,213, 96 g,591,30-05-2022,31-05-2023,8,5
+597, PEPSODENT Germicheck Healthy Fresh Toothpaste,500,799, 200 g,982,31-05-2022,01-06-2023,3,4
+598, Dukes Waffy Strawberry Wafers,30,60, 2x75 g,521,01-06-2022,02-06-2023,9,5
+599, GILLETTE Venus Hair Removal Razor for Women,250,340, 1 Units ,328,02-06-2022,03-06-2023,12,7
+600, Whisper Ultra Soft XL Wings Sanitary Pad,90,106, 15 Units,760,03-06-2022,04-06-2023,10,5
+601, Bingo Cream and Onion Potato Chips,68,100, 130 g,387,04-06-2022,05-06-2023,6,6
+602, Real Activ 100% Mixed Fruit Juice,30,60, 1 L,313,05-06-2022,06-06-2023,12,4
+603, Paper boat Juice - Aamras,500,799, 1 L,616,06-06-2022,07-06-2023,6,1
+604, GILLETTE Regular Pre Shave Cream,300,360, 70 g,794,07-06-2022,08-06-2023,18,3
+605, Protinex Vanilla Delight,300,399, 400 g,138,08-06-2022,09-06-2023,12,5
+606, MOTHER'S RECIPE Appalam 100 g,20,35, 100 g,309,09-06-2022,10-06-2023,8,6
+607, Sani Fresh Ultra Shine Liquid Toilet Cleaner,400,469, 2x0.5 L,990,10-06-2022,11-06-2023,12,5
+608, PATANJALI Amla Juice,30,60, 1 L,120,11-06-2022,12-06-2023,12,3
+609, Flipkart Supermart Kitchen Essentials Aluminium Foil,500,799, 2x9 m,133,12-06-2022,13-06-2023,6,4
+610, Nescafe Intense Cafe,20,35, 180 ml,138,13-06-2022,14-06-2023,24,8
+611, MTR Rice Idli Ready Mix 500 g,300,360, 500 g,551,14-06-2022,15-06-2023,6,4
+612, Glow & Lovely Natural Glow,90,138, 50 g,433,15-06-2022,16-06-2023,8,6
+613, UNIBIC Milk Cookies,300,399, 100 g,239,16-06-2022,17-06-2023,6,4
+614, BRITANNIA NutriChoice Sugar free Cream Cracker,200,209, 100 g,190,17-06-2022,18-06-2023,18,2
+615, Maggi Nutri-licious Oats Masala Instant Noodles Vegetarian,20,35, 72.5 g,329,18-06-2022,19-06-2023,6,1
+616, DOVE Intense Repair Shampoo,50,90, 1 L,229,19-06-2022,20-06-2023,8,2
+617, Rajdhani Chana Dal (Split),100,199, 1 kg,933,20-06-2022,21-06-2023,8,3
+618, SUNSILK Lusciously Thick & Long Nourishing Conditioner,400,469, 180 ml,875,21-06-2022,22-06-2023,12,12
+619, Flipkart Supermart Classic Moong Dal (Whole),500,799, 500 g,846,22-06-2022,23-06-2023,10,4
+620, SUNSILK Stunning Black Shine,250,340, 1 L,893,23-06-2022,24-06-2023,24,12
+621, BRITANNIA Winkin Cow Flavoured Milk,400,469, 180 ml,923,24-06-2022,25-06-2023,6,3
+622, Flipkart Supermart Select Khus Khus Posta Dana,50,93, 100 g,968,25-06-2022,26-06-2023,18,4
+623, Too Yumm! Sour Cream and Onion Veggie Stix,100,138, 52 g,372,26-06-2022,27-06-2023,3,1
+624, Yardley London Gold Deodorant Spray  -  For Men,90,106, 150 ml,258,27-06-2022,28-06-2023,18,16
+625, Real Fruit Juice - Cranberry,150,213, 1 L,553,28-06-2022,29-06-2023,6,3
+626, ACT II Party Pack Classic Salted Popcorn,100,150, 120 g,790,29-06-2022,30-06-2023,12,2
+627, Ching's Secret Tomato Soup,500,799, 55 g,1000,30-06-2022,01-07-2023,10,4
+628, DOVE Deeply Nourishing Body Wash,68,100, 800 ml,297,01-07-2022,02-07-2023,10,7
+629, Dukes Sour Cream & Onion Nibbles,30,60, 150 g,864,02-07-2022,03-07-2023,9,7
+630, Sunfeast Marie Light Oat Biscuits,30,60, 120 g,702,03-07-2022,04-07-2023,24,1
+631, Flipkart Supermart Select Saunf Green,500,799, 100 g,474,04-07-2022,05-07-2023,6,2
+632, DOVE Dryness Care Shampoo,20,35, 340 ml,478,05-07-2022,06-07-2023,6,2
+633, Farmley Premium California Roasted & Salted Pistachios,90,138, 200 g,104,06-07-2022,07-07-2023,6,5
+634, TOP RAMEN Masala Instant Noodles Vegetarian,200,209, 560 g,560,07-07-2022,08-07-2023,12,4
+635, Dukes Digestive Biscuits,400,469, 2x100 g,186,08-07-2022,09-07-2023,9,5
+636, LIZOL DOUBLE Concentrate Disinfectant Surface Cleaner Citrus,150,213, 900 ml,299,09-07-2022,10-07-2023,18,2
+637, JOHNSON'S Baby Soap,500,799, 3x100 g,169,10-07-2022,11-07-2023,18,6
+638, FUN FOODS Peanut Butter Crunchy 925 g,30,60, 925 g,789,11-07-2022,12-07-2023,12,5
+639, Dabur Chyawanprakash Sugarfree,250,340, 500 g,798,12-07-2022,13-07-2023,9,4
+640, DOVE Daily Shine Shampoo,90,106, 340 ml,222,13-07-2022,14-07-2023,9,5
+641, LIFEBUOY Lemon Fresh Soap,68,100, 3x125 g,397,14-07-2022,15-07-2023,9,7
+642, Maggi Special Masala Instant Noodles Vegetarian,30,60, 280 g,784,15-07-2022,16-07-2023,12,6
+643, Nutralite Eggless Mayonnaise 275 g,500,799, 275 g,738,16-07-2022,17-07-2023,9,4
+644, DOVE Hair Fall Rescue Shampoo,300,360, 340 ml,153,17-07-2022,18-07-2023,12,2
+645, EVEREADY Give Me Red AAA  Battery,300,399, Pack of 10,939,18-07-2022,19-07-2023,18,1
+646, KOHINOOR Charminar Everyday Basmati Rice (Medium Grain),20,35, 5 kg,634,19-07-2022,20-07-2023,18,3
+647, PATANJALI Aloe Vera Juice with Fiber,400,469, 1 L,133,20-07-2022,21-07-2023,9,5
+648, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,781,21-07-2022,22-07-2023,9,5
+649, Savlon Moisture Shield Hand Wash Pouch,30,60, 0.75 L,816,22-07-2022,23-07-2023,6,5
+650, Lotte Chocopie,500,799, 300 g,771,23-07-2022,24-07-2023,12,7
+651, PARLE Namkeen Hot n Spicy Mixture,20,35, 360 g,182,24-07-2022,25-07-2023,9,5
+652, Glow & Lovely Advanced Multi Vitamin,300,360, 110 g,817,25-07-2022,26-07-2023,6,6
+653, Colgate Maxfresh Red Gel Toothpaste,90,138, 150 g,745,26-07-2022,27-07-2023,12,4
+654, Fortune Biryani Special Basmati Rice (Long Grain),300,399, 5 kg,250,27-07-2022,28-07-2023,18,1
+655, MACARIZE Ergonomic Modern Space Master Kitchen Corner Sink Dish Drainer Kitchen Rack,200,209, Plastic,169,28-07-2022,29-07-2023,8,3
+656, Clinic Plus Strong & Thick Health Shampoo,20,35, 340 ml,363,29-07-2022,30-07-2023,9,5
+657, Flipkart Supermart Select Figs,50,90, 100 g,194,30-07-2022,31-07-2023,12,6
+658, Spinz Exotic Deodorant Spray  -  For Women,100,199, 150 ml,323,31-07-2022,01-08-2023,18,5
+659, BOROPLUS 100% Organic Aloe Vera Gel,400,469, 150 ml,277,01-08-2022,02-08-2023,9,6
+660, DOVE Deeply Nourishing Body Wash,500,799, 800 ml,791,02-08-2022,03-08-2023,8,3
+661, Tropicana Cranberry Delight Fruit Beverage,250,340, 1 L,823,03-08-2022,04-08-2023,8,4
+662, Haldiram's Rasgulla Box,400,469, 1.25 kg,969,04-08-2022,05-08-2023,12,2
+663, BRITANNIA Nutri Choice Digestive,50,93, 100 g,509,05-08-2022,06-08-2023,9,3
+664, HEAD & SHOULDERS Smooth & Silky Shampoo,100,138, 1 L,746,06-08-2022,07-08-2023,6,1
+665, DOVE Intense Repair Conditioner,90,106, 175 ml,273,07-08-2022,08-08-2023,3,1
+666, Cadbury Bournvita Biscuits,150,213, 250 g,191,08-08-2022,09-08-2023,12,3
+667, LuvIt Chocorich Assorted Eclairs Hazelnut,100,150,210, 480 g,09-08-2022,10-08-2023,3,3
+668, DOVE Daily Shine Conditioner,500,799, 180 ml,118,10-08-2022,11-08-2023,3,2
+669, EMAMI Healthy and Tasty Refined Soyabean Oil Pouch,68,100, 1 L,875,11-08-2022,12-08-2023,9,1
+670, ZANDU Chyavanprashad,30,60, 900 g,730,12-08-2022,13-08-2023,8,3
+671, Ching's Secret Schezwan Instant Noodles Vegetarian,30,60, 240 g,865,13-08-2022,14-08-2023,9,2
+672, SUNSILK Hairfall Solution Shampoo,500,799, 340 ml,738,14-08-2022,15-08-2023,12,5
+673, Tropicana Apple Delight Fruit Beverage,20,35, 1 L,744,15-08-2022,16-08-2023,12,1
+674, LISTERINE Mouthwash - Coolmint,90,138, 500 ml,993,16-08-2022,17-08-2023,6,6
+675, bikano Peanuts - Salted,200,209,1,391,17-08-2022,18-08-2023,9,2
+676, Pediasure Vanilla Delight Health Drink,400,469, 750 g,617,18-08-2022,19-08-2023,6,4
+677, HIMALAYA Purifying Neem  Face Wash,150,213, 200 ml,471,19-08-2022,20-08-2023,6,6
+678, Flipkart Supermart Select Long Grain Rice (Long Grain,500,799,550, 5 kg,20-08-2022,21-08-2023,18,1
+679, Uttam Sugar Natural Brown Sugar,30,60, 1 kg Pouch,839,21-08-2022,22-08-2023,9,2
+680, DOVE Oxygen Moisture Shampoo,250,340, 340 ml,454,22-08-2022,23-08-2023,6,2
+681, 24 mantra ORGANIC Mustard Big,90,106, 100 g,167,23-08-2022,24-08-2023,6,6
+682, zoff Makhana Lotus Seeds,68,100, 100 g,719,24-08-2022,25-08-2023,6,5
+683, Kamasutra Dotted Condom,30,60, 12 Units,401,25-08-2022,26-08-2023,9,1
+684, DOVE Intense Repair Shampoo,500,799, 1 L,694,26-08-2022,27-08-2023,8,8
+685, SUNSILK Lusciously Thick & Long Shampoo,300,360, 650 ml,666,27-08-2022,28-08-2023,6,1
+686, Tamil Ponni Rice (Raw),300,399, 5 kg,201,28-08-2022,29-08-2023,12,2
+687, Kohinoor Authentic Hyderabadi Biryani Basmati Rice Kit 327 g,20,35, 327 g,555,29-08-2022,30-08-2023,12,5
+688, Boost Health,400,469,351, 750 g,30-08-2022,31-08-2023,9,2
+689, Veet Hair Removal Cream,71,75, 30 g,911,31-08-2022,01-09-2023,8,3
+690, Flipkart Supermart Select Super Premium Sona Masoori Rice (Raw),396,400, 5 kg,408,01-09-2022,02-09-2023,18,1
+691, Too Yumm! Veggie Stix Chilly Chataka Chips,29,35, 72 g,805,02-09-2022,03-09-2023,18,4
+692, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168, 1 L,607,03-09-2022,04-09-2023,9,4
+693, Real Fruit Juice - Mosambi,95,110, 1 L,278,04-09-2022,05-09-2023,24,3
+694, MTR Sambar Powder,30,60, 200 g,537,05-09-2022,06-09-2023,9,1
+695, Pepsico Lay's Potato Chips American Style Cream & Onion Flavour Chips,500,799, 221 g,149,06-09-2022,07-09-2023,6,2
+696, DOVE Intense Repair Shampoo,20,35, 1 L,769,07-09-2022,08-09-2023,24,2
+697, Flipkart Supermart Classic Kabuli Chana (Whole),300,360, 1 kg,226,08-09-2022,09-09-2023,6,5
+698, Harpic Power Plus Orange Liquid Toilet Cleaner,90,138, 1 L,979,09-09-2022,10-09-2023,6,2
+699, EVEREST Chicken Masala,300,399, 50 g,284,10-09-2022,11-09-2023,24,4
+700, HEAD & SHOULDERS Smooth & Silky Shampoo,200,209, 1 L,877,11-09-2022,12-09-2023,9,8
+701, Surf excel Top Load Matic Detergent Powder 3 kg,20,35, 3 kg,896,12-09-2022,13-09-2023,6,2
+702, NIVEA Body Lotion,50,90, for Men & Women,319,13-09-2022,14-09-2023,10,2
+703, DOVE Daily Shine Conditioner,100,199, 180 ml,975,14-09-2022,15-09-2023,24,3
+704, Lactogrow Nestle Nutritious Milk Drink,400,469, 400 g,849,15-09-2022,16-09-2023,6,4
+705, SUNSILK Nourishing Soft & Smooth Shampoo,500,799, 650 ml,445,16-09-2022,17-09-2023,2,2
+706, DETTOL Original Germ Protection Soap,250,340, 4x125 g,960,17-09-2022,18-09-2023,9,1
+707, Sunfeast Farmlite Digestive Oats with Chocolate,400,469, 150 g,680,18-09-2022,19-09-2023,24,10
+708, DOVE Hair Fall Rescue Shampoo,50,93, 340 ml,974,19-09-2022,20-09-2023,12,2
+709, Ching's Secret Egg Hakka Noodles Non-vegetarian,100,138, 150 g,759,20-09-2022,21-09-2023,24,1
+710, Eastern Kashmiri Chilly Powder,90,106, 250 g,343,21-09-2022,22-09-2023,5,3
+711, Odonil Lavender Blocks,150,213,1,957,22-09-2022,23-09-2023,15,3
+712, DOVE Dryness Care Shampoo,100,150, 340 ml,241,23-09-2022,24-09-2023,3,3
+713, Limca Lime n Lemoni PET Bottle,500,799, 750 ml, PET Bottle,24-09-2022,25-09-2023,24,2
+714, ACT II Butter Delite Popcorn,68,100, 70 g,326,25-09-2022,26-09-2023,10,4
+715, Maggi Pazzta Mushroom Pasta,30,60, 64 g,879,26-09-2022,27-09-2023,24,5
+716, Ariel Complete Detergent Powder 4 kg,30,60, 4 kg,832,27-09-2022,28-09-2023,6,4
+717, DETTOL Instant  Hand Sanitizer Bottle,500,799, 0.5 L,898,28-09-2022,29-09-2023,3,2
+718, HINDALCO Freshwrapp Standard Aluminium Foil,20,35, 18 m,304,29-09-2022,30-09-2023,24,2
+719, Flipkart Supermart Select Mustard (Rai Big),90,138, 500 g,425,30-09-2022,01-10-2023,15,4
+720, Yardley London Gold Deodorant Spray  -  For Men,200,209, 150 ml,656,01-10-2022,02-10-2023,3,3
+721, AADITYA Turmeric Powder,400,469, 100 g,199,02-10-2022,03-10-2023,7,6
+722, Priyagold Treat Mango Masti,150,213, 2 L,185,03-10-2022,04-10-2023,9,8
+723, Britannia Treat Wafers,500,799, 75 g,761,04-10-2022,05-10-2023,12,1
+724, Hit Spray Crawling Insect Killer 700ml,30,60, 700 ml,987,05-10-2022,06-10-2023,9,3
+725, PATANJALI Saundarya Aloevera Gel,250,340, 60 ml,137,06-10-2022,07-10-2023,3,1
+726, Flipkart Supermart Home Essentials Dishwash Gel,90,106,210,420,07-10-2022,08-10-2023,9,2
+727, DETTOL Original Liquid Hand Wash Bottle,68,100, 0.9 L,951,08-10-2022,09-10-2023,24,1
+728, DOVE Cream Beauty Bathing Bar,30,60, 8x100 g,214,09-10-2022,10-10-2023,12,2
+729, Harpic Flushmatic Aquamarine Block Toilet Cleaner,500,799, 50 g,134,10-10-2022,11-10-2023,9,3
+730, MORTEIN 2-in-1 Insect Killer,300,360, 200 ml,810,11-10-2022,12-10-2023,6,4
+731, Lipton Honey,300,399,575, 100 Bags Box,12-10-2022,13-10-2023,12,10
+732, Glow & Lovely Advanced Multivitamin Face Cream,20,35, 50 g,440,13-10-2022,14-10-2023,6,5
+733, Too Yumm! Karare Noodle Masala Chips,400,469, 75 g,155,14-10-2022,15-10-2023,9,1
+734, HAMAM Neem Tulsi and Aloevera Soap,340,400, 8x150 g,944,15-10-2022,16-10-2023,9,5
+735, Bagrry's White Oats,169,190, 1 kg Pouch,616,16-10-2022,17-10-2023,15,4
+736, DOVE Hair Fall Rescue Shampoo,242,255, 340 ml,780,17-10-2022,18-10-2023,3,2
+737, Catch Sprinkler Black Salt,30,60, 200 g,634,18-10-2022,19-10-2023,6,2
+738, VEEBA Eggless Mayonnaise 100 g,500,799, 100 g,375,19-10-2022,20-10-2023,10,2
+739, Go Plain Processed cheese Slices,20,35, 200 g,877,20-10-2022,21-10-2023,12,4
+740, GILLETTE Venus Hair Removal Razor for Women,300,360, 1 Units ,468,21-10-2022,22-10-2023,6,3
+741, EVEREADY Give Me Red  Battery,90,138, Pack of 4,852,22-10-2022,23-10-2023,3,3
+742, Kwality Kasuri Methi,300,399, 100 g,515,23-10-2022,24-10-2023,2,1
+743, LIZOL Disinfectant Surface Cleaner Floral,200,209, 975 ml,503,24-10-2022,25-10-2023,2,2
+744, DOVE Cream Beauty Bathing Bar,20,35, 8x100 g,497,25-10-2022,26-10-2023,9,6
+745, tetley Lemon and Honey Green Tea Bags Box,50,90, 100 Bags Box,248,26-10-2022,27-10-2023,5,4
+746, Saffola Total Pro Heart Conscious Blended Oil Can,100,199, 5 L,521,27-10-2022,28-10-2023,9,2
+747, Cadbury 5 Star Oreo Chocolate Bar,400,469,35, 42 g,28-10-2022,29-10-2023,24,1
+748, DOVE Daily Shine Shampoo,500,799, 340 ml,148,29-10-2022,30-10-2023,18,10
+749, Parachute Advansed Aloe Vera Enriched Coconut  Hair Oil,250,340, 400 ml,324,30-10-2022,31-10-2023,9,3
+750, Umadi's Mango Pickle,400,469, 500 g,970,31-10-2022,01-11-2023,9,5
+751, Colgate Kids Extra Soft Toothbrush,50,93, Pack of 1,594,01-11-2022,02-11-2023,9,4
+752, DOVE Dryness Care Shampoo,100,138, 340 ml,250,02-11-2022,03-11-2023,12,12
+753, winkies Rich Fruit Butter Cake,90,106, 250 g,936,03-11-2022,04-11-2023,5,4
+754, Too Yumm! Karare Munchy Masala Chips,150,213, 75 g,893,04-11-2022,05-11-2023,12,4
+755, HERSHEY'S Cocoa Powder,100,150, 225 g,292,05-11-2022,06-11-2023,2,2
+756, DOVE Intense Repair Shampoo,500,799, 1 L,451,06-11-2022,07-11-2023,2,1
+757, GENTEEL Liquid Detergent,68,100, 957 ml,690,07-11-2022,08-11-2023,6,3
+758, Rajdhani Select Maida,30,60, 1 kg,343,08-11-2022,09-11-2023,6,2
+759, EVEREADY Give Me Red AA  Battery,30,60, Pack of 2,798,09-11-2022,10-11-2023,8,4
+760, Glow & Lovely Natural Glow,500,799, 50 g,186,10-11-2022,11-11-2023,3,1
+761, Tata Grand Instant Coffee,20,35, 50 g,689,11-11-2022,12-11-2023,6,1
+762, Protinex Tasty Chocolate Flavour,90,138, 400 g,939,12-11-2022,13-11-2023,6,1
+763, MamyPoko Pants Standard Diapers - S,200,209, 46 Pieces,322,13-11-2022,14-11-2023,18,2
+764, Softouch Garden Bouquet Fabric Conditioner,400,469, 860 ml,582,14-11-2022,15-11-2023,6,2
+765, Kellogg's Muesli with 21% Fruit,150,213,430, 750 g Pouch,15-11-2022,16-11-2023,3,2
+766, Nature Fresh Sampoorna Chakki Atta,500,799, 5 kg,105,16-11-2022,17-11-2023,6,4
+767, Cadbury Dairy Milk Crackle Chocolate Bars,30,60, 36 g,348,17-11-2022,18-11-2023,6,5
+768, Godrej Protekt Health Bathing Soap | Citrus Fragrance | Anti-bacterial with 99.9% Germ Protection,250,340, 8x100 g,256,18-11-2022,19-11-2023,10,2
+769, Surf excel Quick Wash Detergent Powder 2 kg,90,106, 2 kg,420,19-11-2022,20-11-2023,8,6
+770, Maggi Chilly Chow Cup Noodles Vegetarian,68,100, 70 g,997,20-11-2022,21-11-2023,3,1
+771, Go Daily Milk,30,60, 1 L,983,21-11-2022,22-11-2023,9,4
+772, Clinic Plus Strong & Thick Health Shampoo,500,799, 340 ml,379,22-11-2022,23-11-2023,12,5
+773, Glow & Lovely Advanced Multivitamin Face Cream,300,360, 50 g,140,23-11-2022,24-11-2023,10,7
+774, Flipkart Supermart Select Kabuli Chana,300,399, 1 kg,549,24-11-2022,25-11-2023,6,6
+775, Flipkart Supermart Select Kolam Rice (Raw),20,35, 5 kg,957,25-11-2022,26-11-2023,12,4
+776, GILLETTE Venus Hair Removal Razor for Women,400,469, 1 Units ,282,26-11-2022,27-11-2023,6,2
+777, Suchi 3 Ply Surgical Mask with Nose Pin and Melt Blown Filter 123 Surgical Mask With Melt Blown Fabric Layer,32,80, Blue, Free Size,27-11-2022,28-11-2023,18,1
+778, Mountain Dew Ice Plastic Bottle,63,75, 1.5 L, Plastic Bottle,28-11-2022,29-11-2023,12,3
+779, TRESemme Hair Fall Defense Conditioner,158,187, 190 ml,897,29-11-2022,30-11-2023,8,5
+780, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,838,30-11-2022,01-12-2023,12,5
+781, Nutralite Salted Butter,180,200, 500 g,382,01-12-2022,02-12-2023,12,5
+782, PONDS White Beauty Anti Spot Fairness Cream SPF 15 PA++,112,125, 35 g,372,02-12-2022,03-12-2023,6,1
+783, Flipkart Supermart Durum Wheat Semolina Macaroni Pasta,80,160, 400 g,583,03-12-2022,04-12-2023,24,5
+784, DOVE Hair Fall Rescue Shampoo,242,255, 340 ml,478,04-12-2022,05-12-2023,6,6
+785, Jelimals Bears Assorted Jelly Candy,10,25, 30 g,797,05-12-2022,06-12-2023,8,4
+786, natural tattva Rock Salt,74,95, 1 kg,760,06-12-2022,07-12-2023,6,1
+787, Good Knight Naturals Pack of 2 Refill Mosquito Vaporiser Refill,160,178, 2x45 ml,580,07-12-2022,08-12-2023,18,3
+788, DOVE Dryness Care Shampoo,242,255, 340 ml,995,08-12-2022,09-12-2023,6,5
+789, MASTER COOK  - 225 ml Polypropylene Fridge Container,54,90, Pack of 3, Multicolor,09-12-2022,10-12-2023,8,6
+790, Pears Pure And Gentle Shower Gel,30,60, 250 ml,346,10-12-2022,11-12-2023,8,5
+791, Ujala Supreme Fabric Whitener,500,799, 250 ml,407,11-12-2022,12-12-2023,12,2
+792, DOVE Cream Beauty Bathing Bar,20,35, 8x100 g,978,12-12-2022,13-12-2023,10,5
+793, PARLE Milano Chocolate Chip Cookies,300,360, 75 g,512,13-12-2022,14-12-2023,24,4
+794, NOVA Shudh Ghee 1 L Carton,90,138, 1 L Carton,909,14-12-2022,15-12-2023,6,5
+795, yoga bar Protein Almond Fudge,300,399, 60 g Pouch,722,15-12-2022,16-12-2023,18,2
+796, Lactogrow Nestle Nutritious Milk Drink,200,209, 400 g,730,16-12-2022,17-12-2023,3,1
+797, PEPSODENT Expert Protection Gum Care + Toothpaste,20,35, 2x140 g,722,17-12-2022,18-12-2023,18,5
+798, Tropicana Guava Delight Fruit Beverage,50,90, 1 L,222,18-12-2022,19-12-2023,6,4
+799, Flipkart Supermart Select Till Regular,100,199, 500 g,807,19-12-2022,20-12-2023,12,5
+800, vanish Oxy Action Stain Remover,400,469, 800 ml,791,20-12-2022,21-12-2023,10,7
+801, Dabur Amla  Hair Oil,500,799, 450 ml,474,21-12-2022,22-12-2023,10,6
+802, Natureland Organics Whole Wheat Chakki Atta,250,340, 5 kg,937,22-12-2022,23-12-2023,9,4
+803, ORION Choco Pie,400,469, 560 g,323,23-12-2022,24-12-2023,24,2
+804, DOVE Deeply Nourishing Body Wash,50,93, 800 ml,771,24-12-2022,25-12-2023,6,1
+805, SNICKERS 2X Bars,100,138, 80 g,568,25-12-2022,26-12-2023,6,3
+806, KLF coconad Coconut Oil Pouch,90,106, 1 L,498,26-12-2022,27-12-2023,6,5
+807, Paper boat Daily Snack Chikki Pouch,150,213, 496 g,315,27-12-2022,28-12-2023,12,5
+808, Ariel Matic Front Load Detergent Powder 4 kg,100,150, 4 kg,935,28-12-2022,29-12-2023,9,5
+809, Alpenliebe Gold Rich Milky Caramel Toffee,500,799, 179.4 g,705,29-12-2022,30-12-2023,18,7
+810, Sunfeast Dark Fantasy Choco Nut Fills,68,100, 75 g,868,30-12-2022,31-12-2023,18,5
+811, Haldiram's Dal Biji,30,60, 400 g,545,31-12-2022,01-01-2024,12,6
+812, Glow & Lovely Advanced Multi Vitamin,30,60, 110 g,589,01-01-2023,02-01-2024,9,4
+813, KOHINOOR Amritsari Tandoori Chicken Masala,500,799, 15 g,797,02-01-2023,03-01-2024,9,1
+814, Colgate Total Advanced Health Anticavity Toothpaste,20,35, 185 g,514,03-01-2023,04-01-2024,9,3
+815, Dukes Waffy Orange Wafers,90,138, 2x75 g,906,04-01-2023,05-01-2024,12,5
+816, DOVE Cream Beauty Bathing Bar,200,209, 8x100 g,223,05-01-2023,06-01-2024,9,6
+817, natural tattva Himalayan Pink Salt,400,469, 500 g,894,06-01-2023,07-01-2024,12,5
+818, WeiKFiELD Chilli Vinegar,150,213, 200 g,523,07-01-2023,08-01-2024,18,7
+819, Ananda Flavoured Milk,500,799, 180 ml,648,08-01-2023,09-01-2024,18,5
+820, CINTHOL Original Soap,30,60, 12x100 g,206,09-01-2023,10-01-2024,9,4
+821, Sugar free Gold Sweetener,250,340, 100 g,261,10-01-2023,11-01-2024,9,5
+822, Priyagold Cheese Cracker Biscuits,90,106, 400 g,366,11-01-2023,12-01-2024,6,2
+823, MOTHER DAIRY plain Processed cheese Slices,68,100, 200 g,436,12-01-2023,13-01-2024,12,6
+824, Glow & Lovely Natural Glow,30,60, 50 g,237,13-01-2023,14-01-2024,9,5
+825, Fortune Xpert Pro Immunity Oil Blended Oil Pouch,500,799, 1 L,763,14-01-2023,15-01-2024,6,4
+826, Organic Tattva Black Urad Dal (Whole),300,360, 500 g,577,15-01-2023,16-01-2024,12,5
+827, Flipkart Supermart Home Essentials Dishwash Gel,300,399,500, 2.725 L,16-01-2023,17-01-2024,18,7
+828, SUNSILK Hairfall Solution Shampoo,20,35, 340 ml,451,17-01-2023,18-01-2024,8,6
+829, Flipkart Supermart Select Flax Seeds Assorted Nuts,400,469, 100 g,506,18-01-2023,19-01-2024,9,4
+830, Colgate Active Salt Toothpaste,30,60, 200 g,360,19-01-2023,20-01-2024,12,2
+831, Organic Tattva Yellow Moong Dal (Split),500,799, 500 g,403,20-01-2023,21-01-2024,18,1
+832, DOVE Intense Repair Shampoo,20,35, 1 L,775,21-01-2023,22-01-2024,9,3
+833, MASTER COOK  - 250 ml Polypropylene Fridge Container,300,360, Pack of 3, Multicolor,22-01-2023,23-01-2024,8,5
+834, vanish Oxy Action Stain Remover,90,138, 400 ml,499,23-01-2023,24-01-2024,8,5
+835, VEEBA Cheese and Chilli Sandwich Spread 275 g,300,399, 275 g,853,24-01-2023,25-01-2024,12,5
+836, HEAD & SHOULDERS Smooth & Silky Shampoo,200,209, 1 L,432,25-01-2023,26-01-2024,9,7
+837, MTR Instant Rava Dosa Mix 500 g,20,35, 500 g,254,26-01-2023,27-01-2024,6,5
+838, MDH Lal Mirch Powder,50,90, 100 g,356,27-01-2023,28-01-2024,3,2
+839, EMAMI Healthy and Tasty Kachchi Ghani Mustard Oil Can,100,199, 5 L,520,28-01-2023,29-01-2024,12,4
+840, DOVE Daily Shine Conditioner,400,469, 180 ml,131,29-01-2023,30-01-2024,3,1
+841, GLUCON-D Instant Energy Energy Drink,500,799, 1 kg,610,30-01-2023,31-01-2024,3,3
+842, Veet Silk & Fresh Sensitive Skin Hair Removal Cream,250,340, 50 g,699,31-01-2023,01-02-2024,9,5
+843, zoff Turmeric,400,469,112,150,01-02-2023,02-02-2024,8,6
+844, Organic Tattva Sona Masoori Rice (Parboiled),50,93, 5 kg,958,02-02-2023,03-02-2024,9,5
+845, Tata Sampann Meat Masala,100,138, 100 g,744,03-02-2023,04-02-2024,12,3
+846, KALEVA Nimbu Chataka,90,106, 2x120 g,854,04-02-2023,05-02-2024,12,4
+847, Rajdhani Punjabi Masala Papad 200 g,150,213, 200 g,285,05-02-2023,06-02-2024,6,3
+848, Boost Health,100,150,351, 750 g,06-02-2023,07-02-2024,9,4
+849, ACT II Cheese Popcorn,500,799, 2x105 g,284,07-02-2023,08-02-2024,6,6
+850, Piknik Classic Tomato Chilli,68,100, 2x70 g,925,08-02-2023,09-02-2024,6,4
+851, Flipkart Supermart Classic Toor Dal (Split),30,60, 1 kg,803,09-02-2023,10-02-2024,18,2
+852, DOVE Intense Repair Shampoo,30,60, 1 L,957,10-02-2023,11-02-2024,9,1
+853, Del Monte Pizza and Pasta Sauce,500,799, 400 g Refill,395,11-02-2023,12-02-2024,6,5
+854, Kellogg's Chocos Fills Double Chocolaty,20,35, 250 g Box,496,12-02-2023,13-02-2024,6,3
+855, Hit Spray Crawling Insect Killer,90,138, 320 ml,157,13-02-2023,14-02-2024,6,6
+856, DOVE Cream Beauty Bathing Bar,200,209, 8x100 g,848,14-02-2023,15-02-2024,9,4
+857, ACT II Party Pack Golden Sizzle Popcorn,400,469, 120 g,269,15-02-2023,16-02-2024,8,4
+858, Godrej Aer Violet Valley Bloom Spray,150,213, 240 ml,512,16-02-2023,17-02-2024,6,4
+859, Harpic Disinfectant Bathroom Cleaner Floral,500,799, 1 L,286,17-02-2023,18-02-2024,12,4
+860, DOVE Dryness Care Shampoo,30,60, 340 ml,104,18-02-2023,19-02-2024,12,8
+861, Neem Active Toothpaste,250,340, 200 g,501,19-02-2023,20-02-2024,9,8
+862, SUNSILK Stunning Black Shine Shampoo,90,106, 650 ml,495,20-02-2023,21-02-2024,8,3
+863, 24 mantra ORGANIC Ragi Flour,68,100, 500 g,257,21-02-2023,22-02-2024,18,2
+864, DOVE Intense Repair Conditioner,30,60, 175 ml,435,22-02-2023,23-02-2024,18,4
+865, Clean & Clear Oil Free Foaming  Face Wash,500,799, 240 ml,594,23-02-2023,24-02-2024,9,7
+866, Tata Sampann Red Masoor Dal (Whole),300,360, 1 kg,900,24-02-2023,25-02-2024,24,7
+867, Revive Liquid Fabric Stiffener,300,399, 200 g,126,25-02-2023,26-02-2024,9,1
+868, DOVE Daily Shine Shampoo,20,35, 340 ml,569,26-02-2023,27-02-2024,6,2
+869, Ziofit Classic Seedless Sultan Dates,400,469, 500 g,539,27-02-2023,28-02-2024,24,2
+870, ADIDAS Dynamic Pulse & Pure Game Deodorant Spray  -  For Men,199,398, 2x150 ml,254,28-02-2023,29-02-2024,6,5
+871, DETTOL Cool Body Wash and Shower Gel,160,200, 250 ml,376,01-03-2023,01-03-2024,6,4
+872, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,30,60, 1 kg,602,02-03-2023,02-03-2024,24,5
+873, Garnier Men Men Power White Anti-Pollution Double Action Face Wash,500,799, 100 g,298,03-03-2023,03-03-2024,9,2
+874, Liril Lemon and Tea Tree Oil Soap,20,35, 6x125 g,606,04-03-2023,04-03-2024,6,6
+875, Tropicana Pineapple Delight,300,360, 200 ml,274,05-03-2023,05-03-2024,10,5
+876, NIVEA Sensitive Cooling After Shave Lotion,90,138, 100 ml,605,06-03-2023,06-03-2024,24,4
+877, DETTOL Cool Shaving Cream,300,399, 60 g,779,07-03-2023,07-03-2024,6,5
+878, Cadbury Dairy Milk Silk Oreo Red Velvet Chocolate Bars,200,209, 130 g,414,08-03-2023,08-03-2024,2,2
+879, PARLE Melody Chocolaty Toffee,20,35, 391 g,111,09-03-2023,09-03-2024,9,6
+880, Yardley London Rose Deodorant Roll-on  -  For Women,50,90, 50 ml,288,10-03-2023,10-03-2024,24,4
+881, Tata Tulsi Green Tea Bags Box,100,199, 25 Bags Box,163,11-03-2023,11-03-2024,12,2
+882, Kwality Oats,400,469, 1 kg Pouch,397,12-03-2023,12-03-2024,24,1
+883, MOTHER'S RECIPE Desi Szechwan Chutney Paste,500,799, 250 g Glass Bottle,371,13-03-2023,13-03-2024,5,3
+884, Hygienix Germ Shield Hand Wash Pump Dispenser,250,340, 200 ml,123,14-03-2023,14-03-2024,15,5
+885, PARLE Hide & Seek Black Bourbon Choco Creme Sandwich,400,469, 300 g,393,15-03-2023,15-03-2024,3,1
+886, Sreebhog Sooji,50,93, 500 g,237,16-03-2023,16-03-2024,24,5
+887, Flipkart Supermart Classic Brown Chana (Whole),100,138, 500 g,102,17-03-2023,17-03-2024,10,7
+888, Organic Tattva Sona Masoori Rice (Parboiled),90,106, 5 kg,122,18-03-2023,18-03-2024,24,5
+889, KALEVA Tasty,150,213, 2x120 g,833,19-03-2023,19-03-2024,6,6
+890, Real Activ 100% Apple Juice,100,150, 1 L,606,20-03-2023,20-03-2024,3,1
+891, MTR Magic Masala Upma 60 g,500,799, 60 g,465,21-03-2023,21-03-2024,24,1
+892, Glow & Lovely Advanced Multi Vitamin,68,100, 110 g,389,22-03-2023,22-03-2024,15,3
+893, COMPLAN Creamy Classic,30,60, 500 g,532,23-03-2023,23-03-2024,3,1
+894, NIVEA Whitening Smooth Skin Deodorant Roll-on  -  For Women,30,60, 50 ml,801,24-03-2023,24-03-2024,7,6
+895, Kellogg's Chocos Crunchy Bites,500,799, 375 g Box,514,25-03-2023,25-03-2024,9,5
+896, Glow & Lovely Advanced Multivitamin Face Cream,20,35, 50 g,894,26-03-2023,26-03-2024,12,3
+897, CRAX Mast Mattar,90,138, 3x89 g,897,27-03-2023,27-03-2024,9,4
+898, EVEREST Coriander,200,209, 200 g,140,28-03-2023,28-03-2024,3,1
+899, GILLETTE Vector Cartridge,400,469, 4 Units,668,29-03-2023,29-03-2024,9,4
+900, DOVE Daily Shine Conditioner,150,213, 180 ml,651,30-03-2023,30-03-2024,24,6
+901, Dalmia Sanjeevani protection Hand Sanitizer Bottle,500,799, 1 L,987,31-03-2023,31-03-2024,12,4
+902, Munch Crisp Pop Bars,30,60, 20.1 g,684,01-04-2023,01-04-2024,9,2
+903, McVities Digestive Biscuits,250,340, 1 kg,608,02-04-2023,02-04-2024,6,1
+904, MTR Badam Drink Mix,90,106, 500 g,336,03-04-2023,03-04-2024,12,10
+905, santoor Pureglo almond oil and glycerine bathing bar,68,100, 6x125 g,365,04-04-2023,04-04-2024,6,3
+906, KLF Tilnad Sesame Oil Plastic Bottle,30,60, 1 L,184,05-04-2023,05-04-2024,9,5
+907, Oleev Health Blended Oil Can,500,799, 5 L,349,06-04-2023,06-04-2024,9,4
+908, DOVE Deeply Nourishing Body Wash,300,360, 800 ml,885,07-04-2023,07-04-2024,15,12
+909, BRITANNIA Plain Processed cheese Spread,300,399, 400 g,554,08-04-2023,08-04-2024,3,2
+910, GILLETTE Venus Hair Removal Razor for Women,20,35, 1 Units ,737,09-04-2023,09-04-2024,6,4
+911, safe harvest Wheat Daliya Broken Wheat,400,469, 500 g,208,10-04-2023,10-04-2024,10,8
+912, DOVE Daily Shine Shampoo,242,255, 340 ml,322,11-04-2023,11-04-2024,12,3
+913, Too Yumm! Tangy Tomato Multigrain Chips,18,20, 54 g,803,12-04-2023,12-04-2024,6,3
+914, Ziofit Afghani Dried Figs,472,525, 200 g,922,13-04-2023,13-04-2024,3,2
+915, JOHNSON'S Baby No More Tears Shampoo,352,375, 500 ml,280,14-04-2023,14-04-2024,2,2
+916, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,995,15-04-2023,15-04-2024,2,2
+917, Go Supremo Milk,69,72, 1 L,862,16-04-2023,16-04-2024,9,7
+918, ACT II Hot & Fresh Microwave Butter Lovers Popcorn,65,70, 99 g,101,17-04-2023,17-04-2024,5,1
+919, Eastern Chilli Powder,82,94, 250 g,406,18-04-2023,18-04-2024,9,2
+920, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168, 1 L,842,19-04-2023,19-04-2024,24,2
+921, Bikano Dry Petha Box,95,100, 400 g,263,20-04-2023,20-04-2024,18,5
+922, WeiKFiELD Red Chilli Sauce,47,55, 200 g Plastic Bottle,623,21-04-2023,21-04-2024,9,4
+923, Chik Hairfall Prevent Egg White Shampoo,129,178, 340 ml,332,22-04-2023,22-04-2024,9,5
+924, Organic Tattva Sona Masoori Rice (Parboiled),467,550, 5 kg,844,23-04-2023,23-04-2024,9,2
+925, EVEREST Sabji Masala Powder,30,60, 50 g,943,24-04-2023,24-04-2024,12,6
+926, Real Fruit Juice - Pomegranate,500,799, 1 L,121,25-04-2023,25-04-2024,5,5
+927, zoff Garam Masala,20,35, 100 g,297,26-04-2023,26-04-2024,12,4
+928, NIVEA Men Sensitive After Shave Lotion,300,360, 100 ml,568,27-04-2023,27-04-2024,2,1
+929, Dalda Vanaspati 1 L Pouch,90,138, 1 L Pouch,144,28-04-2023,28-04-2024,2,1
+930, 24 mantra ORGANIC Sattu,300,399, 500 g,277,29-04-2023,29-04-2024,6,6
+931, NIVEA Body Wash,200,209,239,399,30-04-2023,30-04-2024,6,4
+932, Godrej Proclean Disinfectant Liquid Toilet Cleaner,20,35, 1 L,220,01-05-2023,01-05-2024,8,2
+933, Kwality Muesli Crunchy,50,90, 1 kg Plastic Bottle,472,02-05-2023,02-05-2024,3,1
+934, Nestle Lactogen Infant Formula (Stage 1),100,199, 400 g,413,03-05-2023,03-05-2024,6,3
+935, LIZOL Disinfectant Surface Cleaner Sandal,400,469, 500 ml,169,04-05-2023,04-05-2024,6,5
+936, DOVE Oxygen Moisture Shampoo,500,799, 340 ml,863,05-05-2023,05-05-2024,18,5
+937, SURABHI Tomato Ketchup,250,340, 450 g Refill,198,06-05-2023,06-05-2024,6,5
+938, Saffola Honey,400,469, 500 g,236,07-05-2023,07-05-2024,3,1
+939, Dukes Mango Candy,50,93, 300 g,255,08-05-2023,08-05-2024,6,5
+940, DOVE Intense Repair Shampoo,100,138, 1 L,857,09-05-2023,09-05-2024,6,6
+941, MOKSH Swarna Agarbatti Chandan,90,106, 70 g,725,10-05-2023,10-05-2024,10,4
+942, BRITANNIA Classic Processed cheese Cubes,150,213, 200 g,372,11-05-2023,11-05-2024,8,1
+943, Nestle Nan Pro Infant Formula (Stage 1),100,150, 400 g,880,12-05-2023,12-05-2024,3,3
+944, DOVE Deeply Nourishing Body Wash,500,799, 800 ml,296,13-05-2023,13-05-2024,9,5
+945, Good Knight Flash 2 Refill + Machine Mosquito Vaporiser,68,100, 1 Unit 2 Refill,373,14-05-2023,14-05-2024,12,6
+946, Lever Ayush Natural Fairness Saffron Soap,30,60, 4x100 g,665,15-05-2023,15-05-2024,10,5
+947, MamyPoko Pants Standard Diapers - M,30,60, 36 Pieces,412,16-05-2023,16-05-2024,6,3
+948, DOVE Hair Fall Rescue Shampoo,500,799, 340 ml,826,17-05-2023,17-05-2024,12,4
+949, MOTHER DAIRY Whitener Dailycious Skimmed Milk Powder,20,35, 1 kg,797,18-05-2023,18-05-2024,6,1
+950, Daawat Rozana Gold Basmati Rice (Medium Grain),90,138, 5 kg,594,19-05-2023,19-05-2024,18,4
+951, LuvIt Eclairs Party Pack Choco Toffee,200,209, 423.5 g,532,20-05-2023,20-05-2024,12,6
+952, Ariel Matic Front Load Detergent Powder 2 kg,400,469, 2 kg,124,21-05-2023,21-05-2024,8,4
+953, Mentos Rainbow Assorted Chewy Candy Pouch Assorted Flavours Toffee,150,213, 156 g,205,22-05-2023,22-05-2024,12,2
+954, yoga bar Fruit + Nuts & Seeds Muesli Plus,500,799, 400 g Box,196,23-05-2023,23-05-2024,12,1
+955, Cadbury Dairy Milk Fruit and Nut Chocolate Bars,30,60, 80 g,758,24-05-2023,24-05-2024,6,2
+956, GILLETTE Venus Hair Removal Razor for Women,250,340, 1 Units ,578,25-05-2023,25-05-2024,24,3
+957, Veet Full Body Dry Skin Waxing Strips,90,106, 20 Strips,650,26-05-2023,26-05-2024,6,4
+958," MamaEarth ""Onion Hair Fall Shampoo for Hair Growth & Hair Fall Control",68,100,349, 250 ml,27-05-2023,27-05-2024,8,4
+959, HIMALAYA Baby Lotion 400 ml,30,60, 400 ml,847,28-05-2023,28-05-2024,6,6
+960, SUNSILK Hairfall Solution Shampoo,500,799, 340 ml,650,29-05-2023,29-05-2024,18,10
+961, Waghbakri Spices Masala Tea Box,300,360, 250 g Box,596,30-05-2023,30-05-2024,6,4
+962, Ananda Dairy Whitener Semi Skimmed Milk Powder,300,399, 1 kg,532,31-05-2023,31-05-2024,8,8
+963, MASTER COOK  - 1300 ml Plastic Grocery Container,20,35, Pink,243,01-06-2023,01-06-2024,8,2
+964, Glow & Lovely Advanced Multi Vitamin,400,469, 110 g,670,02-06-2023,02-06-2024,12,3
+965, HERSHEY'S Kisses Creamy Milk Chocolate Truffles,119,140, 108 g,495,03-06-2023,03-06-2024,10,2
+966, Nestle Nan Pro 2 Follow-up Formula Powder Stage 2,500,620, 400 g,708,04-06-2023,04-06-2024,24,4
+967, DiSano No. 73 Penne Pasta,99,198, 500 g,992,05-06-2023,05-06-2024,6,5
+968, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,528,06-06-2023,06-06-2024,18,7
+969, Priyagold Cheez Bit,42,45, 150 g,848,07-06-2023,07-06-2024,3,1
+970, WeiKFiELD Green Chilli Sauce,47,55, 200 g Plastic Bottle,744,08-06-2023,08-06-2024,18,2
+971, NIVEA Dark Spot Reduction Face Wash,139,199, 100 g,692,09-06-2023,09-06-2024,6,2
+972, Glow & Lovely Advanced Multivitamin Face Cream,95,106, 50 g,458,10-06-2023,10-06-2024,12,5
+973, vanish Oxy Action Powder Stain Remover,102,108, 200 g,467,11-06-2023,11-06-2024,10,4
+974, MOTHER'S RECIPE Tamarind Paste,49,50, 200 g,422,12-06-2023,12-06-2024,10,5
+975, Molsi's Royal California Almonds,681,1050, 5x0.2 kg,212,13-06-2023,13-06-2024,9,2
+976, DOVE Oxygen Moisture Shampoo,275,290, 340 ml,164,14-06-2023,14-06-2024,24,6
+977, Regency Pitted Prunes,172,250, 240 g,966,15-06-2023,15-06-2024,6,5
+978, LIFEBUOY Antibacterial Germ Kill Spray (No Gas) Safe On Skin,100,169,199, 200 ml,16-06-2023,16-06-2024,6,4
+979, Amul Kool,5,20, 180 ml,701,17-06-2023,17-06-2024,6,5
+980, Glow & Lovely Natural Glow,95,138, 50 g,649,18-06-2023,18-06-2024,12,7
+981, Dukes Waffy Chocolate Wafers,53,90, 2x75 g,154,19-06-2023,19-06-2024,9,6
+982, Women's Horlicks Calseal Formula - Caramel Flavor,471,530, 750 g,743,20-06-2023,20-06-2024,18,4
+983, B Natural Mixed Fruit,88,110, 1 L,340,21-06-2023,21-06-2024,18,2
+984, Lactogrow Nestle Nutritious Milk Drink,324,360, 400 g,883,22-06-2023,22-06-2024,12,1
+985, Colgate Sensitive Plus Toothpaste,100,125, 70 g,289,23-06-2023,23-06-2024,9,3
+986, LIVON Serum for Dry & Unruly Hair,120,150, 50 ml,161,24-06-2023,24-06-2024,9,5
+987, Pril Dish Cleaning Gel,43,45, 0.225 L,501,25-06-2023,25-06-2024,9,5
+988, DOVE Dryness Care Shampoo,242,255, 340 ml,216,26-06-2023,26-06-2024,12,5
+989, Godrej Expert Creme Hair Colour - Black Brown Pack of 4 ,85,102,120, 80 ml,27-06-2023,27-06-2024,9,7
+990, Haldiram's Besan Burfi Box,159,280, 400 g,384,28-06-2023,28-06-2024,12,5
+991, Nimyle Household Sanitizer Floor Cleaner Herbal,239,282, 2 L,502,29-06-2023,29-06-2024,18,6
+992, NIVEA Sensitive Cooling After Shave Lotion,242,269, 100 ml,194,30-06-2023,30-06-2024,18,4
+993, zoff Cassia Bark,61,70, 100 g,736,01-07-2023,01-07-2024,9,1
+994, Creme N Crisp Atta Cookies,70,120, 270 g,657,02-07-2023,02-07-2024,9,3
+995, CINTHOL Cool Talc,128,135, 300 g,553,03-07-2023,03-07-2024,6,5
+996, DOVE Cream Beauty Bathing Bar,390,520, 8x100 g,246,04-07-2023,04-07-2024,12,6
+997, Nestle Cerelac Wheat Apple Carrot Cereal,180,205, 300 g,718,05-07-2023,05-07-2024,9,5
+998, BIOTIQUE Bio Kelp Protein Shampoo For Falling Hair,95,159, 190 ml,656,06-07-2023,06-07-2024,6,3
+999, Pintola All Natural Peanut Butter (Crunchy) 1 kg,399,425, 1 kg,177,07-07-2023,07-07-2024,12,4
+1000, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650, 1 L,571,08-07-2023,08-07-2024,18,8
+1001, Happilo 100% Natural Kashmiri Deluxe Walnuts,260,318,425, 200 g,09-07-2023,09-07-2024,8,4
+1002, Haldiram's Panchrattan,50,90, 200 g,526,10-07-2023,10-07-2024,9,6
+1003, Tata Q Cheesy Chicken Pasta 305 g,62,125, 305 g,196,11-07-2023,11-07-2024,12,4
+1004, DOVE Deeply Nourishing Body Wash,300,360, 800 ml,492,12-07-2023,12-07-2024,18,2
+1005, Bingo Mad Angles Very Peri Peri Chips,40,50, 130 g,238,13-07-2023,13-07-2024,9,1
+1006, DETTOL Refresh Body Wash and Shower Gel,160,200, 250 ml,518,14-07-2023,14-07-2024,8,5
+1007, PARLE 20-20 Butter Cookies,10,20, 150 g,642,15-07-2023,15-07-2024,8,3
+1008, Flipkart Supermart Home Essentials Dishwash Gel,250,350,210,420,16-07-2023,16-07-2024,12,12
+1009,tropical fruit,179,189,,,11-10-2020,12-10-2021,8,4
+1010,whole milk,300,360,,,12-10-2020,13-10-2022,1,8
+1011,pip fruit,167,180,,,13-10-2020,14-10-2021,1,1
+1012,vegetables,19,64,,,14-10-2020,15-10-2021,3,1
+1013,rolls/buns,55,99,,,15-10-2020,16-10-2022,1,1
+1014,pot plants,51,55,,,16-10-2020,17-05-2021,1,1
+1015,citrus fruit,15,21,,,17-10-2020,18-05-2021,1,1
+1016,beef,500,799,,,18-10-2020,19-10-2022,2,2
+1017,frankfurter,133,144,,,19-10-2020,20-10-2021,1,1
+1018,chicken,35,57,,,20-10-2020,21-05-2021,1,1
+1019,butter,80,149,,,21-10-2020,22-10-2021,1,1
+1020,fruit/vegetable juice,242,269,,,22-10-2020,23-10-2022,9,1
+1021,packaged fruit/vegetables,175,200,,,23-10-2020,24-05-2021,3,2
+1022,chocolate,36,40,,,24-10-2020,25-01-2021,9,2
+1023,specialty bar,20,40,,,25-10-2020,26-10-2021,9,5
+1024,butter milk,224,249,,,26-10-2020,27-10-2022,3,1
+1025,bottled water,103,109,,,27-10-2020,28-10-2021,12,5
+1026,yogurt,20,40,,,28-10-2020,29-10-2022,6,2
+1027,sausage,50,96,,,29-10-2020,30-04-2021,9,6
+1028,brown bread,161,190,,,30-10-2020,31-10-2022,1,1
+1029,hamburger meat,100,149,,,31-10-2020,01-03-2021,1,1
+1030,root vegetables,151,168,,,01-11-2020,02-11-2022,1,1
+1031,pork,40,64,,,02-11-2020,03-11-2021,1,1
+1032,pastry,300,449,,,03-11-2020,04-11-2022,1,1
+1033,canned beer,180,220,,,04-11-2020,05-11-2021,9,4
+1034,berries,337,599,,,05-11-2020,06-04-2021,2,2
+1035,coffee,157,177,,,06-11-2020,07-11-2022,9,1
+1037,ham,204,215,,,08-11-2020,09-04-2021,3,3
+1038,turkey,150,235,,,09-11-2020,10-11-2021,6,5
+1039,curd cheese,10,35,,,10-11-2020,11-11-2021,6,5
+1041,frozen potato products,100,145,,,12-11-2020,13-11-2021,9,5
+1042,flour,150,213,,,13-11-2020,14-05-2021,12,7
+1043,sugar,55,65,,,14-11-2020,15-11-2021,9,5
+1044,frozen meals,205,210,,,15-11-2020,16-11-2022,12,6
+1045,herbs,133,195,,,16-11-2020,17-11-2021,8,4
+1046,soda,464,580,,,17-11-2020,18-11-2021,12,1
+1047,detergent,184,215,,,18-11-2020,19-11-2021,12,3
+1048,grapes,44,60,,,19-11-2020,20-11-2021,1,1
+1049,processed cheese,74,93,,,20-11-2020,21-11-2021,3,1
+1050,fish,891,990,,,21-11-2020,22-11-2021,1,1
+1051,curd,36,45,,,24-11-2020,25-05-2021,1,1
+1052,pasta,10,25,,,25-11-2020,26-11-2021,3,1
+1053,popcorn,90,115,,,26-11-2020,27-11-2021,1,1
+1057,dessert,150,213,,,30-11-2020,01-12-2021,2,1
+1058,dog food,20,48,,,01-12-2020,02-12-2021,6,6
+1059,specialty chocolate,81,105,,,02-12-2020,03-12-2021,9,4
+1060,condensed milk,49,99,,,03-12-2020,04-12-2021,9,2
+1061,cleaner,1827,2150,,,04-12-2020,05-12-2021,12,1
+1063,meat,88,125,,,06-12-2020,07-12-2022,1,1
+1064,ice cream,816,825,,,07-12-2020,08-12-2021,1,1
+1065,hard cheese,40,85,,,08-12-2020,09-12-2021,2,1
+1066,cream cheese ,324,360,,,09-12-2020,10-12-2021,1,1
+1068,pickled vegetables,230,300,,,11-12-2020,12-12-2021,9,1
+1070,UHT-milk,72,120,,,13-12-2020,14-02-2021,1,1
+1071,candy,381,410,,,14-12-2020,15-02-2021,9,4
+1072,onions,275,290,,,15-12-2020,16-12-2021,1,1
+1073,hair spray,200,258,,,16-12-2020,17-12-2021,12,5
+1075,domestic eggs,115,189,,,18-12-2020,19-12-2021,1,1
+1076,salt,299,549,,,21-12-2020,22-12-2022,3,2
+1077,oil,250,399,,,22-12-2020,23-12-2021,3,1
+1078,whipped/sour cream,423,465,,,23-12-2020,24-12-2021,6,1
+1079,frozen vegetables,301,435,,,24-12-2020,25-12-2021,6,1
+1080,sliced cheese,120,138,,,25-12-2020,26-12-2021,6,1
+1081,dish cleaner,134,149,,,26-12-2020,27-12-2021,12,2
+1082,baking powder,78,85,,,27-12-2020,28-12-2021,6,2
+1083,specialty cheese,35,40,,,28-12-2020,29-05-2021,3,2
+1084,salty snack,10,25,,,29-12-2020,30-12-2021,3,3
+1085,Instant food products,312,340,,,30-12-2020,31-12-2021,3,3
+1087,white bread,19,30,,,01-01-2021,02-01-2022,1,1
+1088,female sanitary products,36,51,,,02-01-2021,03-01-2022,3,1
+1090,soap,126,150,,,04-01-2021,05-01-2024,12,5
+1091,frozen chicken,224,249,,,05-01-2021,06-01-2022,1,1
+1093,spread cheese,42,75,,,07-01-2021,08-01-2022,2,1
+1095,frozen dessert,143,169,,,09-01-2021,10-01-2022,2,1
+1096,vinegar,544,550,,,10-01-2021,11-01-2023,3,1
+1097,nuts/prunes,467,550,,,11-01-2021,12-01-2022,9,4
+1098,potato products,500,565,,,12-01-2021,13-01-2022,6,2
+1099,frozen fish,21,35,,,13-01-2021,14-01-2022,6,1
+1101,chewing gum,102,120,,,18-01-2021,19-01-2022,1,1
+1102,canned fish,914,975,,,19-01-2021,20-01-2022,6,5
+1104,semi-finished bread,80,160,,,21-01-2021,22-01-2022,1,1
+1106,bathroom cleaner,68,80,,,23-01-2021,24-01-2022,12,5
+1107,liver loaf,174,299,,,25-01-2021,26-01-2022,3,1
+1108,canned fruit,142,168,,,27-01-2021,28-01-2022,6,5
+1109,frozen fruits,93,120,,,28-01-2021,29-01-2022,6,6
+1112,spices,364,450,,,31-01-2021,01-02-2022,6,4
+1114,waffles,20,95,,,02-02-2021,03-02-2022,6,1
+1115,sauces,533,650,,,03-02-2021,04-02-2022,6,3
+1117,chocolate marshmallow,25,45,,,05-02-2021,06-02-2023,6,5
+1121,soups,44,63,,,09-02-2021,10-02-2022,6,6
+1122,mustard,100,125,,,10-02-2021,11-02-2022,6,5
+1123,specialty fat,100,138,,,11-02-2021,12-02-2022,6,3
+1124,instant coffee,72,160,,,12-02-2021,13-02-2022,6,4
+1125,snack products,184,250,,,13-02-2021,14-02-2022,6,1
+1126,organic sausage,125,250,,,14-02-2021,15-02-2023,6,4
+1127,soft cheese,224,249,,,15-02-2021,16-02-2023,6,6
+1128,mayonnaise,47,50,,,16-02-2021,17-02-2022,6,4
+1133,cereals,109,200,,,21-02-2021,22-02-2022,6,2
+1134,meat spreads,161,195,,,22-02-2021,23-02-2022,6,1
+1135,dishes,312,340,,,23-02-2021,24-02-2023,6,1
+1136,male cosmetics,50,100,,,24-02-2021,25-02-2022,6,3
+1137,candles,45,60,,,25-02-2021,26-02-2022,6,1
+1138,whisky,22,25,,,26-02-2021,27-02-2022,6,4
+1139,tidbits,500,799,,,27-02-2021,28-02-2023,6,1
+1140,cooking chocolate,10,25,,,28-02-2021,01-03-2022,6,1
+1141,seasonal products,580,1160,,,01-03-2021,02-03-2022,6,4
+1142,liqueur,94,135,,,02-03-2021,03-03-2022,6,1
+1143,abrasive cleaner,190,213,,,03-03-2021,04-03-2022,6,1
+1144,syrup,60,120,,,04-03-2021,05-03-2022,6,3
+1145,ketchup,261,315,,,05-03-2021,06-03-2022,6,2
+1146,cream,280,310,,,06-03-2021,07-03-2022,6,4
+1147,skin care,1092,1150,,,07-03-2021,08-03-2022,6,1
+1148,rubbing alcohol,430,485,,,08-03-2021,09-03-2022,6,1
+1149,nut snack,109,219,,,09-03-2021,10-03-2022,6,1
+1150,cocoa drinks,119,150,,,10-03-2021,11-03-2022,6,2
+1151,softener,1827,2150,,,11-03-2021,12-03-2022,6,2
+1152,organic products,168,170,,,12-03-2021,13-03-2022,6,5
+1153,cake bar,63,105,,,13-03-2021,14-03-2022,6,4
+1154,honey,165,184,,,14-03-2021,15-03-2022,6,5
+1155,jam,464,580,,,15-03-2021,16-03-2022,6,2
+1156,flower (seeds),22,40,,,17-03-2021,18-03-2022,6,6
+1157,rice,55,60,,,18-03-2021,19-03-2022,12,5
+1158,tea,10,28,,,19-03-2021,20-03-2023,6,4
+1159,salad dressing,142,168,,,20-03-2021,21-03-2022,1,1
+1160,specialty vegetables,85,150,,,21-03-2021,22-03-2022,1,1
+1161,pudding powder,23,40,,,22-03-2021,23-03-2022,2,1
+1162,ready soups,173,193,,,23-03-2021,24-03-2022,2,1
+1163,make up remover,1827,2150,,,24-03-2021,25-03-2022,12,2
+1164,toilet cleaner,27,30,,,25-03-2021,26-03-2022,12,1
+1165,preservation products,126,200,,,26-03-2021,27-03-2022,9,4
+1166,Shampoo,179,189,,,11-10-2020,12-10-2021,9,4
+1167,Body_Wash,200,360,,,12-10-2020,13-10-2022,24,13
+1168,Oil,167,180,,,13-10-2020,14-10-2021,9,5
+1169,Besan,19,64,,,14-10-2020,15-10-2021,6,3
+1170,Colgate,75,99,,,15-10-2020,16-10-2022,24,19
+1171,Ghee,51,55,,,16-10-2020,17-05-2021,6,2
+1172,Salt,9,21,,,17-10-2020,18-05-2021,6,1
+1173,Shampoo,500,799,,,18-10-2020,19-10-2022,24,13
+1174, Maggi,133,144,,,19-10-2020,20-10-2021,9,3
+1175,Atta,20,57,,,20-10-2020,21-05-2021,6,1
+1176,Almonds,100,149,,,21-10-2020,22-10-2021,10,4
+1177,Shave Lotion,242,269,,,22-10-2020,23-10-2022,24,19
+1178,Soyabean Oil Pouch,175,200,,,23-10-2020,24-05-2021,6,3
+1179,Toast,36,40,,,24-10-2020,25-01-2021,2,1
+1180, Ghadi Detergent Bar,15,40,,,25-10-2020,26-10-2021,9,1
+1181, NIVEA Men Sensitive After Shave Lotion,224,249,,,26-10-2020,27-10-2022,24,9
+1182, DETTOL Original Liquid Hand Wash Refill Pouch,103,109,,,27-10-2020,28-10-2021,12,7
+1183, Vim Dishwash Bar,15,40,,,28-10-2020,29-10-2022,24,20
+1184,Tea Powder,50,96,,,29-10-2020,30-04-2021,5,2
+1185, DOVE Daily Shine Conditioner,161,190,,,30-10-2020,31-10-2022,15,8
+1186, Kaju Cashews,90,149,,,31-10-2020,01-03-2021,3,2
+1187, Ghadi Detergent Powder 3 kg,151,168,,,01-11-2020,02-11-2022,24,8
+1188, Rin Detergent Bar,44,64,,,02-11-2020,03-11-2021,10,6
+1189, Ariel Matic Top Load Detergent Powder 2 kg,300,449,,,03-11-2020,04-11-2022,24,6
+1190, Fortune Kachi Ghani Mustard Oil Pouch,180,220,,,04-11-2020,05-11-2021,6,1
+1191, Almonds,337,599,,,05-11-2020,06-04-2021,3,2
+1192, Surf excel Easy Wash Detergent Powder 1.5 kg,157,177,,,06-11-2020,07-11-2022,24,8
+1193, SUNSILK Hairfall Solution Shampoo,204,215,,,07-11-2020,08-11-2022,15,2
+1194,Butter,190,235,,,08-11-2020,09-04-2021,3,2
+1195,Cookies with Crunchy Coconut,16,35,,,09-11-2020,10-11-2021,7,1
+1196,Californian Almonds,100,145,,,10-11-2020,11-11-2021,9,5
+1197, Glow & Lovely Advanced Multi Vitamin,159,213,,,11-11-2020,12-11-2021,12,7
+1198,Face Wash,55,65,,,12-11-2020,13-11-2021,9,1
+1199, Fortune Sunlite Refined Sunflower Oil Pouch,205,210,,,13-11-2020,14-05-2021,3,1
+1200, Toor Dal ,133,195,,,14-11-2020,15-11-2021,9,5
+1201, DOVE Daily Shine Shampoo,464,580,,,15-11-2020,16-11-2022,24,5
+1202, Fortune Rice Bran Oil Pouch,184,215,,,16-11-2020,17-11-2021,12,4
+1203, Uttam Sugar Sulphurfree Sugar,44,60,,,17-11-2020,18-11-2021,9,3
+1204, Sunfeast Yippee Magic Masala Instant Noodles Vegetarian,74,93,,,18-11-2020,19-11-2021,6,3
+1205, Protinex Original,891,990,,,19-11-2020,20-11-2021,12,2
+1206, PARLE Premium Elaichi Rusk,36,45,,,20-11-2020,21-11-2021,6,3
+1207, OREO Choco Creme Biscuits,10,25,,,21-11-2020,22-11-2021,9,5
+1208, CONTINENTAL Xtra Instant Coffee,90,115,,,22-11-2020,23-11-2021,9,2
+1209, Glow & Lovely Advanced Multi Vitamin,160,213,,,23-11-2020,24-11-2022,15,3
+1210, Amul Pasteurised Salted Butter,18,48,,,24-11-2020,25-05-2021,3,2
+1211, Sunfeast Mom's Magic Cashew & Almonds Biscuits,81,105,,,25-11-2020,26-11-2021,6,3
+1212, Tata Q Spicy Vegetable Biryani 330 g,49,99,,,26-11-2020,27-11-2021,10,4
+1213, GILLETTE Fusion Cartridge,1827,2150,,,27-11-2020,28-11-2021,12,5
+1214, PARLE G Gold Biscuits,88,125,,,28-11-2020,29-11-2021,6,1
+1215, Fortune Xpert Pro Sugar Conscious Blended Oil Can,816,825,,,29-11-2020,30-11-2021,3,1
+1216, Kapiva Organic Sulphur Free Jaggery Powder Powder Jaggery,45,85,,,30-11-2020,01-12-2021,2,2
+1217, Lactogrow Nestle Nutritious Milk Drink,324,360,,,01-12-2020,02-12-2021,2,2
+1218, Tata Agni Tea Pouch,245,300,,,02-12-2020,03-12-2021,9,2
+1219, Real Masala Pomegranate,72,120,,,03-12-2020,04-12-2021,5,1
+1220, Cadbury Bournvita Inner Strength,381,410,,,04-12-2020,05-12-2021,9,3
+1221, DOVE Oxygen Moisture Shampoo,275,290,,,05-12-2020,06-12-2022,24,12
+1222, Harpic Power Plus Original Liquid Toilet Cleaner,200,258,,,06-12-2020,07-12-2022,18,6
+1223, KOHINOOR Royale Authentic Biryani Basmati Rice (Long Grain),115,189,,,07-12-2020,08-12-2021,9,5
+1224, KOHINOOR Charminar Rice (Long Grain),299,549,,,08-12-2020,09-12-2021,9,4
+1225, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,315,399,,,09-12-2020,10-12-2021,9,3
+1226, Tide Plus Extra Power Jasmine and Rose Detergent Powder 4 kg,423,465,,,10-12-2020,11-12-2021,12,8
+1227, Nutraj Gold Walnut Kernels (Akhrot Giri) Walnuts,301,435,,,11-12-2020,12-12-2021,5,2
+1228, EXO Touch & Shine Round Dishwash Bar,120,138,,,12-12-2020,13-12-2021,12,4
+1229, MORTEIN Smart Mosquito Vaporiser Refill,134,149,,,13-12-2020,14-02-2021,2,2
+1230, Gowardhan Classic Block Paneer,78,85,,,14-12-2020,15-02-2021,2,1
+1231, Tata Lite Iodized Salt,35,40,,,15-12-2020,16-12-2021,6,1
+1232, PARLE G Original Gluco Biscuits,10,25,,,16-12-2020,17-12-2021,6,1
+1233, Hit Spray Flying Insect Killer Lime Fragrance 700ml,312,340,,,17-12-2020,18-12-2021,8,2
+1234, BRITANNIA 50-50 Maska Chaska,10,30,,,18-12-2020,19-12-2021,3,1
+1235, INDIA GATE Sweet Indulgence Rice (Broken Grain),25,51,,,19-12-2020,20-12-2021,6,2
+1236, Desi Choice Toor Dal (Split),126,150,,,20-12-2020,21-12-2021,6,1
+1237, NIVEA Men Sensitive After Shave Lotion,224,249,,,21-12-2020,22-12-2022,18,5
+1238, Flipkart Supermart Select Sooji/Rava,42,75,,,22-12-2020,23-12-2021,6,2
+1239, BRITANNIA NutriChoice Digestive High Fibre Biscuits,143,169,,,23-12-2020,24-12-2021,3,1
+1240, Shree Akshara Premium  Sona Masoori Rice (Steam),544,550,,,24-12-2020,25-12-2021,6,1
+1241, Organic Tattva Sona Masoori Rice (Parboiled),467,550,,,25-12-2020,26-12-2021,6,1
+1242, PATANJALI Cow's Ghee 1 L Box,500,565,,,26-12-2020,27-12-2021,10,2
+1243, Sreebhog Dalia Broken Wheat,21,35,,,27-12-2020,28-12-2021,8,2
+1244, BRITANNIA Marie Gold Biscuits,102,120,,,28-12-2020,29-05-2021,3,3
+1245, Pediasure Vanilla Delight Health Drink,914,975,,,29-12-2020,30-12-2021,9,4
+1246, Flipkart Supermart Home Essentials Disinfectant Original Liquid Toilet Cleaner,80,160,,,30-12-2020,31-12-2021,12,9
+1247, MTR Vermicelli 850 g,68,80,,,31-12-2020,01-01-2022,10,6
+1248, Nutraj Raisins (Kishmish) Raisins,174,299,,,01-01-2021,02-01-2022,6,3
+1249, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168,,,02-01-2021,03-01-2022,12,8
+1250, Sunfeast Dark Fantasy Choco Fills,93,120,,,03-01-2021,04-01-2022,6,1
+1251, Mr. White Detergent Powder 5 kg,364,450,,,04-01-2021,05-01-2024,18,12
+1252, Red Label Natural Care Cardamom,300,390,,,05-01-2021,06-01-2022,12,4
+1253, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,06-01-2021,07-01-2022,8,2
+1254, Vim Dish Cleaning Gel,22,45,,,07-01-2021,08-01-2022,12,9
+1255, MASTER COOK  - 700 ml Polypropylene Grocery Container,44,63,,,08-01-2021,09-01-2022,12,5
+1256, Kellogg's Chocos,100,125,,,09-01-2021,10-01-2022,6,4
+1257, Glow & Lovely Natural Glow,100,138,,,10-01-2021,11-01-2023,24,16
+1258, Dukes Eclairs Chocolate Candy,72,160,,,11-01-2021,12-01-2022,6,2
+1259, Dalda Kachi Ghani Mustard Oil Plastic Bottle,184,250,,,12-01-2021,13-01-2022,8,4
+1260, Dukes Digestive,125,250,,,13-01-2021,14-01-2022,6,2
+1261, NIVEA Men Sensitive After Shave Lotion,224,249,,,14-01-2021,15-01-2023,18,13
+1262, Fortune Soya Chunks,47,50,,,15-01-2021,16-01-2022,6,2
+1263, PARLE Aloo Bhujia,109,200,,,16-01-2021,17-01-2022,8,2
+1264, Saffola Classic Masala Oats,161,195,,,17-01-2021,18-01-2022,8,2
+1265, Hit Spray Crawling Insect Killer 700ml,312,340,,,18-01-2021,19-01-2022,12,4
+1266, Malkist Cheese Crackers Family Pack,50,100,,,19-01-2021,20-01-2022,10,4
+1267, Tide Naturals Lemon and Chandan Detergent Powder 800 g,30,60,,,20-01-2021,21-01-2023,24,20
+1268, BRITANNIA Nice Time Coconut Biscuits,22,25,,,21-01-2021,22-01-2022,6,3
+1269, DOVE Intense Repair Shampoo,500,799,,,22-01-2021,23-01-2023,18,6
+1270, Sunfeast Bounce Tangy Orange Cream Biscuit,10,25,,,23-01-2021,24-01-2022,3,2
+1271, Ariel Complete Detergent Powder 4 kg,580,1160,,,24-01-2021,25-01-2023,18,4
+1272, OREO Original Chocolatey Sandwich Biscuits,94,135,,,25-01-2021,26-01-2022,6,3
+1273, Glow & Lovely Advanced Multi Vitamin,190,213,,,26-01-2021,27-01-2022,12,2
+1274, safe harvest Red Chilli Long,60,120,,,27-01-2021,28-01-2022,10,2
+1275, DHAMPURE Sulphurless Sugar,261,315,,,28-01-2021,29-01-2022,10,4
+1276, Kellogg's Original Corn Flakes,250,310,,,29-01-2021,30-01-2022,9,1
+1277, Ariel Matic Front Load Detergent Powder 4 kg,1092,1150,,,30-01-2021,31-01-2023,24,6
+1278, Amul Pure Ghee 1 L Tetrapack,300,485,,,31-01-2021,01-02-2022,6,1
+1279, MOTHER'S RECIPE Rozaana Ginger Garlic Paste,109,219,,,01-02-2021,02-02-2022,6,2
+1280, Desi Choice Rajma Chithra (Whole),119,150,,,02-02-2021,03-02-2022,6,1
+1281, GILLETTE Fusion Cartridge,1827,2150,,,03-02-2021,04-02-2022,12,3
+1282, Gemini Refined Soyabean Oil Pouch,168,170,,,04-02-2021,05-02-2022,9,3
+1283, Real Masala Guava,63,105,,,05-02-2021,06-02-2023,18,15
+1284, Harpic 500 ml Lemon Bathroom Cleaner & 500 ml Power Plus Regular Liquid Toilet Cleaner,165,184,,,06-02-2021,07-02-2023,18,14
+1285, DOVE Daily Shine Shampoo,464,580,,,07-02-2021,08-02-2022,12,8
+1286, Sooji/Bombay Rava,22,40,,,08-02-2021,09-02-2022,9,2
+1287, Cadbury Chocobakes Chocolate Cake,55,60,,,09-02-2021,10-02-2022,9,3
+1288, Maggi Pazzta Cheese Macaroni Pasta,10,28,,,10-02-2021,11-02-2022,9,2
+1289, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168,,,11-02-2021,12-02-2022,12,8
+1290, AADITYA 501 Turmeric Powder,85,150,,,12-02-2021,13-02-2022,9,1
+1291, Flipkart Supermart Select Refined Wheat Flour (Maida),23,40,,,13-02-2021,14-02-2022,12,5
+1292, DETTOL Disinfectant Lime Fresh Antiseptic Liquid,173,193,,,14-02-2021,15-02-2023,18,12
+1293, GILLETTE Fusion Cartridge,1827,2150,,,15-02-2021,16-02-2023,18,11
+1294, Ching's Secret Veg Hakka Noodles Vegetarian,27,30,,,16-02-2021,17-02-2022,9,4
+1295, Desi Choice Green Moong Dal (Split),126,200,,,17-02-2021,18-02-2022,9,1
+1296, Knorr Sweet Corn Veg Cup-a-Soup,10,25,,,18-02-2021,19-02-2022,6,5
+1297, DOVE Intense Repair Conditioner,161,190,,,19-02-2021,20-02-2022,12,8
+1298, Cadbury Bournvita Pro Health Vitamins,300,310,,,20-02-2021,21-02-2022,9,6
+1299, Sreebhog Phool Makhana,115,150,,,21-02-2021,22-02-2022,6,1
+1300, Parachute Pure Coconut Hair Oil,120,128,,,22-02-2021,23-02-2022,12,5
+1301, Yardley London Gold Deodorant Spray  -  For Men,159,199,,,23-02-2021,24-02-2023,18,11
+1302, Apis Royal Zahidi Premium Dates,207,230,,,24-02-2021,25-02-2022,8,1
+1303, Quaker Oats with Flavour Mix,39,49,,,25-02-2021,26-02-2022,9,1
+1304, INDIA GATE Regular Choice Basmati Rice,315,400,,,26-02-2021,27-02-2022,12,5
+1305, SUNSILK Hairfall Solution Shampoo,204,215,,,27-02-2021,28-02-2023,18,10
+1306, Kwality Crunchy Muesli Fruit N Nut,280,560,,,28-02-2021,01-03-2022,9,3
+1307, Kissan Mixed Fruit Jam 200 g,30,68,,,01-03-2021,02-03-2022,8,5
+1308, Maggi Nutri-licious Atta Masala Instant Noodles Vegetarian,35,86,,,02-03-2021,03-03-2022,8,3
+1309, Glow & Lovely Advanced Multivitamin Face Cream,50,106,,,03-03-2021,04-03-2022,12,5
+1310, Boost Health,250,322,,,04-03-2021,05-03-2022,9,1
+1311, PARLE Monaco Salted Biscuits,10,25,,,05-03-2021,06-03-2022,6,1
+1312, Maaza Mango,60,70,,,06-03-2021,07-03-2022,3,1
+1313, Clinic Plus Strong & Thick Health Shampoo,179,189,,,07-03-2021,08-03-2022,12,5
+1314, BRITANNIA Fruity Fun Cake,27,30,,,08-03-2021,09-03-2022,3,1
+1315, UNIBIC Choco Ripple Cookies,20,40,,,09-03-2021,10-03-2022,3,1
+1316, Fortune Besan,59,60,,,10-03-2021,11-03-2022,9,5
+1317, Protinex Tasty Chocolate Flavour,498,560,,,11-03-2021,12-03-2022,8,3
+1318, Harpic Bathroom Cleaner Liquid Lemon,75,95,,,12-03-2021,13-03-2022,9,2
+1319, Odonil Multi Fragrance Blocks,133,147,,,13-03-2021,14-03-2022,12,6
+1320, Saffola Tasty Pro Fitness Conscious Blended Oil Pouch,180,193,,,14-03-2021,15-03-2022,12,5
+1321, Glow & Lovely Natural Glow,100,138,,,15-03-2021,16-03-2022,6,1
+1322, UNIBIC Fruit & Nut Cookies,22,25,,,16-03-2021,17-03-2022,9,1
+1323, Kwality Corn Flakes,29,50,,,17-03-2021,18-03-2022,6,5
+1324, Priyagold Italiano Cookies with Smoothness of Butter,20,35,,,18-03-2021,19-03-2022,6,2
+1325, Flipkart Supermart Detergent Powder 4 kg,288,352,,,19-03-2021,20-03-2023,18,15
+1326, Tata Gold Care Tea Box,112,140,,,20-03-2021,21-03-2022,9,4
+1327, Minute Maid Pulpy Orange,25,35,,,21-03-2021,22-03-2022,6,1
+1328, Tropicana Mixed Fruit Delight,82,110,,,22-03-2021,23-03-2022,6,1
+1329, Pediasure Vanilla Delight Health Drink,914,975,,,23-03-2021,24-03-2022,6,1
+1330, Flipkart Supermart Select Indian Raisins,52,80,,,24-03-2021,25-03-2022,9,2
+1331, Cadbury Dairy Milk Chocolate Bars,75,100,,,25-03-2021,26-03-2022,8,1
+1332, winkies Cafe Select,30,60,,,26-03-2021,27-03-2022,6,2
+1333, DOVE Intense Repair Shampoo,500,799,,,27-03-2021,28-03-2022,12,6
+1334, PEPSODENT Cavity Protection Toothpaste,115,128,,,28-03-2021,29-03-2022,12,9
+1335, Organic Tattva Powder Powder Jaggery,59,80,,,29-03-2021,30-03-2022,9,4
+1336, Desi Choice Roasted Chana,70,85,,,30-03-2021,31-03-2022,8,1
+1337, GILLETTE Fusion Cartridge,1827,2150,,,31-03-2021,01-04-2023,18,10
+1338, Surf excel Matic Top Load Liquid Detergent,340,380,,,01-04-2021,02-04-2023,18,11
+1339, Daawat Rozana Super Basmati Rice (Medium Grain),309,390,,,02-04-2021,03-04-2022,9,4
+1340, STAYFREE Secure Cottony XL Wings Sanitary Pad,209,220,,,03-04-2021,04-04-2022,24,17
+1341, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,04-04-2021,05-04-2022,9,3
+1342, Priyagold Italiano Cookies with Crunchy Chocochips,20,35,,,05-04-2021,06-04-2022,6,1
+1343, ACT II Party Pack Butter Delite Popcorn,108,120,,,06-04-2021,07-04-2022,24,20
+1344, Flipkart Supermart Select Fenugreek (Methi),34,47,,,07-04-2021,08-04-2022,6,2
+1345, DOVE Deeply Nourishing Body Wash,300,360,,,08-04-2021,09-04-2022,6,1
+1346, Sugarlite 50% Less Calories Sugar,49,99,,,09-04-2021,10-04-2022,24,18
+1347, AASHIRVAAD Instant Mix - Gulab Jamun 500 g,110,220,,,10-04-2021,11-04-2022,9,2
+1348, AASHIRVAAD Atta with Multigrains,551,570,,,11-04-2021,12-04-2022,6,3
+1349, Glow & Lovely Natural Glow,90,138,,,12-04-2021,13-04-2022,10,2
+1350, DETTOL Disinfectant Menthol Cool Antiseptic Liquid,176,196,,,13-04-2021,14-04-2022,24,18
+1351, AASHIRVAAD Chilli,50,85,,,14-04-2021,15-04-2022,6,2
+1352, BRITANNIA Treat Creme Roll Vanilla Croissants,12,15,,,15-04-2021,16-04-2022,2,1
+1353, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,300,399,,,16-04-2021,17-04-2022,9,4
+1354, Cadbury Bournvita Inner Strength Formula,200,209,,,17-04-2021,18-04-2022,24,17
+1355, CINTHOL Lime Soap,229,270,,,18-04-2021,19-04-2022,12,5
+1356, Sunfeast Yumfills Cake,92,140,,,19-04-2021,20-04-2022,24,17
+1357, Hit Spray Flying Insect Killer 700ml,306,340,,,20-04-2021,21-04-2022,5,2
+1358, zoff Clove,20,35,,,21-04-2021,22-04-2022,15,8
+1359, Tide Plus Extra Power Lemon and Mint,423,465,,,22-04-2021,23-04-2022,3,3
+1360, Dukes Bourbon,50,90,,,23-04-2021,24-04-2022,24,18
+1361, Yardley London Gold Deodorant Spray  -  For Men,159,199,,,24-04-2021,25-04-2022,10,7
+1362, Kwality Breakfast Cereals Combo,48,60,,,25-04-2021,26-04-2022,24,19
+1363, KOHINOOR Hyderabadi Biryani Masala,16,20,,,26-04-2021,27-04-2022,6,1
+1364, Tata Premium Anokha Swad Tea Pouch,408,470,,,27-04-2021,28-04-2022,3,2
+1365, CINTHOL Original Soap,378,420,,,28-04-2021,29-04-2022,24,17
+1366, COMFORT After Wash Morning Fresh Fabric Conditioner,199,220,,,29-04-2021,30-04-2022,15,10
+1367, sprite PET Bottle,80,90,,,30-04-2021,01-05-2022,3,1
+1368, Regency Dried Cranberries,118,220,,,01-05-2021,02-05-2022,7,2
+1369, DOVE Daily Shine Conditioner,161,190,,,02-05-2021,03-05-2022,9,3
+1370, PARLE Krack Jack Sweet & Salty Crackers,54,60,,,03-05-2021,04-05-2022,12,4
+1371, zoff Black Pepper,88,100,,,04-05-2021,05-05-2022,9,3
+1372, LIFEBUOY Total 10 Hand Wash Refill Hand Wash Pouch,100,199,,,05-05-2021,06-05-2022,3,1
+1373, SUNSILK Stunning Black Shine,400,469,,,06-05-2021,07-05-2022,9,6
+1374, Tide Detergent Bar Soap,75,100,,,07-05-2021,08-05-2022,24,12
+1375, Surf excel Matic Front Load Liquid Detergent,370,415,,,08-05-2021,09-05-2022,12,7
+1376, Shree Akshara Premium Sona Masoori Rice (Raw),590,730,,,09-05-2021,10-05-2022,9,2
+1377, SUNSILK Lusciously Thick & Long Shampoo,360,480,,,10-05-2021,11-05-2022,6,3
+1378, EMAMI Healthy & Tasty Kachchi Ghani Mustard Oil Plastic Bottle,183,215,,,11-05-2021,12-05-2022,12,2
+1379, santoor Sandal & Turmeric Soap,246,300,,,12-05-2021,13-05-2022,6,3
+1380, Kellogg's Choco Moon and Stars,380,640,,,13-05-2021,14-05-2022,9,3
+1381, DOVE Intense Repair Shampoo,500,799,,,14-05-2021,15-05-2022,9,1
+1382, Flipkart Supermart Select Phool Makhana,153,168,,,15-05-2021,16-05-2022,15,3
+1383, Regency Apricots,122,195,,,16-05-2021,17-05-2022,3,2
+1384, BRITANNIA Good Day Cashew Cookies,172,230,,,17-05-2021,18-05-2022,6,2
+1385, Nyle Refreshing Facial Sheet Mask,96,125,,,18-05-2021,19-05-2022,10,4
+1386, Maggi Hot & Sweet Tomato Chilli Sauce Sauce,148,165,,,19-05-2021,20-05-2022,12,3
+1387, Rin Lemon and Rose Detergent Powder 4 kg,297,338,,,20-05-2021,21-05-2022,6,2
+1388, Molsi's Broken 4 Pieces Cashews,367,425,,,21-05-2021,22-05-2022,3,4
+1389, CINTHOL Lime Soap,229,270,,,22-05-2021,23-05-2022,2,2
+1390, Real Fruit Juice - Apple,92,105,,,23-05-2021,24-05-2022,2,2
+1391, Flipkart Supermart Home Essentials Disinfectant Surface Cleaner Lemon,165,330,,,24-05-2021,25-05-2022,9,2
+1392, Kamasutra Spark Power series Body Spray  -  For Men & Women,105,210,,,25-05-2021,26-05-2022,5,1
+1393, Lipton Honey,450,517,,,26-05-2021,27-05-2022,9,2
+1394, Flipkart Supermart Select Rice Flour,26,40,,,27-05-2021,28-05-2022,24,20
+1395, Lay's India's Magic Masala Chips,80,85,,,28-05-2021,29-05-2022,18,10
+1396, Farmley Popular California Almonds,667,1250,,,29-05-2021,30-05-2022,9,2
+1397, Flipkart Supermart Front Load Matic Detergent Powder 2 kg,299,499,,,30-05-2021,31-05-2022,9,3
+1398, Horlicks Women's Plus Calseal Formula - Caramel Flavour,275,299,,,31-05-2021,01-06-2022,9,2
+1399, B Natural Orange - Juice,71,110,,,01-06-2021,02-06-2022,12,3
+1400, PATANJALI Whole Wheat Atta,250,340,,,02-06-2021,03-06-2022,5,2
+1401, BRITANNIA Processed cheese Slices,147,155,,,03-06-2021,04-06-2022,12,6
+1402, Saffola Veggie Twist Masala Oats,161,195,,,04-06-2021,05-06-2022,2,2
+1403, Pepsi Plastic Bottle,63,75,,,05-06-2021,06-06-2022,2,1
+1404, DETTOL Disinfectant Lime Fresh Antiseptic Liquid,312,347,,,06-06-2021,07-06-2022,6,1
+1405, DOVE Hair Fall Rescue Shampoo,242,255,,,07-06-2021,08-06-2022,6,1
+1406, SUNSILK Stunning Black Shine,400,469,,,08-06-2021,09-06-2022,8,1
+1407, colin Glass Cleaner,139,159,,,09-06-2021,10-06-2022,3,1
+1408, LIZOL Disinfectant Surface Cleaner Citrus,50,93,,,10-06-2021,11-06-2022,6,1
+1409, Glow & Lovely Natural Glow,100,138,,,11-06-2021,12-06-2022,6,1
+1410, Parachute Advansed Gold Coconut  Hair Oil,182,215,,,12-06-2021,13-06-2022,18,10
+1411, Saffola 100% Pure Honey,313,430,,,13-06-2021,14-06-2022,6,5
+1412, Flipkart Supermart Select Cardamom (Elaichi Green),191,300,,,14-06-2021,15-06-2022,3,2
+1413, Glow & Lovely Advanced Multivitamin Face Cream,90,106,,,15-06-2021,16-06-2022,6,1
+1414, Glow & Lovely Advanced Multi Vitamin,150,213,,,16-06-2021,17-06-2022,6,1
+1415, Flipkart Supermart Home Essentials Jasmine,40,80,,,17-06-2021,18-06-2022,10,2
+1416, Taj Mahal Tea Box,100,150,,,18-06-2021,19-06-2022,8,1
+1417, Lactogrow Nestle Nutritious Milk Drink,324,360,,,19-06-2021,20-06-2022,3,2
+1418, MOTHER DAIRY Pure Healthy Cow Ghee 1 L Pouch,529,550,,,20-06-2021,21-06-2022,9,3
+1419, Flipkart Supermart Select Red Masoor Dal (Whole),116,150,,,21-06-2021,22-06-2022,12,2
+1420, UNITY Biryani Basmati Rice (Long Grain),109,170,,,22-06-2021,23-06-2022,10,4
+1421, DOVE Intense Repair Shampoo,500,799,,,23-06-2021,24-06-2022,6,2
+1422, Desi Choice Chakki Atta,141,180,,,24-06-2021,25-06-2022,12,6
+1423, Desi Choice Raw Peanut (Whole),84,100,,,25-06-2021,26-06-2022,6,2
+1424, Tide Plus Jasmine and Rose Detergent Powder 1 kg,68,100,,,26-06-2021,27-06-2022,18,15
+1425, CINTHOL Original Soap,378,420,,,27-06-2021,28-06-2022,12,12
+1426, Tulsi Dry Figs,367,440,,,28-06-2021,29-06-2022,8,3
+1427, BRITANNIA Good Day Chocochip Biscuits,90,120,,,29-06-2021,30-06-2022,12,2
+1428, PARLE BakeSmith The English Marie,30,60,,,30-06-2021,01-07-2022,12,6
+1429, Yardley London Gentleman Classic Body Spray  -  For Men,500,799,,,01-07-2021,02-07-2022,6,2
+1430, tetley Lemon,20,35,,,02-07-2021,03-07-2022,24,12
+1431, Ching's Secret Chilli Vinegar,300,360,,,03-07-2021,04-07-2022,6,4
+1432, VEEBA Truly Tomato Ketchup,90,138,,,04-07-2021,05-07-2022,8,2
+1433, Boost Health,300,399,,,05-07-2021,06-07-2022,6,2
+1434, Flipkart Supermart Select Red Masoor Dal (Split),200,209,,,06-07-2021,07-07-2022,18,13
+1435, Hajmola Imli,20,35,,,07-07-2021,08-07-2022,6,2
+1436, Desi Choice Masoor Dal (Whole),50,90,,,08-07-2021,09-07-2022,8,2
+1437, Hit Spray Crawling Insect Killer 700ml,100,199,,,09-07-2021,10-07-2022,8,1
+1438, Desi Choice Peas (Whole),400,469,,,10-07-2021,11-07-2022,12,3
+1439, PARLE Hide & Seek Chocolate Chip Cookies,500,799,,,11-07-2021,12-07-2022,10,7
+1440, COMPLAN Royale Chocolate,250,340,,,12-07-2021,13-07-2022,24,20
+1441, SUNSILK Lusciously Thick & Long Shampoo,400,469,,,13-07-2021,14-07-2022,6,2
+1442, Milkfood Rich Desi Ghee 500 ml Carton,50,93,,,14-07-2021,15-07-2022,18,11
+1443, Priyagold Butter Delite Namkeen Biscuits,100,138,,,15-07-2021,16-07-2022,3,1
+1444, KALEVA Moong Dal,90,106,,,16-07-2021,17-07-2022,18,11
+1445, NIVEA Fresh Active Deodorant Roll-on  -  For Men,150,213,,,17-07-2021,18-07-2022,6,2
+1446, MASTER COOK  - 500 ml Polypropylene Fridge Container,100,150,,,18-07-2021,19-07-2022,12,4
+1447, HIMALAYA Complete Care Toothpaste,500,799,,,19-07-2021,20-07-2022,10,3
+1448, Margo Neem Soap,68,100,,,20-07-2021,21-07-2022,10,4
+1449, Glow & Lovely Natural Glow,30,60,,,21-07-2021,22-07-2022,9,2
+1450, DETTOL Cool Germ Protection Bathing Soap,500,799,,,22-07-2021,23-07-2022,24,15
+1451, Bambino Pep Elbow Macaroni Pasta,20,35,,,23-07-2021,24-07-2022,6,2
+1452, Nestle Everyday Shahi Ghee 1 L Tetrapack,300,360,,,24-07-2021,25-07-2022,6,2
+1453, Glow & Lovely Advanced Multivitamin Face Cream,90,138,,,25-07-2021,26-07-2022,6,2
+1454, Tamil Ponni Boiled Rice (Boiled),300,399,,,26-07-2021,27-07-2022,12,9
+1455, Savlon Herbal Sensitive Handwash Hand Wash Pouch,200,209,,,27-07-2021,28-07-2022,9,4
+1456, Flipkart Supermart Select Medium Poha,20,35,,,28-07-2021,29-07-2022,18,11
+1457, DOVE Daily Shine Shampoo,50,90,,,29-07-2021,30-07-2022,18,11
+1458, Colgate Zigzag Medium Toothbrush,100,199,,,30-07-2021,31-07-2022,12,5
+1459, Cadbury Perk Home Treats Chocolate Bars,400,469,,,31-07-2021,01-08-2022,9,9
+1460, Everyuth Naturals Moisturising Fruit Face Wash,500,799,,,01-08-2021,02-08-2022,9,2
+1461, SUNSILK Lusciously Thick & Long Shampoo,250,340,,,02-08-2021,03-08-2022,9,1
+1462, KURKURE Puffcorn Yummy Cheese,400,469,,,03-08-2021,04-08-2022,12,6
+1463, Happilo 100% Natural California Almonds,50,93,,,04-08-2021,05-08-2022,9,6
+1464, MiRiNDA Plastic Bottle,100,138,,,05-08-2021,06-08-2022,12,7
+1465, MORTEIN Smart Mosquito Vaporiser Refill,90,106,,,06-08-2021,07-08-2022,18,11
+1466, NUTRELA Soya Chunks,150,213,,,07-08-2021,08-08-2022,18,10
+1467, Kwality Choco Flakes,100,150,,,08-08-2021,09-08-2022,9,2
+1468, Kiwi Mr. Muscle Dranex Powder Drain Opener,500,799,,,09-08-2021,10-08-2022,9,4
+1469, GILLETTE Venus Hair Removal Razor for Women,68,100,,,10-08-2021,11-08-2022,6,5
+1470, Hit Spray Crawling Insect Killer 700ml,30,60,,,11-08-2021,12-08-2022,12,2
+1471, MTR Badam Drink Mix,215,250,,,12-08-2021,13-08-2022,9,3
+1472, Catch Garam Masala,68,78,,,13-08-2021,14-08-2022,6,2
+1473, DOVE Intense Repair Shampoo,30,60,,,14-08-2021,15-08-2022,12,6
+1474, LIZOL Disinfectant Floor Cleaner Refill Pack Floral,500,799,,,15-08-2021,16-08-2022,18,14
+1475, Paper boat Slurpy Mango Juicer Drink,20,35,,,16-08-2021,17-08-2022,8,5
+1476, Everyuth Naturals Tulsi Turmeric Face Wash,300,360,,,17-08-2021,18-08-2022,9,2
+1477, Lactogrow Nestle Nutritious Milk Drink,90,138,,,18-08-2021,19-08-2022,12,7
+1478, ORION Choco Pie Chocolate Coated Soft Biscuit,300,399,,,19-08-2021,20-08-2022,18,4
+1479, BRITANNIA Processed cheese Slices,200,209,,,20-08-2021,21-08-2022,9,3
+1480, Flipkart Supermart Select Californian Almonds,20,35,,,21-08-2021,22-08-2022,8,7
+1481, Boost Health,50,90,,,22-08-2021,23-08-2022,8,1
+1482, KOHINOOR Charminar Brown Rice,100,199,,,23-08-2021,24-08-2022,12,6
+1483, Hit Spray Flying Insect Killer 700ml,400,469,,,24-08-2021,25-08-2022,9,1
+1484, Good Knight Power Active Plus Liquid Mosquito Vaporiser Refill,500,799,,,25-08-2021,26-08-2022,6,2
+1485, DOVE Deeply Nourishing Body Wash,250,340,,,26-08-2021,27-08-2022,3,2
+1486, MAKINO Cheese Nachos,400,469,,,27-08-2021,28-08-2022,12,8
+1487, Thums Up PET Bottle,50,93,,,28-08-2021,29-08-2022,3,1
+1488, Too Yumm! Rings Tomato Twist Chips,100,138,,,29-08-2021,30-08-2022,3,2
+1489, DOVE Intense Repair Shampoo,90,106,,,30-08-2021,31-08-2022,9,5
+1490, Fortune Hamesha Basmati Rice (Broken Grain,150,213,,,31-08-2021,01-09-2022,8,5
+1491, UNIBIC Cashew Cookies,100,150,,,01-09-2021,02-09-2022,9,5
+1492, WeiKFiELD Vanilla Flavour Custard Powder,500,799,,,02-09-2021,03-09-2022,12,8
+1493, Glow & Lovely Advanced Multivitamin Face Cream,68,100,,,03-09-2021,04-09-2022,12,5
+1494, INDIA GATE Mini Mogra Basmati Rice (Broken Grain),30,60,,,04-09-2021,05-09-2022,6,5
+1495, EVEREST Tikhalal Chilli Powder,30,60,,,05-09-2021,06-09-2022,9,2
+1496, Karachi Bakery Pista Soan Papdi Mithai Box,500,799,,,06-09-2021,07-09-2022,6,2
+1497, HEAD & SHOULDERS Smooth & Silky Shampoo,20,35,,,07-09-2021,08-09-2022,6,2
+1498, Fortune Soya Chunks,300,360,,,08-09-2021,09-09-2022,18,11
+1499, Heritage Super Dubar Basmati Rice (Medium Grain),90,138,,,09-09-2021,10-09-2022,9,3
+1500, Kellogg's Chocos Combo Pack,300,399,,,10-09-2021,11-09-2022,6,1
+1501, MORTEIN Smart Mosquito Vaporiser Refill,200,209,,,11-09-2021,12-09-2022,6,2
+1502, PATANJALI Gonyle Gomutra and herbs,20,35,,,12-09-2021,13-09-2022,6,2
+1503, zoff Dry Mango Powder (Aamchur),50,90,,,13-09-2021,14-09-2022,9,3
+1504, Real Fruit Juice Mixed,100,199,,,14-09-2021,15-09-2022,8,4
+1505, Glow & Lovely Advanced Multi Vitamin,400,469,,,15-09-2021,16-09-2022,6,3
+1506, Tata Sampann Yellow Moong Dal (Split),500,799,,,16-09-2021,17-09-2022,12,7
+1507, Tata Sampann Garam Masala,250,340,,,17-09-2021,18-09-2022,12,5
+1508, DiSano Pastalicious Pasta,400,469,,,18-09-2021,19-09-2022,9,2
+1509, SUNSILK Stunning Black Shine,50,93,,,19-09-2021,20-09-2022,8,1
+1510, Navratna Cool Ayurvedic Hair Oil,100,138,,,20-09-2021,21-09-2022,18,9
+1511, Flipkart Supermart Select Chiroti Rawa,90,106,,,21-09-2021,22-09-2022,18,11
+1512, GAINDA White Phenyl Plain,150,213,,,22-09-2021,23-09-2022,9,1
+1513, Organic Tattva Sona Masoori Rice (Parboiled),100,150,,,23-09-2021,24-09-2022,24,18
+1514, Whisper Ultra Clean XL Plus Wings Sanitary Pad,500,799,,,24-09-2021,25-09-2022,9,6
+1515, Safewash Gentle Wash Liquid Detergent,68,100,,,25-09-2021,26-09-2022,6,1
+1516, Good Day Pista Badam Cookies,30,60,,,26-09-2021,27-09-2022,24,17
+1517, Ariel Complete Detergent Powder 4 kg,580,1160,,,27-09-2021,28-09-2022,6,2
+1518, yoga bar Nuts and Seeds,20,40,,,28-09-2021,29-09-2022,6,1
+1519, MTR Ready Mix Rava Idli 1 kg,172,215,,,29-09-2021,30-09-2022,24,19
+1520, Cadbury Oreo Dipped,81,135,,,30-09-2021,01-10-2022,9,3
+1521, DOVE Daily Shine Conditioner,161,190,,,01-10-2021,02-10-2022,6,2
+1522, PARLE Monaco Classic Cheeslings,30,60,,,02-10-2021,03-10-2022,10,4
+1523, Flipkart Supermart Disinfectant Surface Cleaner Floral,500,799,,,03-10-2021,04-10-2022,24,16
+1524, LUX Fresh Splash Soap,20,35,,,04-10-2021,05-10-2022,6,5
+1525, Maxkleen Disinfectant Floor Cleaner Citrus,300,360,,,05-10-2021,06-10-2022,2,2
+1526, Ariel Matic Front Load Detergent Powder 4 kg,90,138,,,06-10-2021,07-10-2022,9,6
+1527, Pears Pure & Gentle Bathing Bar,300,399,,,07-10-2021,08-10-2022,24,12
+1528, Lay's Hot n Sweet Chilli Chips,200,209,,,08-10-2021,09-10-2022,12,7
+1529, Glow & Lovely Advanced Multi Vitamin,20,35,,,09-10-2021,10-10-2022,24,10
+1530, TANG Lemon Instant Drink Mix,50,90,,,10-10-2021,11-10-2022,5,1
+1531, Dukes Waffy Kulfi Flavoured Wafer Rolls,100,199,,,11-10-2021,12-10-2022,15,1
+1532, Urad Dal (Whole),400,469,,,12-10-2021,13-10-2022,3,1
+1533, DOVE Hair Fall Rescue Shampoo,500,799,,,13-10-2021,14-10-2022,24,18
+1534, Cadbury Bournville Cranberry Dark Chocolate Bars,250,340,,,14-10-2021,15-10-2022,10,2
+1535, Flipkart Supermart Select Pumpkin Seeds Assorted Nuts,400,469,,,15-10-2021,16-10-2022,24,6
+1536, Hajmola Regular,50,93,,,16-10-2021,17-10-2022,6,1
+1537, Hit Spray Crawling Insect Killer 700ml,100,138,,,17-10-2021,18-10-2022,3,1
+1538, Ariel Top Load Matic Detergent Powder 4 kg,90,106,,,18-10-2021,19-10-2022,24,18
+1539, Horlicks Women's Plus Calseal Formula - Chocolate Flavour,150,213,,,19-10-2021,20-10-2022,15,6
+1540, Colgate Visible White Toothpaste,100,150,,,20-10-2021,21-10-2022,3,1
+1541, Clinic Plus Strong & Thick Health Shampoo,500,799,,,21-10-2021,22-10-2022,7,4
+1542, Surf excel Matic Front Load Detergent Powder 2 kg,68,100,,,22-10-2021,23-10-2022,9,5
+1543, Organic Tattva Wheat Maida,30,60,,,23-10-2021,24-10-2022,12,8
+1544, Urad Dal (Split),30,60,,,24-10-2021,25-10-2022,9,2
+1545, Yardley London Gold Deodorant Spray  -  For Men,500,799,,,25-10-2021,26-10-2022,3,3
+1546, Sona Masoori Rice (Raw),20,35,,,26-10-2021,27-10-2022,9,2
+1547, Fortune Rozana Basmati Rice (Medium Grain),90,138,,,27-10-2021,28-10-2022,24,20
+1548, Cadbury Bournvita 5 Star Magic,200,209,,,28-10-2021,29-10-2022,12,4
+1549, CINTHOL Original Soap,400,469,,,29-10-2021,30-10-2022,9,2
+1550, nutella Ferrero 350 g,150,213,,,30-10-2021,31-10-2022,6,1
+1551, Kwality Choco Flakes,500,799,,,31-10-2021,01-11-2022,12,5
+1552, MTR Instant Dosa Mix 500 g,30,60,,,01-11-2021,02-11-2022,6,2
+1553, MORTEIN Smart Mosquito Vaporiser Refill,250,340,,,02-11-2021,03-11-2022,9,1
+1554, Flipkart Supermart Select Coriander (Dhania Seeds),90,106,,,03-11-2021,04-11-2022,9,3
+1555, Sleepy Owl Original Cold Brew Packs (Set of 3) Roast & Ground Coffee,68,100,,,04-11-2021,05-11-2022,15,11
+1556, Sleepy Owl Hot Brew Latte Bags (Set of 10) Instant Coffee,30,60,,,05-11-2021,06-11-2022,3,2
+1557, Godrej Protekt Germ Protection Dish Cleaning Gel,500,799,,,06-11-2021,07-11-2022,6,1
+1558, Sleepy Owl Assorted Hot Brew Bags (Set of 10) Roast & Ground Coffee,300,360,,,07-11-2021,08-11-2022,10,3
+1559, EVEREST Sabji Masala,300,399,,,08-11-2021,09-11-2022,12,5
+1560, Dabur Meswak Complete Oral Care Toothpaste,20,35,,,09-11-2021,10-11-2022,6,1
+1561, DOVE Oxygen Moisture Shampoo,400,469,,,10-11-2021,11-11-2022,3,2
+1562, Hajmola Anardana,36,40,,,11-11-2021,12-11-2022,2,1
+1563, Kwality Chat Masala,45,60,,,12-11-2021,13-11-2022,2,1
+1564, Tata Sampann Kitchen King Masala,56,75,,,13-11-2021,14-11-2022,9,3
+1565, DOVE Dryness Care Shampoo,242,255,,,14-11-2021,15-11-2022,5,2
+1566, Saffola Active Pro Weight Watchers Blended Oil Can,979,1020,,,15-11-2021,16-11-2022,9,4
+1567, EVEREST Coriander Powder,30,60,,,16-11-2021,17-11-2022,24,17
+1568, BAJAJ Cool Almond Drops Hair Oil,500,799,,,17-11-2021,18-11-2022,18,10
+1569, Glow & Lovely Advanced Multivitamin Face Cream,20,35,,,18-11-2021,19-11-2022,9,2
+1570, zoff Haldamrit Immunity Booster Premix,300,360,,,19-11-2021,20-11-2022,9,4
+1571, Oral-B Pro Health Anti Plaque Medium Toothbrush,90,138,,,20-11-2021,21-11-2022,9,3
+1572, Cadbury 5 Star Home Treats Bars,300,399,,,21-11-2021,22-11-2022,12,2
+1573, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,200,209,,,22-11-2021,23-11-2022,5,1
+1574, safe harvest Tamarind Seedless,20,35,,,23-11-2021,24-11-2022,12,4
+1575, Kalbavi Broken (4 Pieces) Cashews,50,90,,,24-11-2021,25-11-2022,2,1
+1576, Real Fruit Juice - Mango,100,199,,,25-11-2021,26-11-2022,2,2
+1577, Hit Spray Flying Insect Killer Lime Fragrance 700ml,400,469,,,26-11-2021,27-11-2022,6,3
+1578, Saffola Soya Chunks,500,799,,,27-11-2021,28-11-2022,6,2
+1579, PARLE Milano Mixed Berries Cookies,250,340,,,28-11-2021,29-11-2022,8,3
+1580, Priyagold Fresh Gold Mix Fruit,400,469,,,29-11-2021,30-11-2022,3,2
+1581, CINTHOL Original Soap,50,93,,,30-11-2021,01-12-2022,6,3
+1582, Flipkart Supermart Select Ajwain Whole,100,138,,,01-12-2021,02-12-2022,6,3
+1583, Flipkart Supermart Select Red Rajma,90,106,,,02-12-2021,03-12-2022,18,6
+1584, Desi Choice Lobia (Whole),150,213,,,03-12-2021,04-12-2022,6,5
+1585, SUNSILK Hairfall Solution Shampoo,100,150,,,04-12-2021,05-12-2022,3,3
+1586, Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot Toothpaste,500,799,,,05-12-2021,06-12-2022,6,1
+1587, Rajdhani Mix Dal (Whole),68,100,,,06-12-2021,07-12-2022,6,1
+1588, TOP RAMEN Curry Instant Noodles Vegetarian,30,60,,,07-12-2021,08-12-2022,10,6
+1589, GILLETTE Fusion Cartridge,30,60,,,08-12-2021,09-12-2022,8,2
+1590, Cadbury Dairy Milk Silk Oreo Chocolate Bars,500,799,,,09-12-2021,10-12-2022,3,1
+1591, Catch Sprinklers Chat Masala,20,35,,,10-12-2021,11-12-2022,9,2
+1592, Apis Himalaya Honey,90,138,,,11-12-2021,12-12-2022,12,9
+1593, Yardley London Gold Deodorant Spray  -  For Men,200,209,,,12-12-2021,13-12-2022,10,6
+1594, Nescafe Classic Instant Coffee,400,469,,,13-12-2021,14-12-2022,6,2
+1595, CONTINENTAL Malgudi 60 Degree Fresh Filter Coffee,150,213,,,14-12-2021,15-12-2022,12,5
+1596, Eastern Sambar Powder,500,799,,,15-12-2021,16-12-2022,6,3
+1597, Yardley London Gentleman Classic Body Spray  -  For Men,30,60,,,16-12-2021,17-12-2022,18,11
+1598, Molsi's Royal Crunch Cashews,250,340,,,17-12-2021,18-12-2022,12,8
+1599, EVEREST Garam Masala,90,106,,,18-12-2021,19-12-2022,8,2
+1600, Surf excel Matic Top Load Detergent Powder 2 kg,68,100,,,19-12-2021,20-12-2022,12,5
+1601, Ariel Matic Top Load Detergent Powder 2 kg,30,60,,,20-12-2021,21-12-2022,12,6
+1602, Flipkart Supermart Home Essentials Agarbatti Sandal,500,799,,,21-12-2021,22-12-2022,6,1
+1603, Organic Tattva Whole Wheat Flour (Chakki Atta),300,360,,,22-12-2021,23-12-2022,24,15
+1604, Ching's Secret Green Chilli Sauce,300,399,,,23-12-2021,24-12-2022,6,2
+1605, vanish Oxy Action Stain Remover,20,35,,,24-12-2021,25-12-2022,8,2
+1606, Maggi Pazzta Cheesy Tomato Twist Pasta,400,469,,,25-12-2021,26-12-2022,6,2
+1607, Natureland Organics Himalayan Pink Salt,30,60,,,26-12-2021,27-12-2022,18,15
+1608, Pediasure Premium Chocolate Health Drink,500,799,,,27-12-2021,28-12-2022,6,1
+1609, Glow & Lovely Natural Glow,20,35,,,28-12-2021,29-12-2022,8,1
+1610, GLUCON-D Instant Energy Drink,300,360,,,29-12-2021,30-12-2022,8,1
+1611, TRESemme Keratin Smooth Shampoo,90,138,,,30-12-2021,31-12-2022,12,5
+1612, All Out Ultra Mosquito Vaporiser Refill,300,399,,,31-12-2021,01-01-2023,10,1
+1613, GILLETTE Venus Hair Removal Razor for Women,200,209,,,01-01-2022,02-01-2023,24,17
+1614, zoff Bay Leaves,20,35,,,02-01-2022,03-01-2023,6,2
+1615, Regency Anjeer Figs,50,90,,,03-01-2022,04-01-2023,18,12
+1616, Happilo 100% Natural Premium Whole Cashews,100,199,,,04-01-2022,05-01-2023,3,3
+1617, NIVEA Men Sensitive After Shave Lotion,400,469,,,05-01-2022,06-01-2023,18,13
+1618, Flipkart Supermart Select Sunflower Seeds,500,799,,,06-01-2022,07-01-2023,6,1
+1619, Eastern Chicken Masala,250,340,,,07-01-2022,08-01-2023,12,4
+1620, Dukes Waffy Vanilla Wafers,400,469,,,08-01-2022,09-01-2023,10,3
+1621, Yardley London Elegance Deodorant Spray  -  For Men,50,93,,,09-01-2022,10-01-2023,10,5
+1622, Haldiram's Navrattan,100,138,,,10-01-2022,11-01-2023,9,3
+1623, Bingo Mad Angles - Masala Chips,90,106,,,11-01-2022,12-01-2023,24,14
+1624, EVEREST Hing Powder,150,213,,,12-01-2022,13-01-2023,6,2
+1625, Godrej Proclean Disinfectant Liquid Toilet Cleaner,100,150,,,13-01-2022,14-01-2023,6,2
+1626, PARLE Wafers - Tangy Tomato,500,799,,,14-01-2022,15-01-2023,6,1
+1627, Rooh Afza Sharbat Rose,68,100,,,15-01-2022,16-01-2023,12,8
+1628, ACT II Bakes - Cheese & Herbs Chips,30,60,,,16-01-2022,17-01-2023,9,6
+1629, Hit Spray Flying Insect Killer Lime Fragrance 700ml,30,60,,,17-01-2022,18-01-2023,18,6
+1630, KOPIKO Cappuccino Toffee,500,799,,,18-01-2022,19-01-2023,18,13
+1631, Brown & Polson Vanilla Custard Powder,20,35,,,19-01-2022,20-01-2023,12,2
+1632, Haryana King Mini Mongra Basmati Rice (Broken Grain),90,138,,,20-01-2022,21-01-2023,9,3
+1633, CINTHOL Original Soap,200,209,,,21-01-2022,22-01-2023,9,1
+1634, MACARIZE Happy Bird Fruit Fork Set Plastic Fruit Fork,400,469,,,22-01-2022,23-01-2023,9,1
+1635, COMFORT After Wash Lily Fresh Fabric Conditioner,150,213,,,23-01-2022,24-01-2023,12,6
+1636, Haldiram's Dry Fruit Besan Ladoo Carton,500,799,,,24-01-2022,25-01-2023,9,1
+1637, HEAD & SHOULDERS Smooth & Silky Shampoo,30,60,,,25-01-2022,26-01-2023,12,3
+1638, colin Glass & Multisurface Cleaner Sparking Shine Boosters,250,340,,,26-01-2022,27-01-2023,18,13
+1639, Pringles Sour Cream & Onion Flavour Chips,90,106,,,27-01-2022,28-01-2023,18,14
+1640, Closeup Ever Fresh Toothpaste,68,100,,,28-01-2022,29-01-2023,9,3
+1641, santoor Pureglo almond oil and glycerine bathing bar,30,60,,,29-01-2022,30-01-2023,9,5
+1642, FUN FOODS Mayonnaise Veg 500 g,500,799,,,30-01-2022,31-01-2023,6,2
+1643, Alpenliebe Strawberry Jelly Candy,300,360,,,31-01-2022,01-02-2023,12,9
+1644, B Natural Litchi,300,399,,,01-02-2022,02-02-2023,9,5
+1645, Lactogrow Nestle Nutritious Milk Drink,20,35,,,02-02-2022,03-02-2023,6,2
+1646, Bambino Vermicelli 425 g,400,469,,,03-02-2022,04-02-2023,12,5
+1647, MOTHER'S RECIPE Sabudana Papad 70 g,30,60,,,04-02-2022,05-02-2023,18,12
+1648, Fair & Handsome Fair and Handsome Fairness Cream(60G) with Face Wash Instant Fairness(100G),500,799,,,05-02-2022,06-02-2023,8,1
+1649, DOVE Daily Shine Shampoo,20,35,,,06-02-2022,07-02-2023,9,5
+1650, zoff Garam Masala,300,360,,,07-02-2022,08-02-2023,12,4
+1651, Mountain Dew Plastic Bottle,90,138,,,08-02-2022,09-02-2023,18,11
+1652, Flipkart Supermart Select Cassia Bark (Taj),300,399,,,09-02-2022,10-02-2023,9,3
+1653, Pediasure Vanilla Delight Health Drink,200,209,,,10-02-2022,11-02-2023,8,1
+1654, Tata Sampann Brown Chana (Whole),20,35,,,11-02-2022,12-02-2023,8,1
+1655, Ananda Rich Paneer Paneer,50,90,,,12-02-2022,13-02-2023,12,4
+1656, Flipkart Supermart Select Sona Masoori Rice (Steam),100,199,,,13-02-2022,14-02-2023,9,3
+1657, DOVE Daily Shine Conditioner,400,469,,,14-02-2022,15-02-2023,6,2
+1658, Tulsi Abjosh Lazeez Raisins,500,799,,,15-02-2022,16-02-2023,3,3
+1659, Colgate Sensitive Ultra Soft Toothbrush,250,340,,,16-02-2022,17-02-2023,12,7
+1660, 24 Mantra Organic Powder Jaggery,400,469,,,17-02-2022,18-02-2023,3,2
+1661, Yardley London Gold Deodorant Spray  -  For Men,50,93,,,18-02-2022,19-02-2023,3,2
+1662, PARLE Krackjack,100,138,,,19-02-2022,20-02-2023,9,2
+1663, Cadbury Dairy Milk Silk Mousse Bars,90,106,,,20-02-2022,21-02-2023,8,1
+1664, Tata Sampann White Urad Dal (Split),150,213,,,21-02-2022,22-02-2023,9,2
+1665, MORTEIN Smart Mosquito Vaporiser Refill,100,150,,,22-02-2022,23-02-2023,12,4
+1666, Tata Sampann Coriander Powder,500,799,,,23-02-2022,24-02-2023,12,6
+1667, Pansari Refined Soyabean Oil Pouch,68,100,,,24-02-2022,25-02-2023,6,3
+1668, YIPPEE Mood Masala Instant Noodles Vegetarian,30,60,,,25-02-2022,26-02-2023,9,4
+1669, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,30,60,,,26-02-2022,27-02-2023,6,1
+1670, Bingo Salt Sprinkled Potato Chips,500,799,,,27-02-2022,28-02-2023,6,2
+1671, CINTHOL Original Soap,20,35,,,28-02-2022,01-03-2023,18,11
+1672, Dukes Waffy Strawberry Wafer Rolls,90,138,,,01-03-2022,02-03-2023,9,4
+1673, Clinic Plus Strong & Thick Health Shampoo,200,209,,,02-03-2022,03-03-2023,6,1
+1674, Dabur Red Gel Toothpaste,400,469,,,03-03-2022,04-03-2023,6,1
+1675, Bingo Salted Potato Chips,150,213,,,04-03-2022,05-03-2023,6,4
+1676, Waghbakri Premium Leaf Tea Pouch,500,799,,,05-03-2022,06-03-2023,9,1
+1677, DOVE Deeply Nourishing Body Wash,30,60,,,06-03-2022,07-03-2023,8,2
+1678, Cadbury Dairy Milk Silk Roast Almond Bars,250,340,,,07-03-2022,08-03-2023,6,2
+1679, Apis Fruit Blast 700 g,90,106,,,08-03-2022,09-03-2023,12,9
+1680, DETTOL Skincare Hand Wash Refill Pouch,68,100,,,09-03-2022,10-03-2023,12,5
+1681, Yardley London Elegance Deodorant Spray  -  For Men,30,60,,,10-03-2022,11-03-2023,9,4
+1682, BRU Instant Coffee,500,799,,,11-03-2022,12-03-2023,8,2
+1683, Haldiram's Classic Dryfruit Patisa Box,300,360,,,12-03-2022,13-03-2023,18,12
+1684, Regency Cinnamon,300,399,,,13-03-2022,14-03-2023,18,4
+1685, Enchanteur Charming Body Mist  -  For Women,20,35,,,14-03-2022,15-03-2023,9,2
+1686, Flipkart Supermart Select Kolam Rice (Raw),400,469,,,15-03-2022,16-03-2023,24,18
+1687, LIFEBUOY Total 10,193,210,,,16-03-2022,17-03-2023,9,1
+1688, Priyagold Fresh Gold Litchi,64,110,,,17-03-2022,18-03-2023,6,1
+1689, Glow & Lovely Natural Glow,30,60,,,18-03-2022,19-03-2023,24,19
+1690, Sreebhog Maida,500,799,,,19-03-2022,20-03-2023,6,2
+1691, Tata Q Hot and Spicy Schezwan Noodles with Veggies 290 g,20,35,,,20-03-2022,21-03-2023,6,6
+1692, HERSHEY'S Genuine Chocolate Chocolate,300,360,,,21-03-2022,22-03-2023,24,15
+1693, Glow & Lovely Advanced Multi Vitamin,90,138,,,22-03-2022,23-03-2023,9,2
+1694, Ziofit Indian Long Raisins,300,399,,,23-03-2022,24-03-2023,6,3
+1695, CHUKDE Black Salt,200,209,,,24-03-2022,25-03-2023,10,6
+1696, Cadbury Dairy Milk Silk Fruit and Nut Chocolate Bars,20,35,,,25-03-2022,26-03-2023,24,20
+1697, Lactogrow Nestle Nutritious Milk Drink,50,90,,,26-03-2022,27-03-2023,6,1
+1698, Chana Dal (Split),100,199,,,27-03-2022,28-03-2023,2,2
+1699, HIMALAYA Gentle Baby Shampoo,400,469,,,28-03-2022,29-03-2023,9,2
+1700, Oleev Imported Pomace Olive Oil Plastic Bottle,500,799,,,29-03-2022,30-03-2023,24,20
+1701, DOVE Deeply Nourishing Body Wash,250,340,,,30-03-2022,31-03-2023,12,4
+1702, Tide Plus Extra Power Lemon & Mint Detergent Powder 500 g,400,469,,,31-03-2022,01-04-2023,24,17
+1703, MACARIZE 2 in 1 JAPAN design Kitchen Steel All-Purpose Scissor,50,93,,,01-04-2022,02-04-2023,5,1
+1704, Manna Badam Mix,100,138,,,02-04-2022,03-04-2023,15,8
+1705, Glow & Lovely Advanced Multivitamin Face Cream,90,106,,,03-04-2022,04-04-2023,3,2
+1706, Apis Arabian Pearls Premium Fard Dates,150,213,,,04-04-2022,05-04-2023,24,16
+1707, Coca-Cola PET Bottle,100,150,,,05-04-2022,06-04-2023,10,4
+1708, SNICKERS Bars,500,799,,,06-04-2022,07-04-2023,24,20
+1709, Clinic Plus Strong & Thick Health Shampoo,68,100,,,07-04-2022,08-04-2023,6,3
+1710, Amul Fresh Pure Cream,30,60,,,08-04-2022,09-04-2023,3,2
+1711, Dabur Hommade Tomato Puree,30,60,,,09-04-2022,10-04-2023,24,17
+1712, TANG Orange Instant Drink Mix,500,799,,,10-04-2022,11-04-2023,15,8
+1713, Ariel Matic Top Load Detergent Powder 2 kg,20,35,,,11-04-2022,12-04-2023,3,2
+1714, Flipkart Supermart Select Saunf Small,90,138,,,12-04-2022,13-04-2023,7,2
+1715, Maggi Fusian Hong Kong Spicy Garlic Instant Noodles Vegetarian,200,209,,,13-04-2022,14-04-2023,9,2
+1716, Chocoliebe Eclairs Plus Choco Caramel Candy,400,469,,,14-04-2022,15-04-2023,12,4
+1717, DETTOL Original,150,213,,,15-04-2022,16-04-2023,9,3
+1718, Savlon Handwash Moisture Shield Hand Wash Pouch,500,799,,,16-04-2022,17-04-2023,3,2
+1719, Dukes Nice,30,60,,,17-04-2022,18-04-2023,9,4
+1720, MTR Puliogare Powder,250,340,,,18-04-2022,19-04-2023,24,17
+1721, Protinex Tasty Chocolate Flavour,90,106,,,19-04-2022,20-04-2023,12,4
+1722, Happilo Premium Seedless Green Raisins,68,100,,,20-04-2022,21-04-2023,9,2
+1723, CRAX Fritts Chips,30,60,,,21-04-2022,22-04-2023,6,1
+1724, Regency Dried Blueberry,500,799,,,22-04-2022,23-04-2023,12,6
+1725, Godrej Protekt Health Bathing Soap | Citrus Fragrance | Anti-bacterial with 99.9% Germ Protection,300,360,,,23-04-2022,24-04-2023,6,1
+1726, Farmley Roasted & Flavored Makhana - Mint 180g Pack for 2 (90g Each) Fox Nut,300,399,,,24-04-2022,25-04-2023,9,3
+1727, Farmley Roasted & Flavored Makhana - Peri Peri 180g Pack for 2 (90g Each) Fox Nut,20,35,,,25-04-2022,26-04-2023,9,1
+1728, Farmley Roasted & Flavored Makhana - Cream N Onion 180g Pack for 2 (90g Each) Fox Nut,400,469,,,26-04-2022,27-04-2023,15,9
+1729, DOVE Dryness Care Shampoo,242,255,,,27-04-2022,28-04-2023,3,1
+1730, Farmley Roasted & Flavored Makhana - Tangy Tomato 180g Pack for 2 (90g Each) Fox Nut,227,358,,,28-04-2022,29-04-2023,6,3
+1731, Farmley Roasted & Salted Makhana 180g Pack for 2 (90g Each) Fox Nut,244,358,,,29-04-2022,30-04-2023,10,2
+1732, HERSHEY'S Chocolate Flavor Syrup Chocolate,81,90,,,30-04-2022,01-05-2023,12,7
+1733, GILLETTE Fusion Cartridge,1827,2150,,,01-05-2022,02-05-2023,6,3
+1734, Amulya Dairy Whitener Milk Powder,30,60,,,02-05-2022,03-05-2023,3,2
+1735, Rajdhani Moong Dal (Split),500,799,,,03-05-2022,04-05-2023,2,2
+1736, Gits Gulab Jamun Dessert Mix 200 g,20,35,,,04-05-2022,05-05-2023,2,2
+1737, DOVE Intense Repair Shampoo,300,360,,,05-05-2022,06-05-2023,9,3
+1738, Pediasure Vanilla Delight Health Drink,90,138,,,06-05-2022,07-05-2023,5,1
+1739, Ashok Ani Seed Saunf Mahin,300,399,,,07-05-2022,08-05-2023,9,4
+1740, Harpic Power Plus Rose Liquid Toilet Cleaner,200,209,,,08-05-2022,09-05-2023,24,19
+1741, DOVE Deeply Nourishing Body Wash,20,35,,,09-05-2022,10-05-2023,18,14
+1742, Pears Soft and Fresh Bathing Bar,50,90,,,10-05-2022,11-05-2023,9,3
+1743, Everyday Rice Basmati Rice,100,199,,,11-05-2022,12-05-2023,9,1
+1744, EVEREST Sambhar Masala,400,469,,,12-05-2022,13-05-2023,9,1
+1745, Lactogrow Nestle Nutritious Milk Drink,500,799,,,13-05-2022,14-05-2023,12,9
+1746, Paper boat Juice - Orange,250,340,,,14-05-2022,15-05-2023,5,1
+1747, Farmley Selecta Green Long Raisins,400,469,,,15-05-2022,16-05-2023,12,8
+1748, MAKINO Chips,50,93,,,16-05-2022,17-05-2023,2,2
+1749, DOVE Intense Repair Conditioner,100,138,,,17-05-2022,18-05-2023,2,2
+1750, OM bhakti Pancha Deepa Oil,90,106,,,18-05-2022,19-05-2023,6,1
+1751, Rajdhani Dalia Broken Wheat,150,213,,,19-05-2022,20-05-2023,6,2
+1752, PATANJALI Dant Kanti Medicated Oral Gel Toothpaste,100,150,,,20-05-2022,21-05-2023,8,2
+1753, DOVE Hair Fall Rescue Shampoo,500,799,,,21-05-2022,22-05-2023,3,1
+1754, DETTOL Instant ,68,100,,,22-05-2022,23-05-2023,6,3
+1755, Pringles Original Potato Chips,30,60,,,23-05-2022,24-05-2023,6,1
+1756, NIHAR Naturals Shanti Amla Badam  Hair Oil,30,60,,,24-05-2022,25-05-2023,18,9
+1757, NIVEA Sensitive Cooling After Shave Lotion,500,799,,,25-05-2022,26-05-2023,6,2
+1758, ENSURE Vanilla Flavour,20,35,,,26-05-2022,27-05-2023,3,2
+1759, Sunfeast Treat Cheese Pasta,90,138,,,27-05-2022,28-05-2023,6,2
+1760, Colgate ZigZag Charcoal Medium Bristle Toothbrush Medium Toothbrush,200,209,,,28-05-2022,29-05-2023,6,3
+1761, Hit Spray Flying Insect Killer 700ml,400,469,,,29-05-2022,30-05-2023,10,5
+1762, LuvIt Crazysmackers Assorted Lollipop,150,213,,,30-05-2022,31-05-2023,8,1
+1763, PEPSODENT Germicheck Healthy Fresh Toothpaste,500,799,,,31-05-2022,01-06-2023,3,3
+1764, Dukes Waffy Strawberry Wafers,30,60,,,01-06-2022,02-06-2023,9,2
+1765, GILLETTE Venus Hair Removal Razor for Women,250,340,,,02-06-2022,03-06-2023,12,3
+1766, Whisper Ultra Soft XL Wings Sanitary Pad,90,106,,,03-06-2022,04-06-2023,10,3
+1767, Bingo Cream and Onion Potato Chips,68,100,,,04-06-2022,05-06-2023,6,2
+1768, Real Activ 100% Mixed Fruit Juice,30,60,,,05-06-2022,06-06-2023,12,6
+1769, Paper boat Juice - Aamras,500,799,,,06-06-2022,07-06-2023,6,3
+1770, GILLETTE Regular Pre Shave Cream,300,360,,,07-06-2022,08-06-2023,18,13
+1771, Protinex Vanilla Delight,300,399,,,08-06-2022,09-06-2023,12,5
+1772, MOTHER'S RECIPE Appalam 100 g,20,35,,,09-06-2022,10-06-2023,8,4
+1773, Sani Fresh Ultra Shine Liquid Toilet Cleaner,400,469,,,10-06-2022,11-06-2023,12,5
+1774, PATANJALI Amla Juice,30,60,,,11-06-2022,12-06-2023,12,7
+1775, Flipkart Supermart Kitchen Essentials Aluminium Foil,500,799,,,12-06-2022,13-06-2023,6,6
+1776, Nescafe Intense Cafe,20,35,,,13-06-2022,14-06-2023,24,14
+1777, MTR Rice Idli Ready Mix 500 g,300,360,,,14-06-2022,15-06-2023,6,6
+1778, Glow & Lovely Natural Glow,90,138,,,15-06-2022,16-06-2023,8,4
+1779, UNIBIC Milk Cookies,300,399,,,16-06-2022,17-06-2023,6,5
+1780, BRITANNIA NutriChoice Sugar free Cream Cracker,200,209,,,17-06-2022,18-06-2023,18,14
+1781, Maggi Nutri-licious Oats Masala Instant Noodles Vegetarian,20,35,,,18-06-2022,19-06-2023,6,3
+1782, DOVE Intense Repair Shampoo,50,90,,,19-06-2022,20-06-2023,8,4
+1783, Rajdhani Chana Dal (Split),100,199,,,20-06-2022,21-06-2023,8,3
+1784, SUNSILK Lusciously Thick & Long Nourishing Conditioner,400,469,,,21-06-2022,22-06-2023,12,2
+1785, Flipkart Supermart Classic Moong Dal (Whole),500,799,,,22-06-2022,23-06-2023,10,4
+1786, SUNSILK Stunning Black Shine,250,340,,,23-06-2022,24-06-2023,24,10
+1787, BRITANNIA Winkin Cow Flavoured Milk,400,469,,,24-06-2022,25-06-2023,6,1
+1788, Flipkart Supermart Select Khus Khus Posta Dana,50,93,,,25-06-2022,26-06-2023,18,12
+1789, Too Yumm! Sour Cream and Onion Veggie Stix,100,138,,,26-06-2022,27-06-2023,3,3
+1790, Yardley London Gold Deodorant Spray  -  For Men,90,106,,,27-06-2022,28-06-2023,18,14
+1791, Real Fruit Juice - Cranberry,150,213,,,28-06-2022,29-06-2023,6,1
+1792, ACT II Party Pack Classic Salted Popcorn,100,150,,,29-06-2022,30-06-2023,12,8
+1793, Ching's Secret Tomato Soup,500,799,,,30-06-2022,01-07-2023,10,4
+1794, DOVE Deeply Nourishing Body Wash,68,100,,,01-07-2022,02-07-2023,10,1
+1795, Dukes Sour Cream & Onion Nibbles,30,60,,,02-07-2022,03-07-2023,9,2
+1796, Sunfeast Marie Light Oat Biscuits,30,60,,,03-07-2022,04-07-2023,24,21
+1797, Flipkart Supermart Select Saunf Green,500,799,,,04-07-2022,05-07-2023,6,2
+1798, DOVE Dryness Care Shampoo,20,35,,,05-07-2022,06-07-2023,6,2
+1799, Farmley Premium California Roasted & Salted Pistachios,90,138,,,06-07-2022,07-07-2023,6,1
+1800, TOP RAMEN Masala Instant Noodles Vegetarian,200,209,,,07-07-2022,08-07-2023,12,6
+1801, Dukes Digestive Biscuits,400,469,,,08-07-2022,09-07-2023,9,2
+1802, LIZOL DOUBLE Concentrate Disinfectant Surface Cleaner Citrus,150,213,,,09-07-2022,10-07-2023,18,14
+1803, JOHNSON'S Baby Soap,500,799,,,10-07-2022,11-07-2023,18,10
+1804, FUN FOODS Peanut Butter Crunchy 925 g,30,60,,,11-07-2022,12-07-2023,12,5
+1805, Dabur Chyawanprakash Sugarfree,250,340,,,12-07-2022,13-07-2023,9,3
+1806, DOVE Daily Shine Shampoo,90,106,,,13-07-2022,14-07-2023,9,2
+1807, LIFEBUOY Lemon Fresh Soap,68,100,,,14-07-2022,15-07-2023,9,2
+1808, Maggi Special Masala Instant Noodles Vegetarian,30,60,,,15-07-2022,16-07-2023,12,4
+1809, Nutralite Eggless Mayonnaise 275 g,500,799,,,16-07-2022,17-07-2023,9,3
+1810, DOVE Hair Fall Rescue Shampoo,300,360,,,17-07-2022,18-07-2023,12,8
+1811, EVEREADY Give Me Red AAA  Battery,300,399,,,18-07-2022,19-07-2023,18,15
+1812, KOHINOOR Charminar Everyday Basmati Rice (Medium Grain),20,35,,,19-07-2022,20-07-2023,18,13
+1813, PATANJALI Aloe Vera Juice with Fiber,400,469,,,20-07-2022,21-07-2023,9,2
+1814, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,21-07-2022,22-07-2023,9,2
+1815, Savlon Moisture Shield Hand Wash Pouch,30,60,,,22-07-2022,23-07-2023,6,1
+1816, Lotte Chocopie,500,799,,,23-07-2022,24-07-2023,12,3
+1817, PARLE Namkeen Hot n Spicy Mixture,20,35,,,24-07-2022,25-07-2023,9,2
+1818, Glow & Lovely Advanced Multi Vitamin,300,360,,,25-07-2022,26-07-2023,6,2
+1819, Colgate Maxfresh Red Gel Toothpaste,90,138,,,26-07-2022,27-07-2023,12,6
+1820, Fortune Biryani Special Basmati Rice (Long Grain),300,399,,,27-07-2022,28-07-2023,18,15
+1821, MACARIZE Ergonomic Modern Space Master Kitchen Corner Sink Dish Drainer Kitchen Rack,200,209,,,28-07-2022,29-07-2023,8,3
+1822, Clinic Plus Strong & Thick Health Shampoo,20,35,,,29-07-2022,30-07-2023,9,2
+1823, Flipkart Supermart Select Figs,50,90,,,30-07-2022,31-07-2023,12,4
+1824, Spinz Exotic Deodorant Spray  -  For Women,100,199,,,31-07-2022,01-08-2023,18,11
+1825, BOROPLUS 100% Organic Aloe Vera Gel,400,469,,,01-08-2022,02-08-2023,9,1
+1826, DOVE Deeply Nourishing Body Wash,500,799,,,02-08-2022,03-08-2023,8,3
+1827, Tropicana Cranberry Delight Fruit Beverage,250,340,,,03-08-2022,04-08-2023,8,2
+1828, Haldiram's Rasgulla Box,400,469,,,04-08-2022,05-08-2023,12,8
+1829, BRITANNIA Nutri Choice Digestive,50,93,,,05-08-2022,06-08-2023,9,4
+1830, HEAD & SHOULDERS Smooth & Silky Shampoo,100,138,,,06-08-2022,07-08-2023,6,3
+1831, DOVE Intense Repair Conditioner,90,106,,,07-08-2022,08-08-2023,3,3
+1832, Cadbury Bournvita Biscuits,150,213,,,08-08-2022,09-08-2023,12,7
+1833, LuvIt Chocorich Assorted Eclairs Hazelnut,100,150,,,09-08-2022,10-08-2023,3,2
+1834, DOVE Daily Shine Conditioner,500,799,,,10-08-2022,11-08-2023,3,1
+1835, EMAMI Healthy and Tasty Refined Soyabean Oil Pouch,68,100,,,11-08-2022,12-08-2023,9,6
+1836, ZANDU Chyavanprashad,30,60,,,12-08-2022,13-08-2023,8,3
+1837, Ching's Secret Schezwan Instant Noodles Vegetarian,30,60,,,13-08-2022,14-08-2023,9,5
+1838, SUNSILK Hairfall Solution Shampoo,500,799,,,14-08-2022,15-08-2023,12,5
+1839, Tropicana Apple Delight Fruit Beverage,20,35,,,15-08-2022,16-08-2023,12,9
+1840, LISTERINE Mouthwash - Coolmint,90,138,,,16-08-2022,17-08-2023,6,2
+1841, bikano Peanuts - Salted,200,209,,,17-08-2022,18-08-2023,9,5
+1842, Pediasure Vanilla Delight Health Drink,400,469,,,18-08-2022,19-08-2023,6,4
+1843, HIMALAYA Purifying Neem  Face Wash,150,213,,,19-08-2022,20-08-2023,6,2
+1844, Flipkart Supermart Select Long Grain Rice (Long Grain,500,799,,,20-08-2022,21-08-2023,18,15
+1845, Uttam Sugar Natural Brown Sugar,30,60,,,21-08-2022,22-08-2023,9,5
+1846, DOVE Oxygen Moisture Shampoo,250,340,,,22-08-2022,23-08-2023,6,2
+1847, 24 mantra ORGANIC Mustard Big,90,106,,,23-08-2022,24-08-2023,6,2
+1848, zoff Makhana Lotus Seeds,68,100,,,24-08-2022,25-08-2023,6,1
+1849, Kamasutra Dotted Condom,30,60,,,25-08-2022,26-08-2023,9,6
+1850, DOVE Intense Repair Shampoo,500,799,,,26-08-2022,27-08-2023,8,2
+1851, SUNSILK Lusciously Thick & Long Shampoo,300,360,,,27-08-2022,28-08-2023,6,3
+1852, Tamil Ponni Rice (Raw),300,399,,,28-08-2022,29-08-2023,12,8
+1853, Kohinoor Authentic Hyderabadi Biryani Basmati Rice Kit 327 g,20,35,,,29-08-2022,30-08-2023,12,5
+1854, Boost Health,400,469,,,30-08-2022,31-08-2023,9,5
+1855, Veet Hair Removal Cream,71,75,,,31-08-2022,01-09-2023,8,3
+1856, Flipkart Supermart Select Super Premium Sona Masoori Rice (Raw),396,400,,,01-09-2022,02-09-2023,18,15
+1857, Too Yumm! Veggie Stix Chilly Chataka Chips,29,35,,,02-09-2022,03-09-2023,18,12
+1858, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168,,,03-09-2022,04-09-2023,9,3
+1859, Real Fruit Juice - Mosambi,95,110,,,04-09-2022,05-09-2023,24,19
+1860, MTR Sambar Powder,30,60,,,05-09-2022,06-09-2023,9,6
+1861, Pepsico Lay's Potato Chips American Style Cream & Onion Flavour Chips,500,799,,,06-09-2022,07-09-2023,6,2
+1862, DOVE Intense Repair Shampoo,20,35,,,07-09-2022,08-09-2023,24,20
+1863, Flipkart Supermart Classic Kabuli Chana (Whole),300,360,,,08-09-2022,09-09-2023,6,1
+1864, Harpic Power Plus Orange Liquid Toilet Cleaner,90,138,,,09-09-2022,10-09-2023,6,2
+1865, EVEREST Chicken Masala,300,399,,,10-09-2022,11-09-2023,24,18
+1866, HEAD & SHOULDERS Smooth & Silky Shampoo,200,209,,,11-09-2022,12-09-2023,9,1
+1867, Surf excel Top Load Matic Detergent Powder 3 kg,20,35,,,12-09-2022,13-09-2023,6,2
+1868, NIVEA Body Lotion,50,90,,,13-09-2022,14-09-2023,10,6
+1869, DOVE Daily Shine Conditioner,100,199,,,14-09-2022,15-09-2023,24,19
+1870, Lactogrow Nestle Nutritious Milk Drink,400,469,,,15-09-2022,16-09-2023,6,2
+1871, SUNSILK Nourishing Soft & Smooth Shampoo,500,799,,,16-09-2022,17-09-2023,2,2
+1872, DETTOL Original Germ Protection Soap,250,340,,,17-09-2022,18-09-2023,9,6
+1873, Sunfeast Farmlite Digestive Oats with Chocolate,400,469,,,18-09-2022,19-09-2023,24,12
+1874, DOVE Hair Fall Rescue Shampoo,50,93,,,19-09-2022,20-09-2023,12,8
+1875, Ching's Secret Egg Hakka Noodles Non-vegetarian,100,138,,,20-09-2022,21-09-2023,24,21
+1876, Eastern Kashmiri Chilly Powder,90,106,,,21-09-2022,22-09-2023,5,5
+1877, Odonil Lavender Blocks,150,213,,,22-09-2022,23-09-2023,15,10
+1878, DOVE Dryness Care Shampoo,100,150,,,23-09-2022,24-09-2023,3,2
+1879, Limca Lime n Lemoni PET Bottle,500,799,,,24-09-2022,25-09-2023,24,20
+1880, ACT II Butter Delite Popcorn,68,100,,,25-09-2022,26-09-2023,10,4
+1881, Maggi Pazzta Mushroom Pasta,30,60,,,26-09-2022,27-09-2023,24,17
+1882, Ariel Complete Detergent Powder 4 kg,30,60,,,27-09-2022,28-09-2023,6,5
+1883, DETTOL Instant  Hand Sanitizer Bottle,500,799,,,28-09-2022,29-09-2023,3,1
+1884, HINDALCO Freshwrapp Standard Aluminium Foil,20,35,,,29-09-2022,30-09-2023,24,20
+1885, Flipkart Supermart Select Mustard (Rai Big),90,138,,,30-09-2022,01-10-2023,15,9
+1886, Yardley London Gold Deodorant Spray  -  For Men,200,209,,,01-10-2022,02-10-2023,3,2
+1887, AADITYA Turmeric Powder,400,469,,,02-10-2022,03-10-2023,7,1
+1888, Priyagold Treat Mango Masti,150,213,,,03-10-2022,04-10-2023,9,1
+1889, Britannia Treat Wafers,500,799,,,04-10-2022,05-10-2023,12,9
+1890, Hit Spray Crawling Insect Killer 700ml,30,60,,,05-10-2022,06-10-2023,9,4
+1891, PATANJALI Saundarya Aloevera Gel,250,340,,,06-10-2022,07-10-2023,3,3
+1892, Flipkart Supermart Home Essentials Dishwash Gel,90,106,,,07-10-2022,08-10-2023,9,5
+1893, DETTOL Original Liquid Hand Wash Bottle,68,100,,,08-10-2022,09-10-2023,24,21
+1894, DOVE Cream Beauty Bathing Bar,30,60,,,09-10-2022,10-10-2023,12,8
+1895, Harpic Flushmatic Aquamarine Block Toilet Cleaner,500,799,,,10-10-2022,11-10-2023,9,4
+1896, MORTEIN 2-in-1 Insect Killer,300,360,,,11-10-2022,12-10-2023,6,2
+1897, Lipton Honey,300,399,,,12-10-2022,13-10-2023,12,2
+1898, Glow & Lovely Advanced Multivitamin Face Cream,20,35,,,13-10-2022,14-10-2023,6,1
+1899, Too Yumm! Karare Noodle Masala Chips,400,469,,,14-10-2022,15-10-2023,9,6
+1900, HAMAM Neem Tulsi and Aloevera Soap,340,400,,,15-10-2022,16-10-2023,9,2
+1901, Bagrry's White Oats,169,190,,,16-10-2022,17-10-2023,15,9
+1902, DOVE Hair Fall Rescue Shampoo,242,255,,,17-10-2022,18-10-2023,3,1
+1903, Catch Sprinkler Black Salt,30,60,,,18-10-2022,19-10-2023,6,2
+1904, VEEBA Eggless Mayonnaise 100 g,500,799,,,19-10-2022,20-10-2023,10,6
+1905, Go Plain Processed cheese Slices,20,35,,,20-10-2022,21-10-2023,12,6
+1906, GILLETTE Venus Hair Removal Razor for Women,300,360,,,21-10-2022,22-10-2023,6,1
+1907, EVEREADY Give Me Red  Battery,90,138,,,22-10-2022,23-10-2023,3,2
+1908, Kwality Kasuri Methi,300,399,,,23-10-2022,24-10-2023,2,1
+1909, LIZOL Disinfectant Surface Cleaner Floral,200,209,,,24-10-2022,25-10-2023,2,2
+1910, DOVE Cream Beauty Bathing Bar,20,35,,,25-10-2022,26-10-2023,9,1
+1911, tetley Lemon and Honey Green Tea Bags Box,50,90,,,26-10-2022,27-10-2023,5,1
+1912, Saffola Total Pro Heart Conscious Blended Oil Can,100,199,,,27-10-2022,28-10-2023,9,5
+1913, Cadbury 5 Star Oreo Chocolate Bar,400,469,,,28-10-2022,29-10-2023,24,21
+1914, DOVE Daily Shine Shampoo,500,799,,,29-10-2022,30-10-2023,18,6
+1915, Parachute Advansed Aloe Vera Enriched Coconut  Hair Oil,250,340,,,30-10-2022,31-10-2023,9,4
+1916, Umadi's Mango Pickle,400,469,,,31-10-2022,01-11-2023,9,2
+1917, Colgate Kids Extra Soft Toothbrush,50,93,,,01-11-2022,02-11-2023,9,3
+1918, DOVE Dryness Care Shampoo,100,138,,,02-11-2022,03-11-2023,12,2
+1919, winkies Rich Fruit Butter Cake,90,106,,,03-11-2022,04-11-2023,5,1
+1920, Too Yumm! Karare Munchy Masala Chips,150,213,,,04-11-2022,05-11-2023,12,6
+1921, HERSHEY'S Cocoa Powder,100,150,,,05-11-2022,06-11-2023,2,2
+1922, DOVE Intense Repair Shampoo,500,799,,,06-11-2022,07-11-2023,2,1
+1923, GENTEEL Liquid Detergent,68,100,,,07-11-2022,08-11-2023,6,1
+1924, Rajdhani Select Maida,30,60,,,08-11-2022,09-11-2023,6,2
+1925, EVEREADY Give Me Red AA  Battery,30,60,,,09-11-2022,10-11-2023,8,2
+1926, Glow & Lovely Natural Glow,500,799,,,10-11-2022,11-11-2023,3,1
+1927, Tata Grand Instant Coffee,20,35,,,11-11-2022,12-11-2023,6,3
+1928, Protinex Tasty Chocolate Flavour,90,138,,,12-11-2022,13-11-2023,6,3
+1929, MamyPoko Pants Standard Diapers - S,200,209,,,13-11-2022,14-11-2023,18,14
+1930, Softouch Garden Bouquet Fabric Conditioner,400,469,,,14-11-2022,15-11-2023,6,2
+1931, Kellogg's Muesli with 21% Fruit,150,213,,,15-11-2022,16-11-2023,3,1
+1932, Nature Fresh Sampoorna Chakki Atta,500,799,,,16-11-2022,17-11-2023,6,3
+1933, Cadbury Dairy Milk Crackle Chocolate Bars,30,60,,,17-11-2022,18-11-2023,6,1
+1934, Godrej Protekt Health Bathing Soap | Citrus Fragrance | Anti-bacterial with 99.9% Germ Protection,250,340,,,18-11-2022,19-11-2023,10,6
+1935, Surf excel Quick Wash Detergent Powder 2 kg,90,106,,,19-11-2022,20-11-2023,8,2
+1936, Maggi Chilly Chow Cup Noodles Vegetarian,68,100,,,20-11-2022,21-11-2023,3,1
+1937, Go Daily Milk,30,60,,,21-11-2022,22-11-2023,9,3
+1938, Clinic Plus Strong & Thick Health Shampoo,500,799,,,22-11-2022,23-11-2023,12,5
+1939, Glow & Lovely Advanced Multivitamin Face Cream,300,360,,,23-11-2022,24-11-2023,10,1
+1940, Flipkart Supermart Select Kabuli Chana,300,399,,,24-11-2022,25-11-2023,6,2
+1941, Flipkart Supermart Select Kolam Rice (Raw),20,35,,,25-11-2022,26-11-2023,12,6
+1942, GILLETTE Venus Hair Removal Razor for Women,400,469,,,26-11-2022,27-11-2023,6,2
+1943, Suchi 3 Ply Surgical Mask with Nose Pin and Melt Blown Filter 123 Surgical Mask With Melt Blown Fabric Layer,32,80,,,27-11-2022,28-11-2023,18,15
+1944, Mountain Dew Ice Plastic Bottle,63,75,,,28-11-2022,29-11-2023,12,7
+1945, TRESemme Hair Fall Defense Conditioner,158,187,,,29-11-2022,30-11-2023,8,1
+1946, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,30-11-2022,01-12-2023,12,5
+1947, Nutralite Salted Butter,180,200,,,01-12-2022,02-12-2023,12,5
+1948, PONDS White Beauty Anti Spot Fairness Cream SPF 15 PA++,112,125,,,02-12-2022,03-12-2023,6,3
+1949, Flipkart Supermart Durum Wheat Semolina Macaroni Pasta,80,160,,,03-12-2022,04-12-2023,24,17
+1950, DOVE Hair Fall Rescue Shampoo,242,255,,,04-12-2022,05-12-2023,6,2
+1951, Jelimals Bears Assorted Jelly Candy,10,25,,,05-12-2022,06-12-2023,8,2
+1952, natural tattva Rock Salt,74,95,,,06-12-2022,07-12-2023,6,3
+1953, Good Knight Naturals Pack of 2 Refill Mosquito Vaporiser Refill,160,178,,,07-12-2022,08-12-2023,18,13
+1954, DOVE Dryness Care Shampoo,242,255,,,08-12-2022,09-12-2023,6,1
+1955, MASTER COOK  - 225 ml Polypropylene Fridge Container,54,90,,,09-12-2022,10-12-2023,8,2
+1956, Pears Pure And Gentle Shower Gel,30,60,,,10-12-2022,11-12-2023,8,1
+1957, Ujala Supreme Fabric Whitener,500,799,,,11-12-2022,12-12-2023,12,8
+1958, DOVE Cream Beauty Bathing Bar,20,35,,,12-12-2022,13-12-2023,10,3
+1959, PARLE Milano Chocolate Chip Cookies,300,360,,,13-12-2022,14-12-2023,24,18
+1960, NOVA Shudh Ghee 1 L Carton,90,138,,,14-12-2022,15-12-2023,6,1
+1961, yoga bar Protein Almond Fudge,300,399,,,15-12-2022,16-12-2023,18,14
+1962, Lactogrow Nestle Nutritious Milk Drink,200,209,,,16-12-2022,17-12-2023,3,3
+1963, PEPSODENT Expert Protection Gum Care + Toothpaste,20,35,,,17-12-2022,18-12-2023,18,11
+1964, Tropicana Guava Delight Fruit Beverage,50,90,,,18-12-2022,19-12-2023,6,1
+1965, Flipkart Supermart Select Till Regular,100,199,,,19-12-2022,20-12-2023,12,5
+1966, vanish Oxy Action Stain Remover,400,469,,,20-12-2022,21-12-2023,10,1
+1967, Dabur Amla  Hair Oil,500,799,,,21-12-2022,22-12-2023,10,2
+1968, Natureland Organics Whole Wheat Chakki Atta,250,340,,,22-12-2022,23-12-2023,9,3
+1969, ORION Choco Pie,400,469,,,23-12-2022,24-12-2023,24,20
+1970, DOVE Deeply Nourishing Body Wash,50,93,,,24-12-2022,25-12-2023,6,3
+1971, SNICKERS 2X Bars,100,138,,,25-12-2022,26-12-2023,6,1
+1972, KLF coconad Coconut Oil Pouch,90,106,,,26-12-2022,27-12-2023,6,1
+1973, Paper boat Daily Snack Chikki Pouch,150,213,,,27-12-2022,28-12-2023,12,5
+1974, Ariel Matic Front Load Detergent Powder 4 kg,100,150,,,28-12-2022,29-12-2023,9,2
+1975, Alpenliebe Gold Rich Milky Caramel Toffee,500,799,,,29-12-2022,30-12-2023,18,9
+1976, Sunfeast Dark Fantasy Choco Nut Fills,68,100,,,30-12-2022,31-12-2023,18,11
+1977, Haldiram's Dal Biji,30,60,,,31-12-2022,01-01-2024,12,4
+1978, Glow & Lovely Advanced Multi Vitamin,30,60,,,01-01-2023,02-01-2024,9,3
+1979, KOHINOOR Amritsari Tandoori Chicken Masala,500,799,,,02-01-2023,03-01-2024,9,6
+1980, Colgate Total Advanced Health Anticavity Toothpaste,20,35,,,03-01-2023,04-01-2024,9,4
+1981, Dukes Waffy Orange Wafers,90,138,,,04-01-2023,05-01-2024,12,5
+1982, DOVE Cream Beauty Bathing Bar,200,209,,,05-01-2023,06-01-2024,9,1
+1983, natural tattva Himalayan Pink Salt,400,469,,,06-01-2023,07-01-2024,12,5
+1984, WeiKFiELD Chilli Vinegar,150,213,,,07-01-2023,08-01-2024,18,9
+1985, Ananda Flavoured Milk,500,799,,,08-01-2023,09-01-2024,18,11
+1986, CINTHOL Original Soap,30,60,,,09-01-2023,10-01-2024,9,3
+1987, Sugar free Gold Sweetener,250,340,,,10-01-2023,11-01-2024,9,2
+1988, Priyagold Cheese Cracker Biscuits,90,106,,,11-01-2023,12-01-2024,6,2
+1989, MOTHER DAIRY plain Processed cheese Slices,68,100,,,12-01-2023,13-01-2024,12,4
+1990, Glow & Lovely Natural Glow,30,60,,,13-01-2023,14-01-2024,9,2
+1991, Fortune Xpert Pro Immunity Oil Blended Oil Pouch,500,799,,,14-01-2023,15-01-2024,6,2
+1992, Organic Tattva Black Urad Dal (Whole),300,360,,,15-01-2023,16-01-2024,12,5
+1993, Flipkart Supermart Home Essentials Dishwash Gel,300,399,,,16-01-2023,17-01-2024,18,9
+1994, SUNSILK Hairfall Solution Shampoo,20,35,,,17-01-2023,18-01-2024,8,1
+1995, Flipkart Supermart Select Flax Seeds Assorted Nuts,400,469,,,18-01-2023,19-01-2024,9,3
+1996, Colgate Active Salt Toothpaste,30,60,,,19-01-2023,20-01-2024,12,8
+1997, Organic Tattva Yellow Moong Dal (Split),500,799,,,20-01-2023,21-01-2024,18,15
+1998, DOVE Intense Repair Shampoo,20,35,,,21-01-2023,22-01-2024,9,4
+1999, MASTER COOK  - 250 ml Polypropylene Fridge Container,300,360,,,22-01-2023,23-01-2024,8,1
+2000, vanish Oxy Action Stain Remover,90,138,,,23-01-2023,24-01-2024,8,1
+2001, VEEBA Cheese and Chilli Sandwich Spread 275 g,300,399,,,24-01-2023,25-01-2024,12,5
+2002, HEAD & SHOULDERS Smooth & Silky Shampoo,200,209,,,25-01-2023,26-01-2024,9,2
+2003, MTR Instant Rava Dosa Mix 500 g,20,35,,,26-01-2023,27-01-2024,6,1
+2004, MDH Lal Mirch Powder,50,90,,,27-01-2023,28-01-2024,3,1
+2005, EMAMI Healthy and Tasty Kachchi Ghani Mustard Oil Can,100,199,,,28-01-2023,29-01-2024,12,6
+2006, DOVE Daily Shine Conditioner,400,469,,,29-01-2023,30-01-2024,3,3
+2007, GLUCON-D Instant Energy Energy Drink,500,799,,,30-01-2023,31-01-2024,3,2
+2008, Veet Silk & Fresh Sensitive Skin Hair Removal Cream,250,340,,,31-01-2023,01-02-2024,9,2
+2009, zoff Turmeric,400,469,,,01-02-2023,02-02-2024,8,1
+2010, Organic Tattva Sona Masoori Rice (Parboiled),50,93,,,02-02-2023,03-02-2024,9,2
+2011, Tata Sampann Meat Masala,100,138,,,03-02-2023,04-02-2024,12,7
+2012, KALEVA Nimbu Chataka,90,106,,,04-02-2023,05-02-2024,12,6
+2013, Rajdhani Punjabi Masala Papad 200 g,150,213,,,05-02-2023,06-02-2024,6,1
+2014, Boost Health,100,150,,,06-02-2023,07-02-2024,9,3
+2015, ACT II Cheese Popcorn,500,799,,,07-02-2023,08-02-2024,6,2
+2016, Piknik Classic Tomato Chilli,68,100,,,08-02-2023,09-02-2024,6,3
+2017, Flipkart Supermart Classic Toor Dal (Split),30,60,,,09-02-2023,10-02-2024,18,14
+2018, DOVE Intense Repair Shampoo,30,60,,,10-02-2023,11-02-2024,9,6
+2019, Del Monte Pizza and Pasta Sauce,500,799,,,11-02-2023,12-02-2024,6,1
+2020, Kellogg's Chocos Fills Double Chocolaty,20,35,,,12-02-2023,13-02-2024,6,1
+2021, Hit Spray Crawling Insect Killer,90,138,,,13-02-2023,14-02-2024,6,2
+2022, DOVE Cream Beauty Bathing Bar,200,209,,,14-02-2023,15-02-2024,9,3
+2023, ACT II Party Pack Golden Sizzle Popcorn,400,469,,,15-02-2023,16-02-2024,8,2
+2024, Godrej Aer Violet Valley Bloom Spray,150,213,,,16-02-2023,17-02-2024,6,2
+2025, Harpic Disinfectant Bathroom Cleaner Floral,500,799,,,17-02-2023,18-02-2024,12,6
+2026, DOVE Dryness Care Shampoo,30,60,,,18-02-2023,19-02-2024,12,2
+2027, Neem Active Toothpaste,250,340,,,19-02-2023,20-02-2024,9,1
+2028, SUNSILK Stunning Black Shine Shampoo,90,106,,,20-02-2023,21-02-2024,8,3
+2029, 24 mantra ORGANIC Ragi Flour,68,100,,,21-02-2023,22-02-2024,18,14
+2030, DOVE Intense Repair Conditioner,30,60,,,22-02-2023,23-02-2024,18,12
+2031, Clean & Clear Oil Free Foaming  Face Wash,500,799,,,23-02-2023,24-02-2024,9,3
+2032, Tata Sampann Red Masoor Dal (Whole),300,360,,,24-02-2023,25-02-2024,24,15
+2033, Revive Liquid Fabric Stiffener,300,399,,,25-02-2023,26-02-2024,9,6
+2034, DOVE Daily Shine Shampoo,20,35,,,26-02-2023,27-02-2024,6,2
+2035, Ziofit Classic Seedless Sultan Dates,400,469,,,27-02-2023,28-02-2024,24,20
+2036, ADIDAS Dynamic Pulse & Pure Game Deodorant Spray  -  For Men,199,398,,,28-02-2023,29-02-2024,6,1
+2037, DETTOL Cool Body Wash and Shower Gel,160,200,,,01-03-2023,01-03-2024,6,3
+2038, GENTEEL Washomatic Multi-Fragrance Liquid Detergent,30,60,,,02-03-2023,02-03-2024,24,17
+2039, Garnier Men Men Power White Anti-Pollution Double Action Face Wash,500,799,,,03-03-2023,03-03-2024,9,5
+2040, Liril Lemon and Tea Tree Oil Soap,20,35,,,04-03-2023,04-03-2024,6,2
+2041, Tropicana Pineapple Delight,300,360,,,05-03-2023,05-03-2024,10,3
+2042, NIVEA Sensitive Cooling After Shave Lotion,90,138,,,06-03-2023,06-03-2024,24,18
+2043, DETTOL Cool Shaving Cream,300,399,,,07-03-2023,07-03-2024,6,1
+2044, Cadbury Dairy Milk Silk Oreo Red Velvet Chocolate Bars,200,209,,,08-03-2023,08-03-2024,2,2
+2045, PARLE Melody Chocolaty Toffee,20,35,,,09-03-2023,09-03-2024,9,1
+2046, Yardley London Rose Deodorant Roll-on  -  For Women,50,90,,,10-03-2023,10-03-2024,24,18
+2047, Tata Tulsi Green Tea Bags Box,100,199,,,11-03-2023,11-03-2024,12,8
+2048, Kwality Oats,400,469,,,12-03-2023,12-03-2024,24,21
+2049, MOTHER'S RECIPE Desi Szechwan Chutney Paste,500,799,,,13-03-2023,13-03-2024,5,3
+2050, Hygienix Germ Shield Hand Wash Pump Dispenser,250,340,,,14-03-2023,14-03-2024,15,8
+2051, PARLE Hide & Seek Black Bourbon Choco Creme Sandwich,400,469,,,15-03-2023,15-03-2024,3,1
+2052, Sreebhog Sooji,50,93,,,16-03-2023,16-03-2024,24,17
+2053, Flipkart Supermart Classic Brown Chana (Whole),100,138,,,17-03-2023,17-03-2024,10,1
+2054, Organic Tattva Sona Masoori Rice (Parboiled),90,106,,,18-03-2023,18-03-2024,24,17
+2055, KALEVA Tasty,150,213,,,19-03-2023,19-03-2024,6,2
+2056, Real Activ 100% Apple Juice,100,150,,,20-03-2023,20-03-2024,3,2
+2057, MTR Magic Masala Upma 60 g,500,799,,,21-03-2023,21-03-2024,24,21
+2058, Glow & Lovely Advanced Multi Vitamin,68,100,,,22-03-2023,22-03-2024,15,10
+2059, COMPLAN Creamy Classic,30,60,,,23-03-2023,23-03-2024,3,2
+2060, NIVEA Whitening Smooth Skin Deodorant Roll-on  -  For Women,30,60,,,24-03-2023,24-03-2024,7,1
+2061, Kellogg's Chocos Crunchy Bites,500,799,,,25-03-2023,25-03-2024,9,2
+2062, Glow & Lovely Advanced Multivitamin Face Cream,20,35,,,26-03-2023,26-03-2024,12,7
+2063, CRAX Mast Mattar,90,138,,,27-03-2023,27-03-2024,9,3
+2064, EVEREST Coriander,200,209,,,28-03-2023,28-03-2024,3,3
+2065, GILLETTE Vector Cartridge,400,469,,,29-03-2023,29-03-2024,9,3
+2066, DOVE Daily Shine Conditioner,150,213,,,30-03-2023,30-03-2024,24,16
+2067, Dalmia Sanjeevani protection Hand Sanitizer Bottle,500,799,,,31-03-2023,31-03-2024,12,6
+2068, Munch Crisp Pop Bars,30,60,,,01-04-2023,01-04-2024,9,5
+2069, McVities Digestive Biscuits,250,340,,,02-04-2023,02-04-2024,6,3
+2070, MTR Badam Drink Mix,90,106,,,03-04-2023,03-04-2024,12,1
+2071, santoor Pureglo almond oil and glycerine bathing bar,68,100,,,04-04-2023,04-04-2024,6,1
+2072, KLF Tilnad Sesame Oil Plastic Bottle,30,60,,,05-04-2023,05-04-2024,9,2
+2073, Oleev Health Blended Oil Can,500,799,,,06-04-2023,06-04-2024,9,3
+2074, DOVE Deeply Nourishing Body Wash,300,360,,,07-04-2023,07-04-2024,15,1
+2075, BRITANNIA Plain Processed cheese Spread,300,399,,,08-04-2023,08-04-2024,3,1
+2076, GILLETTE Venus Hair Removal Razor for Women,20,35,,,09-04-2023,09-04-2024,6,3
+2077, safe harvest Wheat Daliya Broken Wheat,400,469,,,10-04-2023,10-04-2024,10,1
+2078, DOVE Daily Shine Shampoo,242,255,,,11-04-2023,11-04-2024,12,7
+2079, Too Yumm! Tangy Tomato Multigrain Chips,18,20,,,12-04-2023,12-04-2024,6,1
+2080, Ziofit Afghani Dried Figs,472,525,,,13-04-2023,13-04-2024,3,1
+2081, JOHNSON'S Baby No More Tears Shampoo,352,375,,,14-04-2023,14-04-2024,2,2
+2082, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,15-04-2023,15-04-2024,2,2
+2083, Go Supremo Milk,69,72,,,16-04-2023,16-04-2024,9,4
+2084, ACT II Hot & Fresh Microwave Butter Lovers Popcorn,65,70,,,17-04-2023,17-04-2024,5,2
+2085, Eastern Chilli Powder,82,94,,,18-04-2023,18-04-2024,9,5
+2086, Godrej Proclean Disinfectant Liquid Toilet Cleaner,142,168,,,19-04-2023,19-04-2024,24,20
+2087, Bikano Dry Petha Box,95,100,,,20-04-2023,20-04-2024,18,11
+2088, WeiKFiELD Red Chilli Sauce,47,55,,,21-04-2023,21-04-2024,9,3
+2089, Chik Hairfall Prevent Egg White Shampoo,129,178,,,22-04-2023,22-04-2024,9,2
+2090, Organic Tattva Sona Masoori Rice (Parboiled),467,550,,,23-04-2023,23-04-2024,9,5
+2091, EVEREST Sabji Masala Powder,30,60,,,24-04-2023,24-04-2024,12,4
+2092, Real Fruit Juice - Pomegranate,500,799,,,25-04-2023,25-04-2024,5,2
+2093, zoff Garam Masala,20,35,,,26-04-2023,26-04-2024,12,6
+2094, NIVEA Men Sensitive After Shave Lotion,300,360,,,27-04-2023,27-04-2024,2,1
+2095, Dalda Vanaspati 1 L Pouch,90,138,,,28-04-2023,28-04-2024,2,1
+2096, 24 mantra ORGANIC Sattu,300,399,,,29-04-2023,29-04-2024,6,2
+2097, NIVEA Body Wash,200,209,,,30-04-2023,30-04-2024,6,3
+2098, Godrej Proclean Disinfectant Liquid Toilet Cleaner,20,35,,,01-05-2023,01-05-2024,8,4
+2099, Kwality Muesli Crunchy,50,90,,,02-05-2023,02-05-2024,3,2
+2100, Nestle Lactogen Infant Formula (Stage 1),100,199,,,03-05-2023,03-05-2024,6,1
+2101, LIZOL Disinfectant Surface Cleaner Sandal,400,469,,,04-05-2023,04-05-2024,6,1
+2102, DOVE Oxygen Moisture Shampoo,500,799,,,05-05-2023,05-05-2024,18,11
+2103, SURABHI Tomato Ketchup,250,340,,,06-05-2023,06-05-2024,6,1
+2104, Saffola Honey,400,469,,,07-05-2023,07-05-2024,3,3
+2105, Dukes Mango Candy,50,93,,,08-05-2023,08-05-2024,6,1
+2106, DOVE Intense Repair Shampoo,100,138,,,09-05-2023,09-05-2024,6,2
+2107, MOKSH Swarna Agarbatti Chandan,90,106,,,10-05-2023,10-05-2024,10,4
+2108, BRITANNIA Classic Processed cheese Cubes,150,213,,,11-05-2023,11-05-2024,8,5
+2109, Nestle Nan Pro Infant Formula (Stage 1),100,150,,,12-05-2023,12-05-2024,3,2
+2110, DOVE Deeply Nourishing Body Wash,500,799,,,13-05-2023,13-05-2024,9,2
+2111, Good Knight Flash 2 Refill + Machine Mosquito Vaporiser,68,100,,,14-05-2023,14-05-2024,12,4
+2112, Lever Ayush Natural Fairness Saffron Soap,30,60,,,15-05-2023,15-05-2024,10,3
+2113, MamyPoko Pants Standard Diapers - M,30,60,,,16-05-2023,16-05-2024,6,1
+2114, DOVE Hair Fall Rescue Shampoo,500,799,,,17-05-2023,17-05-2024,12,6
+2115, MOTHER DAIRY Whitener Dailycious Skimmed Milk Powder,20,35,,,18-05-2023,18-05-2024,6,3
+2116, Daawat Rozana Gold Basmati Rice (Medium Grain),90,138,,,19-05-2023,19-05-2024,18,12
+2117, LuvIt Eclairs Party Pack Choco Toffee,200,209,,,20-05-2023,20-05-2024,12,4
+2118, Ariel Matic Front Load Detergent Powder 2 kg,400,469,,,21-05-2023,21-05-2024,8,2
+2119, Mentos Rainbow Assorted Chewy Candy Pouch Assorted Flavours Toffee,150,213,,,22-05-2023,22-05-2024,12,8
+2120, yoga bar Fruit + Nuts & Seeds Muesli Plus,500,799,,,23-05-2023,23-05-2024,12,9
+2121, Cadbury Dairy Milk Fruit and Nut Chocolate Bars,30,60,,,24-05-2023,24-05-2024,6,2
+2122, GILLETTE Venus Hair Removal Razor for Women,250,340,,,25-05-2023,25-05-2024,24,19
+2123, Veet Full Body Dry Skin Waxing Strips,90,106,,,26-05-2023,26-05-2024,6,3
+2124," MamaEarth ""Onion Hair Fall Shampoo for Hair Growth & Hair Fall Control",68,100,,,27-05-2023,27-05-2024,8,2
+2125, HIMALAYA Baby Lotion 400 ml,30,60,,,28-05-2023,28-05-2024,6,2
+2126, SUNSILK Hairfall Solution Shampoo,500,799,,,29-05-2023,29-05-2024,18,6
+2127, Waghbakri Spices Masala Tea Box,300,360,,,30-05-2023,30-05-2024,6,3
+2128, Ananda Dairy Whitener Semi Skimmed Milk Powder,300,399,,,31-05-2023,31-05-2024,8,2
+2129, MASTER COOK  - 1300 ml Plastic Grocery Container,20,35,,,01-06-2023,01-06-2024,8,4
+2130, Glow & Lovely Advanced Multi Vitamin,400,469,,,02-06-2023,02-06-2024,12,7
+2131, HERSHEY'S Kisses Creamy Milk Chocolate Truffles,119,140,,,03-06-2023,03-06-2024,10,6
+2132, Nestle Nan Pro 2 Follow-up Formula Powder Stage 2,500,620,,,04-06-2023,04-06-2024,24,18
+2133, DiSano No. 73 Penne Pasta,99,198,,,05-06-2023,05-06-2024,6,1
+2134, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,06-06-2023,06-06-2024,18,9
+2135, Priyagold Cheez Bit,42,45,,,07-06-2023,07-06-2024,3,2
+2136, WeiKFiELD Green Chilli Sauce,47,55,,,08-06-2023,08-06-2024,18,14
+2137, NIVEA Dark Spot Reduction Face Wash,139,199,,,09-06-2023,09-06-2024,6,2
+2138, Glow & Lovely Advanced Multivitamin Face Cream,95,106,,,10-06-2023,10-06-2024,12,5
+2139, vanish Oxy Action Powder Stain Remover,102,108,,,11-06-2023,11-06-2024,10,4
+2140, MOTHER'S RECIPE Tamarind Paste,49,50,,,12-06-2023,12-06-2024,10,3
+2141, Molsi's Royal California Almonds,681,1050,,,13-06-2023,13-06-2024,9,5
+2142, DOVE Oxygen Moisture Shampoo,275,290,,,14-06-2023,14-06-2024,24,16
+2143, Regency Pitted Prunes,172,250,,,15-06-2023,15-06-2024,6,1
+2144, LIFEBUOY Antibacterial Germ Kill Spray (No Gas) Safe On Skin,100,169,,,16-06-2023,16-06-2024,6,3
+2145, Amul Kool,5,20,,,17-06-2023,17-06-2024,6,1
+2146, Glow & Lovely Natural Glow,95,138,,,18-06-2023,18-06-2024,12,3
+2147, Dukes Waffy Chocolate Wafers,53,90,,,19-06-2023,19-06-2024,9,1
+2148, Women's Horlicks Calseal Formula - Caramel Flavor,471,530,,,20-06-2023,20-06-2024,18,12
+2149, B Natural Mixed Fruit,88,110,,,21-06-2023,21-06-2024,18,14
+2150, Lactogrow Nestle Nutritious Milk Drink,324,360,,,22-06-2023,22-06-2024,12,9
+2151, Colgate Sensitive Plus Toothpaste,100,125,,,23-06-2023,23-06-2024,9,4
+2152, LIVON Serum for Dry & Unruly Hair,120,150,,,24-06-2023,24-06-2024,9,2
+2153, Pril Dish Cleaning Gel,43,45,,,25-06-2023,25-06-2024,9,2
+2154, DOVE Dryness Care Shampoo,242,255,,,26-06-2023,26-06-2024,12,5
+2155, Godrej Expert Creme Hair Colour - Black Brown Pack of 4 ,85,102,,,27-06-2023,27-06-2024,9,2
+2156, Haldiram's Besan Burfi Box,159,280,,,28-06-2023,28-06-2024,12,5
+2157, Nimyle Household Sanitizer Floor Cleaner Herbal,239,282,,,29-06-2023,29-06-2024,18,10
+2158, NIVEA Sensitive Cooling After Shave Lotion,242,269,,,30-06-2023,30-06-2024,18,12
+2159, zoff Cassia Bark,61,70,,,01-07-2023,01-07-2024,9,6
+2160, Creme N Crisp Atta Cookies,70,120,,,02-07-2023,02-07-2024,9,4
+2161, CINTHOL Cool Talc,128,135,,,03-07-2023,03-07-2024,6,1
+2162, DOVE Cream Beauty Bathing Bar,390,520,,,04-07-2023,04-07-2024,12,4
+2163, Nestle Cerelac Wheat Apple Carrot Cereal,180,205,,,05-07-2023,05-07-2024,9,2
+2164, BIOTIQUE Bio Kelp Protein Shampoo For Falling Hair,95,159,,,06-07-2023,06-07-2024,6,1
+2165, Pintola All Natural Peanut Butter (Crunchy) 1 kg,399,425,,,07-07-2023,07-07-2024,12,6
+2166, HEAD & SHOULDERS Smooth & Silky Shampoo,533,650,,,08-07-2023,08-07-2024,18,8
+2167, Happilo 100% Natural Kashmiri Deluxe Walnuts,260,318,,,09-07-2023,09-07-2024,8,2
+2168, Haldiram's Panchrattan,50,90,,,10-07-2023,10-07-2024,9,1
+2169, Tata Q Cheesy Chicken Pasta 305 g,62,125,,,11-07-2023,11-07-2024,12,6
+2170, DOVE Deeply Nourishing Body Wash,300,360,,,12-07-2023,12-07-2024,18,14
+2171, Bingo Mad Angles Very Peri Peri Chips,40,50,,,13-07-2023,13-07-2024,9,6
+2172, DETTOL Refresh Body Wash and Shower Gel,160,200,,,14-07-2023,14-07-2024,8,1
+2173, PARLE 20-20 Butter Cookies,10,20,,,15-07-2023,15-07-2024,8,3
+2174, Flipkart Supermart Home Essentials Dishwash Gel,250,350,,,16-07-2023,16-07-2024,12,2
+2175,tropical fruit,179,189,,,11-10-2020,12-10-2021,8,2
+2176,whole milk,300,360,,,12-10-2020,13-10-2022,1,1
+2177,pip fruit,167,180,,,13-10-2020,14-10-2021,1,1
+2178,vegetables,19,64,,,14-10-2020,15-10-2021,3,2
+2179,rolls/buns,55,99,,,15-10-2020,16-10-2022,1,1
+2180,pot plants,51,55,,,16-10-2020,17-05-2021,1,1
+2181,citrus fruit,15,21,,,17-10-2020,18-05-2021,1,1
+2182,beef,500,799,,,18-10-2020,19-10-2022,2,2
+2183,frankfurter,133,144,,,19-10-2020,20-10-2021,1,1
+2184,chicken,35,57,,,20-10-2020,21-05-2021,1,1
+2185,butter,80,149,,,21-10-2020,22-10-2021,1,1
+2186,fruit/vegetable juice,242,269,,,22-10-2020,23-10-2022,9,6
+2187,packaged fruit/vegetables,175,200,,,23-10-2020,24-05-2021,3,1
+2188,chocolate,36,40,,,24-10-2020,25-01-2021,9,5
+2189,specialty bar,20,40,,,25-10-2020,26-10-2021,9,2
+2190,butter milk,224,249,,,26-10-2020,27-10-2022,3,1
+2191,bottled water,103,109,,,27-10-2020,28-10-2021,12,5
+2192,yogurt,20,40,,,28-10-2020,29-10-2022,6,2
+2193,sausage,50,96,,,29-10-2020,30-04-2021,9,1
+2194,brown bread,161,190,,,30-10-2020,31-10-2022,1,1
+2195,hamburger meat,100,149,,,31-10-2020,01-03-2021,1,1
+2196,root vegetables,151,168,,,01-11-2020,02-11-2022,1,1
+2197,pork,40,64,,,02-11-2020,03-11-2021,1,1
+2198,pastry,300,449,,,03-11-2020,04-11-2022,1,1
+2199,canned beer,180,220,,,04-11-2020,05-11-2021,9,3
+2200,berries,337,599,,,05-11-2020,06-04-2021,2,2
+2201,coffee,157,177,,,06-11-2020,07-11-2022,9,6
+2202,ham,204,215,,,08-11-2020,09-04-2021,3,2
+2203,turkey,150,235,,,09-11-2020,10-11-2021,6,1
+2204,curd cheese,10,35,,,10-11-2020,11-11-2021,6,1
+2205,frozen potato products,100,145,,,12-11-2020,13-11-2021,9,2
+2206,flour,150,213,,,13-11-2020,14-05-2021,12,3
+2207,sugar,55,65,,,14-11-2020,15-11-2021,9,2
+2208,frozen meals,205,210,,,15-11-2020,16-11-2022,12,4
+2209,herbs,133,195,,,16-11-2020,17-11-2021,8,2
+2210,soda,464,580,,,17-11-2020,18-11-2021,12,9
+2211,detergent,184,215,,,18-11-2020,19-11-2021,12,7
+2212,grapes,44,60,,,19-11-2020,20-11-2021,1,1
+2213,processed cheese,74,93,,,20-11-2020,21-11-2021,3,2
+2214,fish,891,990,,,21-11-2020,22-11-2021,1,1
+2215,curd,36,45,,,24-11-2020,25-05-2021,1,1
+2216,pasta,10,25,,,25-11-2020,26-11-2021,3,2
+2217,popcorn,90,115,,,26-11-2020,27-11-2021,1,1
+2218,dessert,150,213,,,30-11-2020,01-12-2021,2,1
+2219,dog food,20,48,,,01-12-2020,02-12-2021,6,2
+2220,specialty chocolate,81,105,,,02-12-2020,03-12-2021,9,3
+2221,condensed milk,49,99,,,03-12-2020,04-12-2021,9,5
+2222,cleaner,1827,2150,,,04-12-2020,05-12-2021,12,9
+2223,meat,88,125,,,06-12-2020,07-12-2022,1,1
+2224,ice cream,816,825,,,07-12-2020,08-12-2021,1,1
+2225,hard cheese,40,85,,,08-12-2020,09-12-2021,2,1
+2226,cream cheese ,324,360,,,09-12-2020,10-12-2021,1,1
+2227,pickled vegetables,230,300,,,11-12-2020,12-12-2021,9,6
+2228,UHT-milk,72,120,,,13-12-2020,14-02-2021,1,1
+2229,candy,381,410,,,14-12-2020,15-02-2021,9,3
+2230,onions,275,290,,,15-12-2020,16-12-2021,1,1
+2231,hair spray,200,258,,,16-12-2020,17-12-2021,12,5
+2232,domestic eggs,115,189,,,18-12-2020,19-12-2021,1,1
+2233,salt,299,549,,,21-12-2020,22-12-2022,3,1
+2234,oil,250,399,,,22-12-2020,23-12-2021,3,3
+2235,whipped/sour cream,423,465,,,23-12-2020,24-12-2021,6,3
+2236,frozen vegetables,301,435,,,24-12-2020,25-12-2021,6,3
+2237,sliced cheese,120,138,,,25-12-2020,26-12-2021,6,3
+2238,dish cleaner,134,149,,,26-12-2020,27-12-2021,12,8
+2239,baking powder,78,85,,,27-12-2020,28-12-2021,6,2
+2240,specialty cheese,35,40,,,28-12-2020,29-05-2021,3,1
+2241,salty snack,10,25,,,29-12-2020,30-12-2021,3,2
+2242,Instant food products,312,340,,,30-12-2020,31-12-2021,3,2
+2243,white bread,19,30,,,01-01-2021,02-01-2022,1,1
+2244,female sanitary products,36,51,,,02-01-2021,03-01-2022,3,1
+2245,soap,126,150,,,04-01-2021,05-01-2024,12,5
+2246,frozen chicken,224,249,,,05-01-2021,06-01-2022,1,1
+2247,spread cheese,42,75,,,07-01-2021,08-01-2022,2,1
+2248,frozen dessert,143,169,,,09-01-2021,10-01-2022,2,1
+2249,vinegar,544,550,,,10-01-2021,11-01-2023,3,2
+2250,nuts/prunes,467,550,,,11-01-2021,12-01-2022,9,3
+2251,potato products,500,565,,,12-01-2021,13-01-2022,6,2
+2252,frozen fish,21,35,,,13-01-2021,14-01-2022,6,3
+2253,chewing gum,102,120,,,18-01-2021,19-01-2022,1,1
+2254,canned fish,914,975,,,19-01-2021,20-01-2022,6,1
+2255,semi-finished bread,80,160,,,21-01-2021,22-01-2022,1,1
+2256,bathroom cleaner,68,80,,,23-01-2021,24-01-2022,12,5
+2257,liver loaf,174,299,,,25-01-2021,26-01-2022,3,3
+2258,canned fruit,142,168,,,27-01-2021,28-01-2022,6,1
+2259,frozen fruits,93,120,,,28-01-2021,29-01-2022,6,2
+2260,spices,364,450,,,31-01-2021,01-02-2022,6,1
+2261,waffles,20,95,,,02-02-2021,03-02-2022,6,3
+2262,sauces,533,650,,,03-02-2021,04-02-2022,6,1
+2263,chocolate marshmallow,25,45,,,05-02-2021,06-02-2023,6,1
+2264,soups,44,63,,,09-02-2021,10-02-2022,6,2
+2265,mustard,100,125,,,10-02-2021,11-02-2022,6,1
+2266,specialty fat,100,138,,,11-02-2021,12-02-2022,6,1
+2267,instant coffee,72,160,,,12-02-2021,13-02-2022,6,3
+2268,snack products,184,250,,,13-02-2021,14-02-2022,6,3
+2269,organic sausage,125,250,,,14-02-2021,15-02-2023,6,1
+2270,soft cheese,224,249,,,15-02-2021,16-02-2023,6,2
+2271,mayonnaise,47,50,,,16-02-2021,17-02-2022,6,2
+2272,cereals,109,200,,,21-02-2021,22-02-2022,6,2
+2273,meat spreads,161,195,,,22-02-2021,23-02-2022,6,3
+2274,dishes,312,340,,,23-02-2021,24-02-2023,6,3
+2275,male cosmetics,50,100,,,24-02-2021,25-02-2022,6,1
+2276,candles,45,60,,,25-02-2021,26-02-2022,6,3
+2277,whisky,22,25,,,26-02-2021,27-02-2022,6,3
+2278,tidbits,500,799,,,27-02-2021,28-02-2023,6,3
+2279,cooking chocolate,10,25,,,28-02-2021,01-03-2022,6,3
+2280,seasonal products,580,1160,,,01-03-2021,02-03-2022,6,1
+2281,liqueur,94,135,,,02-03-2021,03-03-2022,6,3
+2282,abrasive cleaner,190,213,,,03-03-2021,04-03-2022,6,3
+2283,syrup,60,120,,,04-03-2021,05-03-2022,6,1
+2284,ketchup,261,315,,,05-03-2021,06-03-2022,6,2
+2285,cream,280,310,,,06-03-2021,07-03-2022,6,3
+2286,skin care,1092,1150,,,07-03-2021,08-03-2022,6,3
+2287,rubbing alcohol,430,485,,,08-03-2021,09-03-2022,6,3
+2288,nut snack,109,219,,,09-03-2021,10-03-2022,6,3
+2289,cocoa drinks,119,150,,,10-03-2021,11-03-2022,6,2
+2290,softener,1827,2150,,,11-03-2021,12-03-2022,6,2
+2291,organic products,168,170,,,12-03-2021,13-03-2022,6,1
+2292,cake bar,63,105,,,13-03-2021,14-03-2022,6,2
+2293,honey,165,184,,,14-03-2021,15-03-2022,6,1
+2294,jam,464,580,,,15-03-2021,16-03-2022,6,2
+2295,flower (seeds),22,40,,,17-03-2021,18-03-2022,6,2
+2296,rice,55,60,,,18-03-2021,19-03-2022,12,5
+2297,tea,10,28,,,19-03-2021,20-03-2023,6,1
+2298,salad dressing,142,168,,,20-03-2021,21-03-2022,1,1
+2299,specialty vegetables,85,150,,,21-03-2021,22-03-2022,1,1
+2300,pudding powder,23,40,,,22-03-2021,23-03-2022,2,1
+2301,ready soups,173,193,,,23-03-2021,24-03-2022,2,1
+2302,make up remover,1827,2150,,,24-03-2021,25-03-2022,12,8
+2303,toilet cleaner,27,30,,,25-03-2021,26-03-2022,12,9
+2304,preservation products,126,200,,,26-03-2021,27-03-2022,9,3
